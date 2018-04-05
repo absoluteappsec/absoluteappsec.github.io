@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+	<title>Absolute AppSec</title>
+	<link>https://absoluteappsec.com</link>
+	<description>A weekly podcast of all things application security related. Hosted by Ken Johnson and Seth Law.</description>
+	<image>
+		<url>https://absoluteappsec.com/img/logo.png</url>
+		<link>https://absoluteappsec.com</link>
+	</image>
+	<item>
+		<title>Episode 1</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_1.mp3</link>
+		<description>Introductions with Seth & Ken</description>
+	</item>
+	<item>
+		<title>Episode 2</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_2.mp3</link>
+		<description>Weekly discussion</description>
+	</item>
+	<item>
+		<title>Episode 3</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_3.mp3</link>
+		<description>Featuring Guest Jerry Gamblin</description>
+	</item>
+	<item>
+		<title>Episode 4</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_4.mp3</link>
+		<description>Featuring Guest Evan Johnson</description>
+	</item>
+	<item>
+		<title>Episode 5</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_5.mp3</link>
+		<description>Featuring Guests Stefan Edwards & David Coursey</description>
+	</item>
+	<item>
+		<title>Episode 6</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_6.mp3</link>
+		<description>Featuring Guest Kevin Cody</description>
+	</item>
+	<item>
+		<title>Episode 7</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_7.mp3</link>
+		<description>Seth & Ken discuss current events</description>
+	</item>
+	<item>
+		<title>Episode 8</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_8.mp3</link>
+		<description>Featuring Guest Neil Matatal</description>
+	</item>
+	<item>
+		<title>Episode 9</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_9.mp3</link>
+		<description>Seth & Ken talk with Jason Haddix about bug bounties</description>
+	</item>
+	<item>
+		<title>Episode 10</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_10.mp3</link>
+		<description>Jimmy Mesta joins Seth & Ken to talk about Kubernetes and Container security.</description>
+	</item>
+	<item>
+		<title>Episode 11</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_11.mp3</link>
+		<description>David Coursey & Stefan Edwards reprise their discussion with Ken & Seth</description>
+	</item>
+	<item>
+		<title>Episode 12</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_12.mp3</link>
+		<description>Ken & Justin Collins join from LocoMocoSec to discuss static analyzers</description>
+	</item>
+</channel>
