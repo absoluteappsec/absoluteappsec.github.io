@@ -5,6 +5,7 @@
 <channel>
 	<title>Absolute AppSec</title>
 	<link>https://absoluteappsec.com</link>
+	<language>en-us</language>
 	<itunes:author>Ken Johnson and Seth Law</itunes:author>
 	<itunes:category text="Technology">
             <itunes:category text="Information Technology"/>
@@ -16,103 +17,122 @@
 	<atom:link href="https://absoluteappsec.com/rss.xml" rel="self" type="application/rss+xml" />
 	<description>A weekly podcast of all things application security related. Hosted by Ken Johnson and Seth Law.</description>
 	<image>
-		<url>https://absoluteappsec.com/img/logo.png</url>
+		<url>https://absoluteappsec.com/img/logo_1600x1600.jpg</url>
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
 	<item>
 		<title>Episode 1</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_1.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_1.mp3" length="39829042" type="audio/x-mp3"/>
 		<description>Introductions with Seth and Ken</description>
 	</item>
 	<item>
 		<title>Episode 2</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_2.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_2.mp3" length="33976116" type="audio/x-mp3"/>
 		<description>Weekly discussion</description>
 	</item>
 	<item>
 		<title>Episode 3</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_3.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_3.mp3" length="42432707" type="audio/x-mp3"/>
 		<description>Featuring Guest Jerry Gamblin</description>
 	</item>
 	<item>
 		<title>Episode 4</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_4.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_4.mp3" length="49112464" type="audio/x-mp3"/>
 		<description>Featuring Guest Evan Johnson</description>
 	</item>
 	<item>
 		<title>Episode 5</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_5.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_5.mp3" length="43216313" type="audio/x-mp3"/>
 		<description>Featuring Guests Stefan Edwards and David Coursey</description>
 	</item>
 	<item>
 		<title>Episode 6</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_6.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_6.mp3" length="41539101" type="audio/x-mp3"/>
 		<description>Featuring Guest Kevin Cody</description>
 	</item>
 	<item>
 		<title>Episode 7</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_7.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_7.mp3" length="34375783" type="audio/x-mp3"/>
 		<description>Seth and Ken discuss current events</description>
 	</item>
 	<item>
 		<title>Episode 8</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_8.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_8.mp3" length="43236030" type="audio/x-mp3"/>
 		<description>Featuring Guest Neil Matatal</description>
 	</item>
 	<item>
 		<title>Episode 9</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_9.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_9.mp3" length="39070509" type="audio/x-mp3"/>
 		<description>Seth and Ken talk with Jason Haddix about bug bounties</description>
 	</item>
 	<item>
 		<title>Episode 10</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_10.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_10.mp3" length="43255537" type="audio/x-mp3"/>
 		<description>Jimmy Mesta joins Seth and Ken to talk about Kubernetes and Container security.</description>
 	</item>
 	<item>
 		<title>Episode 11</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_11.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_11.mp3" length="43782587" type="audio/x-mp3"/>
 		<description>David Coursey and Stefan Edwards reprise their discussion with Ken and Seth</description>
 	</item>
 	<item>
 		<title>Episode 12</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_12.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_12.mp3" length="55921342" type="audio/x-mp3"/>
 		<description>Ken and Justin Collins join from LocoMocoSec to discuss static analyzers</description>
 	</item>
 	<item>
 		<title>Episode 13</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_13.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_13.mp3" length="49715464" type="audio/x-mp3"/>
 		<description>Charles Nwatu joins Ken and Seth</description>
 	</item>
 	<item>
 		<title>Episode 14</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_14.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_14.mp3" length="49052517" type="audio/x-mp3"/>
 		<description>Karthik Gaekwad joins Ken and Seth</description>
 	</item>
 	<item>
 		<title>Episode 15</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_15.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_15.mp3" length="50749728" type="audio/x-mp3"/>
 		<description>Kevin Codey joins Ken and Seth to talk about mobile security testing</description>
 	</item>
 	<item>
 		<title>Episode 16</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_16.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_16.mp3" length="37437237" type="audio/x-mp3"/>
 		<description>Ken and Seth talk about hipster languages and frameworks</description>
 	</item>
 	<item>
 		<title>Episode 17</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_17.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_17.mp3" length="20683571" type="audio/x-mp3"/>
 		<description>Ken and Seth talk about current news (Efail) and CSRF Tokens</description>
 	</item>
 	<item>
 		<title>Episode 18</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_18.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_18.mp3" length="47816120" type="audio/x-mp3"/>
 		<description>Ken and Seth are joined by Chris Gates to talk about Purple Teaming and the WeirdAAL tool</description>
 	</item>
 	<item>
 		<title>Episode 19</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_19.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_19.mp3" length="45114772" type="audio/x-mp3"/>
 		<description>Ken and Seth talk about current events, submitting CFPs, and more</description>
 	</item>
 </channel>
