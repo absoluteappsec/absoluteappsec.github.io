@@ -3,6 +3,8 @@
 <channel>
 	<title>Absolute AppSec</title>
 	<link>https://absoluteappsec.com</link>
+	<itunes:author>Ken Johnson and Seth Law</itunes:author>
+	<itunes:email>absoluteappsec@gmail.com</itunes:email>
 	<atom:link href="https://absoluteappsec.com/rss.xml" rel="self" type="application/rss+xml" />
 	<description>A weekly podcast of all things application security related. Hosted by Ken Johnson and Seth Law.</description>
 	<image>
