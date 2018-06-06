@@ -12,7 +12,7 @@
 	<item>
 		<title>Episode 1</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_1.mp3</link>
-		<description>Introductions with Seth & Ken</description>
+		<description>Introductions with Seth and Ken</description>
 	</item>
 	<item>
 		<title>Episode 2</title>
@@ -32,7 +32,7 @@
 	<item>
 		<title>Episode 5</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_5.mp3</link>
-		<description>Featuring Guests Stefan Edwards & David Coursey</description>
+		<description>Featuring Guests Stefan Edwards and David Coursey</description>
 	</item>
 	<item>
 		<title>Episode 6</title>
@@ -42,7 +42,7 @@
 	<item>
 		<title>Episode 7</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_7.mp3</link>
-		<description>Seth & Ken discuss current events</description>
+		<description>Seth and Ken discuss current events</description>
 	</item>
 	<item>
 		<title>Episode 8</title>
@@ -52,56 +52,56 @@
 	<item>
 		<title>Episode 9</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_9.mp3</link>
-		<description>Seth & Ken talk with Jason Haddix about bug bounties</description>
+		<description>Seth and Ken talk with Jason Haddix about bug bounties</description>
 	</item>
 	<item>
 		<title>Episode 10</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_10.mp3</link>
-		<description>Jimmy Mesta joins Seth & Ken to talk about Kubernetes and Container security.</description>
+		<description>Jimmy Mesta joins Seth and Ken to talk about Kubernetes and Container security.</description>
 	</item>
 	<item>
 		<title>Episode 11</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_11.mp3</link>
-		<description>David Coursey & Stefan Edwards reprise their discussion with Ken & Seth</description>
+		<description>David Coursey and Stefan Edwards reprise their discussion with Ken and Seth</description>
 	</item>
 	<item>
 		<title>Episode 12</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_12.mp3</link>
-		<description>Ken & Justin Collins join from LocoMocoSec to discuss static analyzers</description>
+		<description>Ken and Justin Collins join from LocoMocoSec to discuss static analyzers</description>
 	</item>
 	<item>
 		<title>Episode 13</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_13.mp3</link>
-		<description>Charles Nwatu joins Ken & Seth</description>
+		<description>Charles Nwatu joins Ken and Seth</description>
 	</item>
 	<item>
 		<title>Episode 14</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_14.mp3</link>
-		<description>Karthik Gaekwad joins Ken & Seth</description>
+		<description>Karthik Gaekwad joins Ken and Seth</description>
 	</item>
 	<item>
 		<title>Episode 15</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_15.mp3</link>
-		<description>Kevin Codey joins Ken & Seth to talk about mobile security testing</description>
+		<description>Kevin Codey joins Ken and Seth to talk about mobile security testing</description>
 	</item>
 	<item>
 		<title>Episode 16</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_16.mp3</link>
-		<description>Ken & Seth talk about hipster languages and frameworks</description>
+		<description>Ken and Seth talk about hipster languages and frameworks</description>
 	</item>
 	<item>
 		<title>Episode 17</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_17.mp3</link>
-		<description>Ken & Seth talk about current news (Efail) and CSRF Tokens</description>
+		<description>Ken and Seth talk about current news (Efail) and CSRF Tokens</description>
 	</item>
 	<item>
 		<title>Episode 18</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_18.mp3</link>
-		<description>Ken & Seth are joined by Chris Gates to talk about Purple Teaming and the WeirdAAL tool</description>
+		<description>Ken and Seth are joined by Chris Gates to talk about Purple Teaming and the WeirdAAL tool</description>
 	</item>
 	<item>
 		<title>Episode 19</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_19.mp3</link>
-		<description>Ken & Seth talk about current events, submitting CFPs, and more</description>
+		<description>Ken and Seth talk about current events, submitting CFPs, and more</description>
 	</item>
 </channel>
