@@ -68,4 +68,39 @@
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_12.mp3</link>
 		<description>Ken & Justin Collins join from LocoMocoSec to discuss static analyzers</description>
 	</item>
+	<item>
+		<title>Episode 13</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_13.mp3</link>
+		<description>Charles Nwatu joins Ken & Seth</description>
+	</item>
+	<item>
+		<title>Episode 14</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_14.mp3</link>
+		<description>Karthik Gaekwad joins Ken & Seth</description>
+	</item>
+	<item>
+		<title>Episode 15</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_15.mp3</link>
+		<description>Kevin Codey joins Ken & Seth to talk about mobile security testing</description>
+	</item>
+	<item>
+		<title>Episode 16</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_16.mp3</link>
+		<description>Ken & Seth talk about hipster languages and frameworks</description>
+	</item>
+	<item>
+		<title>Episode 17</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_17.mp3</link>
+		<description>Ken & Seth talk about current news (Efail) and CSRF Tokens</description>
+	</item>
+	<item>
+		<title>Episode 18</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_18.mp3</link>
+		<description>Ken & Seth are joined by Chris Gates to talk about Purple Teaming and the WeirdAAL tool</description>
+	</item>
+	<item>
+		<title>Episode 19</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_19.mp3</link>
+		<description>Ken & Seth talk about current events, submitting CFPs, and more</description>
+	</item>
 </channel>
