@@ -161,6 +161,13 @@
 		<pubDate>Tue, 19 Jun 2018 21:00:00 -0700</pubDate>
 		<description>Ken and Seth talk more about authentication, JWTs and everything that is wrong with both of them.</description>
 	</item>
+	<item>
+		<title>Episode 21: Alex Smolen</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_21.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_21.mp3" length="44035608" type="audio/x-mp3"/>
+		<pubDate>Tue, 21 Jun 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Alex Smolen (@alsmola) to talk about current events, cloudtrail audit, and webauthn.</description>
+	</item>
 </channel>
 
 </rss>
