@@ -206,6 +206,14 @@
 		<description>Ken and Seth are joined by Ken Toler (@relotnek) and talk security champions and security program management.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 24: Jason White</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_24.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_24.mp3" length="37117812" type="audio/x-mp3"/>
+		<pubDate>Tue, 17 Jul 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Jason White (@misfir3) and talk about transitioning from a developer to an application security professional.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
