@@ -214,6 +214,14 @@
 		<description>Ken and Seth are joined by Jason White (@misfir3) and talk about transitioning from a developer to an application security professional.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 25: Scott Piper</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_25.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_25.mp3" length="38578510" type="audio/x-mp3"/>
+		<pubDate>Tue, 24 Jul 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Scott Piper (@0xdabbad00) and talk AWS Security, including https://flaws.cloud, cloud mapper, and cloud tracker projects.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
