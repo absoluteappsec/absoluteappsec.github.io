@@ -238,6 +238,14 @@
 		<description>Ken and Seth are joined by Jim Manico (@manicode) RAW, training, OWASP, code security, and all things AppSec. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 28: Astha Singhal</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_28.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_28.mp3" length="37666112" type="audio/x-mp3"/>
+		<pubDate>Tue, 21 Aug 2018 21:00:00 -0700</pubDate>
+		<description>Astha Singhal (@astha_singhal) joins Ken and Seth to talk automating application security and bug bounties. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
