@@ -246,6 +246,14 @@
 		<description>Astha Singhal (@astha_singhal) joins Ken and Seth to talk automating application security and bug bounties. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 29: Matt Tesauro</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_29.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_29.mp3" length="45897650" type="audio/x-mp3"/>
+		<pubDate>Tue, 28 Aug 2018 21:00:00 -0700</pubDate>
+		<description>Matt Tesauro (@matt_tesauro) talks OWASP, community involvement, Defect Dojo, and the AppSec Pipeline toolbox with Ken and Seth. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
