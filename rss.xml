@@ -254,6 +254,14 @@
 		<description>Matt Tesauro (@matt_tesauro) talks OWASP, community involvement, Defect Dojo, and the AppSec Pipeline toolbox with Ken and Seth. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 30: Dave Ferguson</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_30.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_30.mp3" length="45319257" type="audio/x-mp3"/>
+		<pubDate>Tue, 04 Sep 2018 21:00:00 -0700</pubDate>
+		<description>Dave Ferguson (@_sc0rn) talks about the futility of developer training, initial discovery of CSRF in on netflix.com, and application scanning with Ken and Seth. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
