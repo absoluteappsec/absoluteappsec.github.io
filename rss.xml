@@ -262,6 +262,14 @@
 		<description>Dave Ferguson (@_sc0rn) talks about the futility of developer training, initial discovery of CSRF in on netflix.com, and application scanning with Ken and Seth. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 31: Rob Fuller</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_31.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_31.mp3" length="42466499" type="audio/x-mp3"/>
+		<pubDate>Tue, 11 Sep 2018 21:00:00 -0700</pubDate>
+		<description>Practical advice on submitting and writing effective findings for bug bounties and reports. Rob Fuller (@mubix) talks about his path into security, CCDC, volunteerism, NoVA Hackers and more. </description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
