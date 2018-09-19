@@ -270,6 +270,14 @@
 		<description>Practical advice on submitting and writing effective findings for bug bounties and reports. Rob Fuller (@mubix) talks about his path into security, CCDC, volunteerism, NoVA Hackers and more. </description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 32: Eric Johnson</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_32.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_32.mp3" length="46032666" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 Sep 2018 21:00:00 -0700</pubDate>
+		<description>Setup tips for starting an assessment with Burp Suite Professional. Eric Johnson (@emjohn20) talks with Ken and Seth about Roslyn, building Puma Scan, SANS, and more. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
