@@ -278,6 +278,14 @@
 		<description>Setup tips for starting an assessment with Burp Suite Professional. Eric Johnson (@emjohn20) talks with Ken and Seth about Roslyn, building Puma Scan, SANS, and more. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 33: John Melton</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_33.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_33.mp3" length="58456845" type="audio/x-mp3"/>
+		<pubDate>Tue, 02 Oct 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken go over fully vetting functions during code reviews. John Melton (@_jtmelton) talks with Ken and Seth about static analysis tools, building an appsec program, open source, and more. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
