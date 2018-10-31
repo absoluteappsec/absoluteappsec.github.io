@@ -286,6 +286,14 @@
 		<description>Seth and Ken go over fully vetting functions during code reviews. John Melton (@_jtmelton) talks with Ken and Seth about static analysis tools, building an appsec program, open source, and more. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 34: Stefan Edwards</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_34.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_34.mp3" length="43810825" type="audio/x-mp3"/>
+		<pubDate>Tue, 30 Oct 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined last minute by Stefan Edwards (@lojikil) to talk about security unit tests, fuzzing, and all things you will need to google later on. Blockchains and secure contracts are introduced and somewhat explained. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
