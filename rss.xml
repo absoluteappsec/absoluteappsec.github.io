@@ -294,6 +294,14 @@
 		<description>Seth and Ken are joined last minute by Stefan Edwards (@lojikil) to talk about security unit tests, fuzzing, and all things you will need to google later on. Blockchains and secure contracts are introduced and somewhat explained. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 35: Travis McPeak</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_35.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_35.mp3" length="36942302" type="audio/x-mp3"/>
+		<pubDate>Tue, 06 Nov 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss server side request forgery and then pick Travis McPeak's (@travismcpeak) brain about AWS security, his path into security, QA testing, and Netflix cloud security tools. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
