@@ -302,6 +302,14 @@
 		<description>Seth and Ken discuss server side request forgery and then pick Travis McPeak's (@travismcpeak) brain about AWS security, his path into security, QA testing, and Netflix cloud security tools. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 36: Mike McCabe</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_36.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_36.mp3" length="42994044" type="audio/x-mp3"/>
+		<pubDate>Tue, 13 Nov 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss cross-site scripting and input validation/output encoding findings. Later joined by Mike McCabe's (@mccabe615) talking about cloud security, building an appsec program, interviews (both for and against) and CHRISTMAS. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
