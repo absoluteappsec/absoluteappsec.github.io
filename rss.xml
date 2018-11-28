@@ -318,6 +318,14 @@
 		<description>Seth and Ken discuss security gifts for appsec peeps. Joined by Stefan Edwards (@lojikil) to talk about his origin story (Seth gets bagged on), formal verification, and a multitude of other topics. </description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 38: Matt Konda</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_38.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_38.mp3" length="46600766" type="audio/x-mp3"/>
+		<pubDate>Tue, 27 Nov 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss node packages and event_stream fallout. Matt Konda (@mkonda) joins to talk about OWASP, the Glue tool, Jemurai and his origin story and other topics. </description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
