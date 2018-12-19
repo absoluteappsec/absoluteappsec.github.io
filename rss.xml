@@ -342,6 +342,14 @@
 		<description>Seth and Ken talk through secure code reviews and assessment scoping, more on breaches, the Google congressional hearings and more.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 41: Hidden File/Dir Enumeration and Will Bengtson</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_41.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_41.mp3" length="38781912" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 Dec 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss hidden file and directory enumertaion. Joined by Will Bengtson to talk AWS and cloud security, including cloudtrail and trailblazer.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
