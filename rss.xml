@@ -347,7 +347,15 @@
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_41.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_41.mp3" length="38781912" type="audio/x-mp3"/>
 		<pubDate>Tue, 18 Dec 2018 21:00:00 -0700</pubDate>
-		<description>Seth and Ken discuss hidden file and directory enumertaion. Joined by Will Bengtson to talk AWS and cloud security, including cloudtrail and trailblazer.</description>
+		<description>Seth and Ken discuss hidden file and directory enumeration. Joined by Will Bengtson to talk AWS and cloud security, including cloudtrail and trailblazer.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 42: SSRF Rebinding and Segment Team (Leif Dreizler & David Scrobonia)</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_42.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_42.mp3" length="42870336" type="audio/x-mp3"/>
+		<pubDate>Tue, 08 Jan 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss SSRF Rebinding defenses with Segment (Leif, David, and Achille). Additional topics include password complexity, password resets, and using Troy Hunt's breach database.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
 </channel>
