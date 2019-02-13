@@ -382,6 +382,14 @@
 		<description>Seth and Ken are joined by Sean Poris (@skp00) of Verizon Media to talk about making the most of a bug bounty program, Sean's path into application security from his budding time as a biologist, and strategies on managing a large application security program. Sean also talks about methods he has used for finding and developing application security engineers.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 46: Fuzzing, Frameworks, Training and Daniel Miessler</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_46.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_46.mp3" length="48542250" type="audio/x-mp3"/>
+		<pubDate>Tue, 12 Feb 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about the recent release of ClusterFuzz by Google. Joined by Daniel Miessler (@Daniel Miessler) to talk about the SecLists project, how it relates to fuzzing, training developers and his path into security.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
