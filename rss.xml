@@ -390,6 +390,14 @@
 		<description>Seth and Ken talk about the recent release of ClusterFuzz by Google. Joined by Daniel Miessler (@Daniel Miessler) to talk about the SecLists project, how it relates to fuzzing, training developers and his path into security.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 47: Mapping Application Source Code, Mobile OWASP Top 10, Mobile Application Testing, and Kevin Cody</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_47.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_47.mp3" length="44392976" type="audio/x-mp3"/>
+		<pubDate>Tue, 19 Feb 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken review steps taken during a secure code review to map out an application. Joined by Kevin Cody (@kevcody) to talk mobile application testing, OWASP Mobile Top 10, what devices to use when performing these tests and how python is awesome.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
