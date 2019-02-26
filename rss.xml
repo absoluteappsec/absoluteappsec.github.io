@@ -398,6 +398,14 @@
 		<description>Seth and Ken review steps taken during a secure code review to map out an application. Joined by Kevin Cody (@kevcody) to talk mobile application testing, OWASP Mobile Top 10, what devices to use when performing these tests and how python is awesome.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 48: .dev domains, Kubernetes Secrets, Threat Modeling as Code, OWASP Glue Project and Omer Levi Hevroni </title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_48.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_48.mp3" length="40127897" type="audio/x-mp3"/>
+		<pubDate>Tue, 26 Feb 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss recent events with the .dev domain and why developers should care. Omer Levi Hevroni (@omerlh) stops by to talk about the OWASP Glue Project, the Kamus project for managing Kubernetes secrets, and Threat Modeling as code. Also .Net.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
