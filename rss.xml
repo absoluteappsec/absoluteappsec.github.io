@@ -406,6 +406,14 @@
 		<description>Seth and Ken discuss recent events with the .dev domain and why developers should care. Omer Levi Hevroni (@omerlh) stops by to talk about the OWASP Glue Project, the Kamus project for managing Kubernetes secrets, and Threat Modeling as code. Also .Net.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 49: Subdomain Takeovers, DNS SSRF, Oauth Best Practices, Top 10 Web Hacking Techniques of 2019 </title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_49.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_49.mp3" length="33825692" type="audio/x-mp3"/>
+		<pubDate>Tue, 05 Mar 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken talk through subdomain takeovers vulnerabilities at large companies and identification of DNS SSRF. Ken walks through a few oauth best practices. A look at the Portswigger list of Top 10 Web Hacking Techniques of 2019.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
