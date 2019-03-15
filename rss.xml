@@ -411,7 +411,15 @@
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_49.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_49.mp3" length="33825692" type="audio/x-mp3"/>
 		<pubDate>Tue, 05 Mar 2019 16:00:00 -0700</pubDate>
-		<description>Seth and Ken talk through subdomain takeovers vulnerabilities at large companies and identification of DNS SSRF. Ken walks through a few oauth best practices. A look at the Portswigger list of Top 10 Web Hacking Techniques of 2019.</description>
+		<description>Seth and Ken talk through subdomain takeovers vulnerabilities at large companies and identification of DNS SSRF. Ken walks through a few oauth best practices. A look at the Portswigger list of Top 10 Web Hacking Techniques of 2018.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 50: Static Analysis Tools, DevSecOps, Secure Code Training with Eric Heitzman </title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_50.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_50.mp3" length="37948077" type="audio/x-mp3"/>
+		<pubDate>Tue, 12 Mar 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about number 8 in the top web hacking techniques of 2018. Discussions on static analysis tools and approach to usidng them. Eric Heitzman joins to talk about his background, DevSecOps, secure code training and more.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
 </channel>
