@@ -422,6 +422,14 @@
 		<description>Seth and Ken talk about number 8 in the top web hacking techniques of 2018. Discussions on static analysis tools and approach to usidng them. Eric Heitzman joins to talk about his background, DevSecOps, secure code training and more.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 51: XXE review and techniques, Assessment Reporting and Process with Jessica Ryan</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_51.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_51.mp3" length="33442914" type="audio/x-mp3"/>
+		<pubDate>Tue, 19 Mar 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about new techniques for exploiting XXE, number 7 in the top web hacking techniques of 2018. Discussions on assessment process, including reporting, note taking and soft skills with Jessica Ryan.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
