@@ -430,6 +430,14 @@
 		<description>Seth and Ken talk about new techniques for exploiting XXE, number 7 in the top web hacking techniques of 2018. Discussions on assessment process, including reporting, note taking and soft skills with Jessica Ryan.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 52: Serialization Vulns, Managing Careers, and Hacking your Happiness with Chris Gates</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_52.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_52.mp3" length="55135728" type="audio/x-mp3"/>
+		<pubDate>Tue, 26 Mar 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about serialization vulnerabilities, number 6 in the top web hacking techniques of 2018. Discussions on continuous integration, hacking jenkins, reading code to find vulns, maintaining your edge, career growth, and hacking your happiness with Chris Gates.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
