@@ -438,6 +438,14 @@
 		<description>Seth and Ken talk about serialization vulnerabilities, number 6 in the top web hacking techniques of 2018. Discussions on continuous integration, hacking jenkins, reading code to find vulns, maintaining your edge, career growth, and hacking your happiness with Chris Gates.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 53: Building AppSec at Github with Greg Ose</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_53.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_53.mp3" length="40881656" type="audio/x-mp3"/>
+		<pubDate>Tue, 02 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken talk AppCache vulnerabilities and postMessage exploits from PortSwigger's Top 10 web hacking techniques of 2018. Greg Ose joins them to talk about building application security programs, developer involvement, his background, and product security at Github.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
