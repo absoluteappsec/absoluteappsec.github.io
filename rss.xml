@@ -462,6 +462,14 @@
 		<description>Seth is joined once again by Stefan Edwards. First in the series "Lojikil ruins Infosec". Ken is at LocomocoSec in Hawaii, so Seth and Stefan (@lojikil) talk all things testing, including symbolic execution, fuzzing, and why everything is awful. Seth becomes a nihilist.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 56: Learn to Code / Loco Moco Sec Recap</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_56.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_56.mp3" length="38268812" type="audio/x-mp3"/>
+		<pubDate>Tue, 23 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken get back together to talk about Loco Moco Sec and recent industry news. Specifically, should all security people be able to code? Is it a strict requirement? Ken gives his take on the talks from LocomocoSec and why we should all be there in 2020.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
