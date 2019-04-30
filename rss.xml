@@ -470,6 +470,14 @@
 		<description>Seth and Ken get back together to talk about Loco Moco Sec and recent industry news. Specifically, should all security people be able to code? Is it a strict requirement? Ken gives his take on the talks from LocomocoSec and why we should all be there in 2020.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 57: OWASP WIA (Women in AppSec) Committee</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_57.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_57.mp3" length="34228545" type="audio/x-mp3"/>
+		<pubDate>Tue, 30 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by the OWASP WIA (Women in AppSec, @owaspwia) Committee. We discuss diversity in security and how the committee and OWASP is making the community more inclusive. Topics include first security conferences, how to get involved, and more.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
