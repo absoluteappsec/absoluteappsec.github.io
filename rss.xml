@@ -502,6 +502,14 @@
 		<description>Seth is joined once again by Stefan Edwards to talk about current events and ruin another portion of information security. Topics include Huawei, Android Security, and Programming Languages.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 61: Tanja Janca, DevSlop, Diversity, and Inclusion</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_61.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_61.mp3" length="41822086" type="audio/x-mp3"/>
+		<pubDate>Tue, 11 Jun 2019 11:00:00 -0700</pubDate>
+		<description>Based on demand, Seth and Ken are joined by Tanya Janca (@shehackspurple) to talk about all things OWASP, travel, and experinces. Topics include OWASP DevSlop, diversity, and inclusion</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
