@@ -510,6 +510,14 @@
 		<description>Based on demand, Seth and Ken are joined by Tanya Janca (@shehackspurple) to talk about all things OWASP, travel, and experinces. Topics include OWASP DevSlop, diversity, and inclusion</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 62: Abdullah Munawar, Ben Pick, Global AppSec DC, and Running an OWASP Chapter</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_62.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_62.mp3" length="45028251" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 Jun 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken welcome Abdullah Munawar and Ben Pick to the show. They discuss their path into application security, current roles, and OWASP involvement. Specifically, Abdullah and Ben talk about running the OWASP NoVA chapter and challenges in organizing the Global AppSec DC conference.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
