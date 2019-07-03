@@ -518,6 +518,14 @@
 		<description>Seth and Ken welcome Abdullah Munawar and Ben Pick to the show. They discuss their path into application security, current roles, and OWASP involvement. Specifically, Abdullah and Ben talk about running the OWASP NoVA chapter and challenges in organizing the Global AppSec DC conference.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 63: Julian Berton, AppSec Day, Developer Training, and Security Standards</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_63.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_63.mp3" length="48945756" type="audio/x-mp3"/>
+		<pubDate>Tue, 02 Jul 2019 11:00:00 -0700</pubDate>
+		<description>Julian Berton joins Seth and Ken to talk about Developer Training, Security Standards and AppSec Day, a global Application Security conference in Melbourne, Australia. They also discuss the latest lodash vulnerability and Boeing's outsourcing of developers.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
