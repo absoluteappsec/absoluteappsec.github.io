@@ -526,6 +526,14 @@
 		<description>Julian Berton joins Seth and Ken to talk about Developer Training, Security Standards and AppSec Day, a global Application Security conference in Melbourne, Australia. They also discuss the latest lodash vulnerability and Boeing's outsourcing of developers.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 64: Hijacked Gems, Zoom RCE, and Marriott Fines</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_64.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_64.mp3" length="43992080" type="audio/x-mp3"/>
+		<pubDate>Tue, 09 Jul 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss conference proposals submissions and how to stand out. Also discussions on the latest security news, including the Zoom vulnerability disclosure, European fines for Marriott, and the latest hijacked/backdoored third-party library.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
