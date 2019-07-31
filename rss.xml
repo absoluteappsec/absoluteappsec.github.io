@@ -542,6 +542,14 @@
 		<description>Seth and Ken are joined by Adam Baldwin (@adam_baldwin) to discuss a topic we've been talking a lot about - 3rd party dependency and supply chain security. Adam gave a talk at this year's LocoMoco Security conference where he discuss fascinating and VERY relevant topics such as "developer burnout as an attack vector" as well as providing stats such as 97% of modern node applications rely on the code of 3rd party libraries. </description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 66: Capital One Breach, NPM, and Secure Code Reviews</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_66.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_66.mp3" length="40131819" type="audio/x-mp3"/>
+		<pubDate>Tue, 30 Jul 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss the latest news, including the Capital One Breach, Project Zero's recent iOS vusnerability disclosures, and further malicious NPM package takeovers. Further topics include learning who to trust and security code reviews. </description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
