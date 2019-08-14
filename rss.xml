@@ -552,10 +552,18 @@
 	</item>
 	<item>
 		<title>Episode 67: Kubernetes Security with Stefan and Bobby</title>
-		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_66.mp3</link>
-		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_67.mp3" length="111576012" type="audio/x-mp3"/>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_67.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_67.mp3" length="51031085" type="audio/x-mp3"/>
 		<pubDate>Mon, 12 Aug 2019 11:00:00 -0700</pubDate>
 		<description>Seth and Ken are joined by Stefan (@lojikil) and Bobby (@b0bbytabl3s) to talk about Kubernetes Security based on the assessment they conducted at Trail of Bits.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 68: Jerry Gamblin, DEF CON 27 Recap</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_68.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_68.mp3" length="38333370" type="audio/x-mp3"/>
+		<pubDate>Mon, 13 Aug 2019 11:00:00 -0700</pubDate>
+		<description>Jerry Gamblin (@jgamblin) joins Seth and Ken to talk about #hackersummercamp, DEF CON 27, and all things Vegas. Discussion includes NULL license plates, software bill of materials, and more.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
 </channel>
