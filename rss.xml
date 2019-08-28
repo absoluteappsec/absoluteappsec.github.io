@@ -566,6 +566,14 @@
 		<description>Jerry Gamblin (@jgamblin) joins Seth and Ken to talk about #hackersummercamp, DEF CON 27, and all things Vegas. Discussion includes NULL license plates, software bill of materials, and more.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
+	<item>
+		<title>Episode 69: Eric Ellett, Development vs. Security</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_69.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_69.mp3" length="40012203" type="audio/x-mp3"/>
+		<pubDate>Tue, 27 Aug 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by Eric Ellett (@EricEllett) to talk about software supply chain security. Development vs. Security and how to develop a good relationship with development instead of an antagonistic one.</description>h
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 </channel>
 
 </rss>
