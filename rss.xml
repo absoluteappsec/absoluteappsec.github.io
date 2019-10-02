@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 	<title>Absolute AppSec</title>
@@ -589,6 +589,14 @@
 		<pubDate>Tue, 17 Sep 2019 11:00:00 -0700</pubDate>
 		<description>Eric Johnson (@ejcx_), one of the first podcast guests to join Seth and Ken revisits to talk about recent industry revelations, including the Lastpass vulnerability from Google's Project Zero. Further discussions on Cloudflare Access and ranging topics including Coke's 80s lawsuit involving trade secrets.</description>
 		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 72: Consulting Horror Stories</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_72.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_72.mp3" length="45304632" type="audio/x-mp3"/>
+		<pubDate>Tue, 17 Sep 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken kickoff October with a discussion of consulting horror stories, both from personal experiences and listener-provided. Additional discussions around Cloudflare's WARP.</description>
+		<itunes:explicit>yes</itunes:explicit>
 	</item>
 </channel>
 
