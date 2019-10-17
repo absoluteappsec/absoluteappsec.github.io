@@ -590,12 +590,20 @@
 		<description>Eric Johnson (@ejcx_), one of the first podcast guests to join Seth and Ken revisits to talk about recent industry revelations, including the Lastpass vulnerability from Google's Project Zero. Further discussions on Cloudflare Access and ranging topics including Coke's 80s lawsuit involving trade secrets.</description>
 		<itunes:explicit>no</itunes:explicit>
 	</item>
-    <item>
+    	<item>
 		<title>Episode 72: Consulting Horror Stories</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_72.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_72.mp3" length="45304632" type="audio/x-mp3"/>
 		<pubDate>Tue, 01 Oct 2019 11:00:00 -0700</pubDate>
 		<description>Seth and Ken kickoff October with a discussion of consulting horror stories, both from personal experiences and listener-provided. Additional discussions around Cloudflare's WARP.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+    	<item>
+		<title>Episode 73: Kevin Code, CORS, and Lockpicking</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_73.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_73.mp3" length="50299280" type="audio/x-mp3"/>
+		<pubDate>Wed, 16 Oct 2019 23:00:00 -0700</pubDate>
+		<description>Kevin Cody (@kevcody) is back with Seth and Ken to talk about his collaboration with Time Tomes (@LaNMaSteR53) on CORS. Also discussions on lockpicking, travel tips, and a wide range of topics. Remember, CORS is a anti-security control.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
 </channel>
