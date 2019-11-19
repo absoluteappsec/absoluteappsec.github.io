@@ -603,7 +603,7 @@
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_73.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_73.mp3" length="50299280" type="audio/x-mp3"/>
 		<pubDate>Wed, 16 Oct 2019 23:00:00 -0700</pubDate>
-		<description>Kevin Cody (@kevcody) is back with Seth and Ken to talk about his collaboration with Time Tomes (@LaNMaSteR53) on CORS. Also discussions on lockpicking, travel tips, and a wide range of topics. Remember, CORS is a anti-security control.</description>
+		<description>Kevin Cody (@kevcody) is back with Seth and Ken to talk about his collaboration with Tim Tomes (@LaNMaSteR53) on CORS. Also discussions on lockpicking, travel tips, and a wide range of topics. Remember, CORS is a anti-security control.</description>
 		<itunes:explicit>yes</itunes:explicit>
 	</item>
     <item>
@@ -612,6 +612,14 @@
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_74.mp3" length="54797753" type="audio/x-mp3"/>
         <pubDate>Tue, 22 Oct 2019 23:00:00 -0700</pubDate>
         <description>Ernest Mueller (@ernestmueller) joins Seth and Ken to talk about the his path into technology, operations, and security. Additional discussions on the beginnings of DevOps, Security, and Cloud Computing.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 75: Brian Glas, OWASP Top 10, OWASPSAMM</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_75.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_75.mp3" length="40878193" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Nov 2019 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back! Joined in this episode by Brian Glas, aka @infosecdad, aka Professor Glas to talk about all things OWASP Top 10 2017, the path to his involvement, and how it almost split AppSec in two. Also a discussion on OWASPSAMM vs. OpenSAMM vs. BSIMM.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
