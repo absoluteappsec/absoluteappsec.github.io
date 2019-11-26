@@ -622,6 +622,14 @@
         <description>Ken and Seth are back! Joined in this episode by Brian Glas, aka @infosecdad, aka Professor Glas to talk about all things OWASP Top 10 2017, the path to his involvement, and how it almost split AppSec in two. Also a discussion on OWASPSAMM vs. OpenSAMM vs. BSIMM.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 76: Guy Podjarny, Snyk, AppScan, SCA</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_76.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_76.mp3" length="35230035" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Nov 2019 11:00:00 -0700</pubDate>
+        <description>Guy Podjarny (@guypod), founder of Snyk, joins Ken and Seth to talk about Snyk, the origins of AppScan Standard, Software Composition Analysis and his origin story. A discussion of building developer focused security tools and how this can benefit security in the long run.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
