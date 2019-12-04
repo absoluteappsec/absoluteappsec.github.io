@@ -630,6 +630,14 @@
         <description>Guy Podjarny (@guypod), founder of Snyk, joins Ken and Seth to talk about Snyk, the origins of AppScan Standard, Software Composition Analysis and his origin story. A discussion of building developer focused security tools and how this can benefit security in the long run.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 77: Clint Gibler, DevSecOps, TLDR; Sec</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_77.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_77.mp3" length="41169840" type="audio/x-mp3"/>
+        <pubDate>Tue, 03 Dec 2019 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined this week by Clint Gibler (@clintgibler) to talk about DevSecOps, what he sees in the industry as effective security, and his newsletter TLDR; Sec (https://bit.ly/tldrsec). Comments on prioritization, asset inventory, and effectively quashing bug classes.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
