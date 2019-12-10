@@ -638,6 +638,14 @@
         <description>Seth and Ken are joined this week by Clint Gibler (@clintgibler) to talk about DevSecOps, what he sees in the industry as effective security, and his newsletter TLDR; Sec (https://bit.ly/tldrsec). Comments on prioritization, asset inventory, and effectively quashing bug classes.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 78: Breaches, Passwords, and Chicken Fingies</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_78.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_78.mp3" length="30673029" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Dec 2019 11:00:00 -0700</pubDate>
+        <description>Seth and Ken host Seth and Santa's Secure Workshop as a pair this week. The discussion revolves around the Hacker 1 "breach", Practical Pentest Lab's storage and sending of plaintext passwords, chicken fingie injection, and toxicity of infosec social media. May or may not be a discussion on squirrels and pigeons in cowboy hats.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
