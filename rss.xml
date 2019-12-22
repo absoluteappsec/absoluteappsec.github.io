@@ -646,6 +646,14 @@
         <description>Seth and Ken host Seth and Santa's Secure Workshop as a pair this week. The discussion revolves around the Hacker 1 "breach", Practical Pentest Lab's storage and sending of plaintext passwords, chicken fingie injection, and toxicity of infosec social media. May or may not be a discussion on squirrels and pigeons in cowboy hats.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 79: Live from DevSecOpsDays Austin - Next up in AppSec/DevSecops</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_79.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_79.mp3" length="18719577" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Dec 2019 11:00:00 -0700</pubDate>
+        <description>Seth and Ken host the podcast live from DevSecOpsDays Austin, with multiple guests from conference speakers. Discussions on what each guest feels is up next in AppSec and DevSecOps for the forseeable future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
