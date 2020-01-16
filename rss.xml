@@ -654,6 +654,14 @@
         <description>Seth and Ken host the podcast live from DevSecOpsDays Austin, with multiple guests from conference speakers. Discussions on what each guest feels is up next in AppSec and DevSecOps for the forseeable future.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 80: Louis Barratt - SIRT and AppSec</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_80.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_80.mp3" length="41294301" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Jan 2020 11:00:00 -0700</pubDate>
+        <description>Louis Barrett of the Segment SIRT team joins Seth and Ken to discuss his path into security, mentors, and SIRT. Discussions on approaching SIRT, creating a SIRT team, and how to integration AppSec into the SIRT.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
