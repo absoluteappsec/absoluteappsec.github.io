@@ -658,7 +658,7 @@
         <title>Episode 80: Louis Barratt - SIRT and AppSec</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_80.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_80.mp3" length="41294301" type="audio/x-mp3"/>
-        <pubDate>Tue, 15 Jan 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 14 Jan 2020 11:00:00 -0700</pubDate>
         <description>Louis Barrett of the Segment SIRT team joins Seth and Ken to discuss his path into security, mentors, and SIRT. Discussions on approaching SIRT, creating a SIRT team, and how to integration AppSec into the SIRT.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -666,8 +666,16 @@
         <title>Episode 81: Matias Madou - Application Security Training</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_81.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_81.mp3" length="39930120" type="audio/x-mp3"/>
-        <pubDate>Tue, 15 Jan 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 21 Jan 2020 11:00:00 -0700</pubDate>
         <description>Ken and Seth are joined by Matias Madou, CTO of Secure Code Warrior. Discussion of current state of application security training, static analysis tools, and just-in-time-training.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 82: Kelley Robinson - MFA, SHAKEN, STIR</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_82.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_82.mp3" length="38223909" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Jan 2020 11:00:00 -0700</pubDate>
+        <description>Kelley Robinson (@kelleyrobinson), Security Advocate at Twilio/Authy joins Seth and Ken to talk about multifactor authentication, her path into security, and advances in voice security (SHAKEN/STIR).</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
