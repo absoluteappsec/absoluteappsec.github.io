@@ -694,6 +694,14 @@
         <description>Seth and Ken discuss the latest security news, including CIA Backdoors in the Crypto AG products, FBI release of wanted Chinese nationals related to the Equifax breach, protecting applications against nation state actors, and securing open source libraries.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 85: David Lindner - Voting Apps, Bug Bounties, IAST/RASP/WAF</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_85.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_85.mp3" length="38957640" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Feb 2020 11:00:00 -0700</pubDate>
+        <description>David Lindner (@golfhackerdave) joins Seth and Ken discuss the voting applications, including the Iowa debacle and the Voatz application. Ranting on bug bounties and response times for researcher findings. An explanation of IAST, RASP, and WAFs.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
