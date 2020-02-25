@@ -702,6 +702,14 @@
         <description>David Lindner (@golfhackerdave) joins Seth and Ken discuss the voting applications, including the Iowa debacle and the Voatz application. Ranting on bug bounties and response times for researcher findings. An explanation of IAST, RASP, and WAFs.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 86: Rohan Johsi - QA Security Testing, Security Champions, Paypal Vulnerabilities</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_86.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_86.mp3" length="43351176" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Feb 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss bug bounties and a recent article on Paypal issues. Joined by Rohan Joshi to discuss building an application security program, QA security testing, and security champions.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
