@@ -710,6 +710,14 @@
         <description>Seth and Ken discuss bug bounties and a recent article on Paypal issues. Joined by Rohan Joshi to discuss building an application security program, QA security testing, and security champions.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 87: Abhay Bhargav - Threat Modeling, DevSecOps, Microservices</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_87.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_87.mp3" length="41520480" type="audio/x-mp3"/>
+        <pubDate>Tue, 03 Mar 2020 11:00:00 -0700</pubDate>
+        <description>Abhay Bhargav, founder of We45, joins Seth and Ken in a discussion on threat modeling in an agile development methodology, the rise and role of DevSecOps, and security within microservices.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
