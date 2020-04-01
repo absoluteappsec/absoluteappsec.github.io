@@ -734,6 +734,14 @@
         <description>Kat Sweet (@TheSweetKat) continues our discussion from DevSecOps Days Austin. Topics include incident response, staying right while you push left, developer training, and getting into information security.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 90: Voatz, HackerOne, Bug Bounties, GraphQL, Shodan Network Trends</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_90.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_90.mp3" length="38911379" type="audio/x-mp3"/>
+        <pubDate>Tue, 31 Mar 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken provide their take on the Voatz mobile app dismissal from HackerOne. Additional discussion of network trends during social distancing and COVID-19 as reported by Shodan. Finally some thoughts on the new OWASP Firmware Testing Guide and InQL, a GraphQL Burp Suite Pro plugin.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
