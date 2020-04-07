@@ -742,6 +742,14 @@
         <description>Seth and Ken provide their take on the Voatz mobile app dismissal from HackerOne. Additional discussion of network trends during social distancing and COVID-19 as reported by Shodan. Finally some thoughts on the new OWASP Firmware Testing Guide and InQL, a GraphQL Burp Suite Pro plugin.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 91: Stefan Edwards -  More Voatz, Zoom, Code Reviews, Report Writing, Threat Models, and Risk Assessments</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_91.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_91.mp3" length="52157338" type="audio/x-mp3"/>
+        <pubDate>Tue, 31 Mar 2020 11:00:00 -0700</pubDate>
+        <description>LOJI IS BACK! Stefan joins Seth and Ken to talk about his work on Trail of Bits assessment of the Voatz mobile application, share thoughts on Zoom, and discuss the assessment process. Discussions on report writing, risk assessments, threat modeling, and other appsec goodness.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
