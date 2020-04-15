@@ -743,12 +743,20 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode 91: Stefan Edwards -  More Voatz, Zoom, Code Reviews, Report Writing, Threat Models, and Risk Assessments</title>
+        <title>Episode 91: Stefan Edwards - More Voatz, Zoom, Code Reviews, Report Writing, Threat Models, and Risk Assessments</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_91.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_91.mp3" length="52157338" type="audio/x-mp3"/>
-        <pubDate>Tue, 31 Mar 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 07 Apr 2020 11:00:00 -0700</pubDate>
         <description>LOJI IS BACK! Stefan joins Seth and Ken to talk about his work on Trail of Bits assessment of the Voatz mobile application, share thoughts on Zoom, and discuss the assessment process. Discussions on report writing, risk assessments, threat modeling, and other appsec goodness.</description>
         <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 92: Stefan Edwards - Working from Home, Skreen, Evolution of AppSec</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_92.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_92.mp3" length="43946520" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Apr 2020 11:00:00 -0700</pubDate>
+        <description>Seth struggles with internet access during a discussion with Ken on working from home, employee surveillance, and Sneek. Additional thoughts on the evolution of application security and penetration testing since the beginning of our careers.</description>
+        <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
 
