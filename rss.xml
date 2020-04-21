@@ -751,11 +751,19 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode 92: Stefan Edwards - Working from Home, Skreen, Evolution of AppSec</title>
+        <title>Episode 92: Working from Home, Skreen, Evolution of AppSec</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_92.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_92.mp3" length="43946520" type="audio/x-mp3"/>
         <pubDate>Tue, 14 Apr 2020 11:00:00 -0700</pubDate>
         <description>Seth struggles with internet access during a discussion with Ken on working from home, employee surveillance, and Sneek. Additional thoughts on the evolution of application security and penetration testing since the beginning of our careers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 93: Huntr Dev - Securing Open Source Software</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_93.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_93.mp3" length="33685248" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Apr 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined by the Huntr Dev team to talk about securing open source software, bug bounties, and writing secure code.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
