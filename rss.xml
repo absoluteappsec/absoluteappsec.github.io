@@ -794,7 +794,7 @@
         <title>Episode 97: Stefan Edwards and Brian Glas - Threat Modeling</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_97.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_97.mp3" length="56129592" type="audio/x-mp3"/>
-        <pubDate>Tue, 19 May 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 26 May 2020 11:00:00 -0700</pubDate>
         <description>Stefan (@lojikil) and Brian (@infosecdad) are back to talk about threat modeling with Seth and Ken. Discussion covers risk assessment, threat modeling, asset inventory, and software maturity.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
