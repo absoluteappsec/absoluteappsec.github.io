@@ -784,10 +784,18 @@
     </item>
     <item>
         <title>Episode 96: Fuzzing and Static Analysis Tools</title>
-        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_95.mp3</link>
-        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_95.mp3" length="44817312" type="audio/x-mp3"/>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_96.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_96.mp3" length="41145768" type="audio/x-mp3"/>
         <pubDate>Tue, 19 May 2020 11:00:00 -0700</pubDate>
         <description>Seth and Ken discuss fuzzing techniques, recommendations, and experience. Stories of fuzzing in production. How static analysis tools have changed and where they fit.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 97: Stefan Edwards and Brian Glas - Threat Modeling</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_97.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_97.mp3" length="56129592" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 May 2020 11:00:00 -0700</pubDate>
+        <description>Stefan (@lojikil) and Brian (@infosecdad) are back to talk about threat modeling with Seth and Ken. Discussion covers risk assessment, threat modeling, asset inventory, and software maturity.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
 </channel>
