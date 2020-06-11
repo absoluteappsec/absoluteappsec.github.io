@@ -798,6 +798,22 @@
         <description>Stefan (@lojikil) and Brian (@infosecdad) are back to talk about threat modeling with Seth and Ken. Discussion covers risk assessment, threat modeling, asset inventory, and software maturity.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 98: Bug Bounty Programs, Work when World is Crazy</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_98.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_98.mp3" length="39636930" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken go full rant mode about bug bounties and trying to work while the world goes insane.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 99: Contact Tracing, GnuTLS, Breaches</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_99.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_99.mp3" length="38669400" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back to security and technology this week. Discussions about contact tracing applications, privacy and freedom vs. security, the GnuTLS CVE, and possible Honda breach.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
