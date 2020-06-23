@@ -814,6 +814,22 @@
         <description>Seth and Ken are back to security and technology this week. Discussions about contact tracing applications, privacy and freedom vs. security, the GnuTLS CVE, and possible Honda breach.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 100: Virtual Conferences, Bots, DDoS, Ebay</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_100.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_100.mp3" length="46921680" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken break the 100 episode barrier by talking about virtual conferences. Discussions about bots, distributed denial of service attacks, and Ebay stalking of a newsletter.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 101: Mike McCabe, Ken Toler, Cloud Security</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_101.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_101.mp3" length="46227384" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined by Mike McCabe (@mccabe615) and Ken Toler (@relotnek) to break down their talk on Cloud Security. Discussions revolves around cloud security, but touches legacy systems, application inventory, virtual conferences, and more.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
