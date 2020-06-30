@@ -826,9 +826,17 @@
         <title>Episode 101: Mike McCabe, Ken Toler, Cloud Security</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_101.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_101.mp3" length="46227384" type="audio/x-mp3"/>
-        <pubDate>Tue, 22 Jun 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 23 Jun 2020 11:00:00 -0700</pubDate>
         <description>Seth and Ken are joined by Mike McCabe (@mccabe615) and Ken Toler (@relotnek) to break down their talk on Cloud Security. Discussions revolves around cloud security, but touches legacy systems, application inventory, virtual conferences, and more.</description>
         <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 102: Popular Programming Languages, TikTok, OWASP</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_102.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_102.mp3" length="43460304" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken talk about the popularity of various programming languages, TikTok app issues, and new changes at OWASP.</description>
+        <itunes:explicit>yes</itunes:explicit>
     </item>
 </channel>
 
