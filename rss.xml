@@ -838,6 +838,14 @@
         <description>Seth and Ken talk about the popularity of various programming languages, TikTok app issues, and new changes at OWASP.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 103: Secrets Management, Oded Hareven, and akeyless.io</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_103.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_103.mp3" length="33658896" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Jul 2020 11:00:00 -0700</pubDate>
+        <description>Oded Hareven from AKEYLESS joins Seth and Ken to discuss the idea behind AKEYLESS as well as give us a chance to learn a little bit more about Oded.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
