@@ -854,6 +854,14 @@
         <description>Leif Drezler joins Seth and Ken to talk about recent projects, including authentication, SCIM, and how to embed within a development team.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 105: Laura Migus - Diversity and Inclusion</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_105.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_105.mp3" length="56426208" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Aug 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken chat with Laura Migus who is an expert in the realm of Diversity and Inclusion to learn more about the topic and how to support diversity and inclusion efforts.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
