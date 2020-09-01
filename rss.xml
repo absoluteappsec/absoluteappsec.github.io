@@ -862,6 +862,14 @@
         <description>Seth and Ken chat with Laura Migus who is an expert in the realm of Diversity and Inclusion to learn more about the topic and how to support diversity and inclusion efforts.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 106: Justin Massey - Logging and Monitoring</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_106.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_106.mp3" length="42041784" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Aug 2020 11:00:00 -0700</pubDate>
+        <description>Justin Massey from Data Dog joins us to talk Application Logging.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
