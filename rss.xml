@@ -870,6 +870,14 @@
         <description>Justin Massey from Data Dog joins us to talk Application Logging.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 107: Markus Schirp - Ruby and Dynamic Languages</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_107.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_107.mp3" length="47744352" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Sep 2020 11:00:00 -0700</pubDate>
+        <description>Markus Schirp (@_m_b_j_) joins Seth and Ken to talk about Ruby and other dynamic languages. Mutation testing, TDD weaknesses, and meta programming.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
