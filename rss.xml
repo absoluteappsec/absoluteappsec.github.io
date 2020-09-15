@@ -878,6 +878,14 @@
         <description>Markus Schirp (@_m_b_j_) joins Seth and Ken to talk about Ruby and other dynamic languages. Mutation testing, TDD weaknesses, and meta programming.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 108: Sean Poris - Bug Bounties and H1-2010</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_108.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_108.mp3" length="47744352" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Sep 2020 11:00:00 -0700</pubDate>
+        <description>Sean Poris (@skp00) joins Absolute AppSec to talk about The Paranoids virtual bug bounty hacking event H1-2010, staying sane, managing a virtual team, and advice for running a bug bounty program.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
