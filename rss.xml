@@ -886,6 +886,14 @@
         <description>Sean Poris (@skp00) joins Absolute AppSec to talk about The Paranoids virtual bug bounty hacking event H1-2010, staying sane, managing a virtual team, and advice for running a bug bounty program.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 109: Threat Modeling, Social Media, Imposter Syndrome</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_109.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_109.mp3" length="38627208" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Sep 2020 11:00:00 -0700</pubDate>
+        <description>We are back with a Seth and Ken only episode to talk about the evolution of threat modeling, the documentary "The Social Dilemma", mental health, and imposter syndrome.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
