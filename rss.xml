@@ -894,6 +894,14 @@
         <description>We are back with a Seth and Ken only episode to talk about the evolution of threat modeling, the documentary "The Social Dilemma", mental health, and imposter syndrome.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 110: Reserved Words, Authentication, Developer Patterns</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_110.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_110.mp3" length="40045320" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Oct 2020 11:00:00 -0700</pubDate>
+        <description>Back at it like a phrack addict to talk reserved words, authentication flaws in apps and Grindr, and recognizing insecure patterns during development.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
