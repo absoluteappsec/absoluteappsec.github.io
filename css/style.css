@@ -57,6 +57,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* About */
 
+.cons {
+    background-color: #eee;
+    text-align: center;
+    margin: 40px;
+}
 
 
 
@@ -211,6 +216,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 20px;
     color: #fff;
     text-align: center;
+    background-position: bottom center;
 }
 
 /* Contact */
