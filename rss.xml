@@ -918,6 +918,14 @@
         <description>Mark Feferman (@mfeferman) joins Seth and Ken to throw down about automated static analysis tools. Discussion of applictaion security talent (or lack thereof) and 'shifting left'.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 113: Jacob Salassi - Modeling Threats, Risk Assessment</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_113.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_113.mp3" length="38468976" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Oct 2020 11:00:00 -0700</pubDate>
+        <description>Jacob Salassi (@JacobSalassi) joins us to discuss his developer-driven, standardized, threat modeling process. Also discussions on developer empathy, risk assessment, and other topics.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
