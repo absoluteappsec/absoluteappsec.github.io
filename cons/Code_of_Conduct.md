@@ -20,7 +20,10 @@ We value your attendance and want you to feel comfortable, safe, and supported.
 
 To report any form of harassment or to seek immediate help, contact any of the conference organizers via:
 
-- Infose Canon: [infosecanon](https://twitter.com/infosecanon)
+- Abdullah Munawar: [amanofwar](https://twitter.com/amanofwar)
+- Ben Pick: [PickSecurity](https://twitter.com/PickSecurity)
+- David Lindner: [golfhackerdave](https://twitter.com/golfhackerdave)
+- Brian Glas: [infosecdad](https://twitter.com/infosecdad)
 - CKTricky (Ken): [cktricky](https://twitter.com/cktricky) or <cktricky@gmail.com>
 - Setec (Seth): [sethlaw](https://twitter.com/sethlaw) or <seth.w.law@gmail.com>
 - Lojikil (Stefan): [lojikil](https://twitter.com/lojikil) or <saedwards.ecc@gmail.com>
