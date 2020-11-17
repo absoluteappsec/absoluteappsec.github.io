@@ -926,6 +926,22 @@
         <description>Jacob Salassi (@JacobSalassi) joins us to discuss his developer-driven, standardized, threat modeling process. Also discussions on developer empathy, risk assessment, and other topics.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 114: Account Enumeration, Github Actions</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_114.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_114.mp3" length="39103560" type="audio/x-mp3"/>
+        <pubDate>Nov, 10 Nov 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss account enumeration vulnerabilities and open source tools that take advantage of them. Discussion about the recent Github Actions vulnerability.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 115: Clint Gibler - Static Analysis with Semgrep</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_115.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_115.mp3" length="47815856" type="audio/x-mp3"/>
+        <pubDate>Nov, 17 Nov 2020 11:00:00 -0700</pubDate>
+        <description>Clint Gibler (@clintgibler) joins Seth and Ken to talk about Static Analysis with Semgrep. Demonstrations of writing rules within Semgrep and how to use it.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
