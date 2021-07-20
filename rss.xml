@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 142 - AI Code Generation, Puma Scan, HTTP Request Smuggling</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_142.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_142.mp3" length="29507709" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Jul 2021 11:00:00 -0700</pubDate>
+        <description>Dreamin', Beamin', and Streamin' about using artificial intelligence (AI) to generate code (*cough*, *cough*). When and where to use automated source code analysis tools, specifically Puma Scan for .Net/C# code. Also a primer on HTTP Request Smuggling and what you should know about it.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 141 - print(), Cross-Site Scripting (XSS), RiskIQ, Amass Demo</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_141.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_141.mp3" length="35378576" type="audio/x-mp3"/>
