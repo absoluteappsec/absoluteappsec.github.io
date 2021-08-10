@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 143 - HTTP/2, Black Hat/DEFCON, Kubernetes</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_143.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_143.mp3" length="40766756" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Aug 2021 11:00:00 -0700</pubDate>
+        <description>With @cktricky out adventuring, @sethlaw is joined by a familiar face (@lojikil) to dive deeply into recent research presented at Black Hat/DEF CON,  HTTP/2, and how everything old is new again.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 142 - AI Code Generation, Puma Scan, HTTP Request Smuggling</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_142.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_142.mp3" length="29507709" type="audio/x-mp3"/>
