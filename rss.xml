@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 146 - OWASP Top 10, Bug Bounties with @JHaddix, Request Smuggling</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_146.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_146.mp3" length="34993127" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Sep 2021 11:00:00 -0700</pubDate>
+        <description>Now with the latest in old people ramblings. Discussion about the OWASP Top 10 Draft list and how the Top 10 should be used as an awareness document. Discussions on bug bounties with surprise guest Jason Haddix (@JHaddix). More fun with HTTP Request Smuggling.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 145 - Return of @cktricky, Burnout, Bumble Vuln, Brute-Forcing</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_145.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_145.mp3" length="38197589" type="audio/x-mp3"/>
