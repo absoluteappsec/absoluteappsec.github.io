@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 147 - James Kettle (@albinowax), Security Research</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_147.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_147.mp3" length="35544678" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Sep 2021 11:00:00 -0700</pubDate>
+        <description>The one and only James Kettle (@albinowax) of Portswigger joins Seth and Ken to talk about his path into security, HTTP request smuggling, and how to perform security research.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 146 - OWASP Top 10, Bug Bounties with @JHaddix, Request Smuggling</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_146.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_146.mp3" length="34993127" type="audio/x-mp3"/>
