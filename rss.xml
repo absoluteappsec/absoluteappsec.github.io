@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 148 - Facebook, Phrack, Paved Path</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_148.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_148.mp3" length="30354582" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Oct 2021 11:00:00 -0700</pubDate>
+        <description>Strange things are afoot at the Circle K. Facebook outage and BGP routing. A new issue of phrack released on Oct 5 results a discussion on the good ol' days, BBSes, and the commercialization of security. Finally, thoughts on paved paths and how they affect security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 147 - James Kettle (@albinowax), Security Research</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_147.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_147.mp3" length="35544678" type="audio/x-mp3"/>
