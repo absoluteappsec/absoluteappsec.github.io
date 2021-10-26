@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 150 - Jerry Gamblin - NVD CVEs, Vulnerability Disclosure, Burp Cert</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_150.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_150.mp3" length="33758606" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Oct 2021 11:00:00 -0700</pubDate>
+        <description>Jerry Gamblin makes a return to the podcast to talk about recent events in Missouri and how _not_ to respond to responsible vulnerability disclosure. A discussion on the increase of CVEs showing up in the National Vulnerability Database, how Kenna was acquired by Cisco, and Portswigger's new Burp Suite Certificate.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 149 - Burnout, AppSec News Sources</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_149.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_149.mp3" length="30564346" type="audio/x-mp3"/>
