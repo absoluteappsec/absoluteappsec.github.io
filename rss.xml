@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 152 - Breaches, Symbolic Execution, Dynamic vs. Static Assessments</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_152.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_152.mp3" length="32529513" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Nov 2021 11:00:00 -0700</pubDate>
+        <description>Gobble gobble! It is that time of the year again to stuff our faces... WITH APPSEC! A discussion on breach notification related to the recent GoDaddy disclosure. Understanding symbolic execution with trail of bits. The differences of dynamic and static assessments and why both are important.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 151 - Secure Code Review, Software Interdependency</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_151.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_151.mp3" length="30945697" type="audio/x-mp3"/>
