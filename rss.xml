@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 154 - Conferences, Cloud Security, Software Supply Chain</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_154.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_154.mp3" length="30573816" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Dec 2021 11:00:00 -0700</pubDate>
+        <description>It's one of those days, must be Q4. View of tech conferences as an outsider. An analysis of data from Google's "Threat Horizons" report and what it tells us about Cloud Security. A few items related security of the software supply chain, including an academic white paper comparing different SCA tools.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 153 - Fuzzing, Authentication, Browser Wars (again)</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_153.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_153.mp3" length="34274909" type="audio/x-mp3"/>
