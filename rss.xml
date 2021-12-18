@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 155 - Log4Hell, Boring AppSec, Crocs and SOCs</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_155.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_155.mp3" length="29782277" type="audio/x-mp3"/>
+        <pubDate>Fri, 17 Dec 2021 11:00:00 -0700</pubDate>
+        <description>Tis the season... for 0 days. Discussions on the ever-present Log4j issue that the whole industry is dealing with. Kernelcon training announcements, dealing with varying expectations of clients and developers on industry terms, further appsec resources, and why crocs and socks matter.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 154 - Conferences, Cloud Security, Software Supply Chain</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_154.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_154.mp3" length="30573816" type="audio/x-mp3"/>
