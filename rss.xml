@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 156 - Stefan Edwards (@lojikil) - Open Source Software, Software Bill of Materials</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_156.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_156.mp3" length="49572269" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Dec 2021 11:00:00 -0700</pubDate>
+        <description>As we get ready for the holidays, we only want to talk about log4hell and bill of materials. Please let it end, please, oh please. A surprise visit by Stefan Edwards (@lojikil) to address all things Open Source Software and Software Bill of Materials. Why this matters so much and how asset, application, and software inventory management is death by a thousand cuts. Also, happy holidays!</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 155 - Log4Hell, Boring AppSec, Crocs and SOCs</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_155.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_155.mp3" length="29782277" type="audio/x-mp3"/>
