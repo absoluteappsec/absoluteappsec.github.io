@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 157 - 2022 Predictions, Schema Libraries, NPM and Open Source Packages</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_157.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_157.mp3" length="36339549" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Jan 2022 11:00:00 -0700</pubDate>
+        <description>NEW YEAR, NEW SECURITY MADNESS! The duo is back with their application security predictions for 2022. A discussion on 3rd party library differences, in particular how URL/URI Schema libraries and parsing can lead to security flaws. Finally, a discussion on recent NPM news where a developer pushed package versions that undermine the trust developers and corporations have with open source maintainers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 156 - Stefan Edwards (@lojikil) - Open Source Software, Software Bill of Materials</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_156.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_156.mp3" length="49572269" type="audio/x-mp3"/>
