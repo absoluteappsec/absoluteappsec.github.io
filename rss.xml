@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 158 - More Supply Chains, 2021 Top Ten, CORS + CSRF</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_158.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_158.mp3" length="31932602" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Jan 2022 11:00:00 -0700</pubDate>
+        <description>Yet another episode. Always something to discuss. Ken and Seth talk about a recent article covering *theoretical* software supply chain exploits and how this will be a big thing this year. A review of Portswigger's nominations for Top Ten Web Hacking techniques of 2021. Finally, a discussion on the upcoming Chrome changes to do pre-flight requests for non-routable IP address CSRF requests.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 157 - 2022 Predictions, Schema Libraries, NPM and Open Source Packages</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_157.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_157.mp3" length="36339549" type="audio/x-mp3"/>
