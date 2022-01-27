@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 159 - Neil Matatall - CSP, Infosec Hiring, Languages + Framework Security</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_159.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_159.mp3" length="51106566" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Jan 2022 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back to talk with a blast from the past. Neil Matatall (@ndm) of Twitter, Github, and now TikTok fame joins the discussion (again) to talk about CSP. The conversation wanders from there to hiring people in information security and tech jobs. Opinions on language and framework security defaults and why Ruby cannot be beat, errr, or is so good. Finally getting back to CSP and misunderstandings on what it provides to developers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 158 - More Supply Chains, 2021 Top Ten, CORS + CSRF</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_158.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_158.mp3" length="31932602" type="audio/x-mp3"/>
