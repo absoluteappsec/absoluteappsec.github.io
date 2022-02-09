@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+	<item>
+        <title>Episode Ep. 161 - Language Semantics, Blockchain Validations, Pentest Stories</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3" length="29666646" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Feb 2022 11:00:00 -0700</pubDate>
+        <description>A blast from the past as Ken and Seth reminisce about past penetration testing and security stories. A discussion of language semantics and how programming language basics are similar to spoken language basics.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>Episode Ep. 160 - Mental Health, Open Source Bug Bounties, IDOR</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_160.mp3</link>
