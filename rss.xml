@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+    <item>
+        <title>Episode Ep. 162 - Mike McCabe (@mccabe615) - Cloud Security </title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3" length="37834981" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Feb 2022 11:00:00 -0700</pubDate>
+        <description>After a week's hiatus, the Absolute AppSec-ers return with guest Mike McCabe (@mccabe615) to talk about all things Cloud Security. Discussions on cloud security tools, various differences between AWS and Azure, infrastructure as code (IaC), and predictions on cloudsec merging with appsec in the future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 	<item>
         <title>Episode Ep. 161 - Language Semantics, Blockchain Validations, Pentest Stories</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3</link>
