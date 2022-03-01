@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 163 - IT Army, Secrets, Access Control</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3" length="36280021" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Mar 2022 11:00:00 -0700</pubDate>
+        <description>And we are live, with our 163 episode of Absolute AppSec. Say hi to Ken and Seth once again as they start out with a discussion on the IT Cyber Army and issues with enlisting to help in cyber attacks. Next up is a series of opinions on the security of environment variables and inclusion of secrets within application architectures and the cloud. Finally, a discussion on authorization and access control based on viewer demand. Yes, it's hard, yes, you should do it.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 162 - Mike McCabe (@mccabe615) - Cloud Security </title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3" length="37834981" type="audio/x-mp3"/>
