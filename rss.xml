@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 164 - Supply Chain Security, Cyber Attacks, 2FA, AutoWarp</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3" length="31491936" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Mar 2022 11:00:00 -0700</pubDate>
+        <description>What now? Another episode? You have to be kidding me. Now I get to write another summary per my job description. At least this episode covers some security topics like as Software Supply Chain Security using socket.dev and protecting yourself with security basics as a package maintainer. And the discussion of recent cyber attacks against Toyota hardware suppliers and AutoWarp vulnerability for Azure was at least interesting. Listen, or don't, I'm just required to write the description.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 163 - IT Army, Secrets, Access Control</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3" length="36280021" type="audio/x-mp3"/>
