@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 165 - Portswigger 2021 Top 10, Supply Chain Attacks, TLS Certs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3" length="38493409" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Mar 2022 11:00:00 -0700</pubDate>
+        <description>Welcome to the latest nihilism and bitch session. In this episode, Seth and Ken review Portswigger's Top 10 list of the "most significant web security research released in the last year". Discussion of weak links in the NPM supply chain and what developers can look at to ascertain the security of packages they depend on. Finally, Russia has begun issuing its own TLS certificates, which always leads to better privacy and security for the general public..../s</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 164 - Supply Chain Security, Cyber Attacks, 2FA, AutoWarp</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3" length="31491936" type="audio/x-mp3"/>
