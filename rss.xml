@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 166 - Web App Firewalls, ProtestWare, CSP Level 3</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3" length="32202024" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Mar 2022 11:00:00 -0700</pubDate>
+        <description>As sands through the hourglass, another episode is falls on a Tuesday in late March. It was not _the_ first episode, but it was an episode as Ken and Seth talk about the origins of web application firewalls (WAFs) to go along with an article describing current WAF usage patterns. A heated discussion on recent software supply issues related to ProtestWare (or the changing of open source packages to highlight maintainer-focused causes). Finally, a quick look into Content Security Policy (CSP) Level 3 and upcoming browser support for the protocol.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 165 - Portswigger 2021 Top 10, Supply Chain Attacks, TLS Certs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3" length="38493409" type="audio/x-mp3"/>
