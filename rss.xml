@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 167 - Ken Toler - Cryptocurrency, Spring4Shell</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3" length="37859406" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Apr 2022 11:00:00 -0700</pubDate>
+        <description>A pair of Kens. A quick discussion on Spring4Shell and how the exploit takes advantage of Java's dynamic configuration options along with a data binding aka mass assignment vulnerabilities. Ken Toler (@relotnek) joins the show to discus  the current web3 security landscape and how security can be involved in cryptocurrency projects. "There is a place for you in crypto" - @relotnek</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 166 - Web App Firewalls, ProtestWare, CSP Level 3</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3" length="32202024" type="audio/x-mp3"/>
