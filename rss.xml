@@ -23,6 +23,15 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 168 - Secure Code Review, Package Confusion, Privacy Acts</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3" length="41728152" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Apr 2022 11:00:00 -0700</pubDate>
+        <description>What's that sound?! Could it be the Absolute AppSec train coming 'round the bend, set to deliver
+@cktricky and @sethlaw's timely takes on Application Security news?! This episode starts with an in-depth discussion about secure code review techniques based on a recent twitter thread. Further topics include more software supply chain attacks based on package confusion, the proliferation of state privacy acts, handling of bug bounty issues, and a review of the recently-patched GitLab critical security flaw.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 167 - Ken Toler - Cryptocurrency, Spring4Shell</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3" length="37859406" type="audio/x-mp3"/>
