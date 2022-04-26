@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 169 - Finding Security Bugs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3" length="36911742" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Apr 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return to the podcast and spend the episode reviewing the recent keynote from Mark Dowd at OffensiveCon 22 about the process he uses to find bugs in software.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 168 - Secure Code Review, Package Confusion, Privacy Acts</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3" length="41728152" type="audio/x-mp3"/>
