@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 170 - Security Basics, Social Engineering, Plan for Failure</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3" length="29745088" type="audio/x-mp3"/>
+        <pubDate>Tue, 03 May 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return with a discussion of security basics and failures resulting from lack of security hygiene. As a developer, security engineer, or a CISO, i's important to recognize that breaches will happen, so security planners should "plan for failure." "It's not a matter of if but when."</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 169 - Finding Security Bugs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3" length="36911742" type="audio/x-mp3"/>
