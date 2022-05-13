@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 171 - Ruby Deserialization Walkthrough, Domain Takeovers</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3" length="36818667" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 May 2022 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back to talk about potential of package hijacking based on DNS takeovers due to domain expirations. Ken provides a walkthrough of Ruby Deserialization techniques based on recent news articles.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 170 - Security Basics, Social Engineering, Plan for Failure</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3" length="29745088" type="audio/x-mp3"/>
