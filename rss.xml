@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 172 - Jimmy Mesta - Kubernetes, Startup Adventures</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3" length="36512689" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 May 2022 11:00:00 -0700</pubDate>
+        <description>Jimmy Mesta (@jimmesta) of KSOC joins Ken and Seth to talk about Kubernetes Security and startup adventures with KSOC. This leads to a discussion on the OWASP's Top 10 Kubernetes Project and how all old security principles are seen in new technologies. Jimmy breaks down his experience in funding a startup, gaining partners, and ultimately building a team.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 171 - Ruby Deserialization Walkthrough, Domain Takeovers</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3" length="36818667" type="audio/x-mp3"/>
