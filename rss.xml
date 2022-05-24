@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 173 - Enumeration Attacks!</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3" length="37548481" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 May 2022 11:00:00 -0700</pubDate>
+        <description>Yet ANOTHER episode of Absolute AppSec with Seth and Ken! User enumeration vulnerabilities are the order of the day.  Seth digs in on an interesting #talesfromconsulting where security questions, and the different way they appeared for real users and invalid users, revealed valid user accounts on an application. Further enumeration flaws using WAF bypasses in production systems. A story from Ken on a case where an application only checked that password-reset token was valid, but not tied to an account, allowing for unauthorized password reset of _any_ user account.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 172 - Jimmy Mesta - Kubernetes, Startup Adventures</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3" length="36512689" type="audio/x-mp3"/>
