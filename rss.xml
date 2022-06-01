@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 174 - Smart Contracts, Code Review Lessons Learned</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3" length="39453110" type="audio/x-mp3"/>
+        <pubDate>Tue, 31 May 2022 11:00:00 -0700</pubDate>
+        <description>If there were a magical world where mensch-y podcasters (@cktricky and @sethlaw) discuss smart contract vulnerabilities, secure code review experiences, and package takeover attacks, wouldn't you like to know about it?! Such a world exists for your pleasure in this episode of Absolute AppSec.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 173 - Enumeration Attacks!</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3" length="37548481" type="audio/x-mp3"/>
