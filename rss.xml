@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 175 - Web3, JWT Security, Public App Attacks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_175.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_175.mp3" length="36637856" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Jun 2022 11:00:00 -0700</pubDate>
+        <description>Late night edition. Now we are tired. Seth and Ken get back to the podcast and dig into Web3 security a bit. A review of the recent blog post from portswigger on JWT security. Finally discussion on public attacks against applications coming from nation states against US-based systems. Come to LocomocoSec ... and Defcon.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 174 - Smart Contracts, Code Review Lessons Learned</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3" length="39453110" type="audio/x-mp3"/>
