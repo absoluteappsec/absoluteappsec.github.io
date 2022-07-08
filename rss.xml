@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 177 - That Post-LocoMocoSec Glow</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_177.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_177.mp3" length="38869883" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Jul 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken recap some of their experiences from LocoMocoSec,  followed by a discussion on the recent Bugcrowd revelation that an employee attempted to re-submit reports for gain. A review of LaLuka's 60 RCEs in 60 minutes. Finally, thoughts on the recent Chinese data leak.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 176 - Exposed Secrets, Semgrep Rules, IoT Security Failures</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_176.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_176.mp3" length="29699650" type="audio/x-mp3"/>
