@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 179 - Starting in AppSec, Threat Modeling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_179.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_179.mp3" length="35743081" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Aug 2022 11:00:00 -0700</pubDate>
+        <description>Ken pulls Seth back into an episode to talk through the steps anyone can take to get into Application or Product Security based on some recent articles. True security professionals can come from anywhere. This leads to a discussion on threat assessment and threat modeling across the industry.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 178 - Wallet Attacks(!) and Data Privacy</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_178.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_178.mp3" length="38534421" type="audio/x-mp3"/>
