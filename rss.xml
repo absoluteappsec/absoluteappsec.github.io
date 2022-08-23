@@ -23,11 +23,19 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 181 - (Post DEFCON)</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3" length="32898325" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Aug 2022 11:00:00 -0700</pubDate>
+        <description>Finally returned from the wasteland that is Las Vegas, or at least the fun that is #hackersummercamp and #defcon30, Ken and Seth break down their different experiences and impressions from the conference, including training. A discussion on in-app browsers for mobile applications and how they are bad and should feel bad. Finally, encoding of malicious strings in DNA, of all things.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 180 - Logging! Attacks!</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_180.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_180.mp3" length="35743081" type="audio/x-mp3"/>
         <pubDate>Wed, 10 Aug 2022 11:00:00 -0700</pubDate>
-        <description>It's time for hacker summer camp, so the duo starts out discussing upcoming events and interesting talks. A discussion of LOGGING to warms Seth's heart as it comes to light that logging of sensitive data was the cause of a recently successful web3 wallet-draining attack. Further topics include deserialization of objects in multiple sensitive data disclosures. Discussion on importance of identity provides as well as the difference between application security and product security..</description>
+        <description>It's time for hacker summer camp, so the duo starts out discussing upcoming events and interesting talks. A discussion of LOGGING to warms Seth's heart as it comes to light that logging of sensitive data was the cause of a recently successful web3 wallet-draining attack. Further topics include deserialization of objects in multiple sensitive data disclosures. Discussion on importance of identity provides as well as the difference between application security and product security.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
