@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 182 - Twitter, LastPass, Testing Edge Cases</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3" length="28473146" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Aug 2022 11:00:00 -0700</pubDate>
+        <description>A late decision to record an episode this week after thinking it would be scratched due to life ended up with a long discussion on the recent Twitter drama and whistleblower revelations around their security problems. Both Seth and Ken express opinions about disclosures and building out security programs. Further discussion on password managers and LastPass breach. Finally, a bug bounty report shows the importance of testing edge cases and using a bounty program to supplement integration testing.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 181 - (Post DEFCON)</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3" length="32898325" type="audio/x-mp3"/>
