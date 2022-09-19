@@ -23,6 +23,22 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 184 - Sources, Payloads, Patreon, Ethereum, Starbucks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_184.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_184.mp3" length="36302253" type="audio/x-mp3"/>
+        <pubDate>Thu, 15 Sep 2022 11:00:00 -0700</pubDate>
+        <description>Ken is back to lead a discussion on identification of interesting sources for the podcast and specifically how XSS just is not as interesting to him and Seth as it was a decade ago. A new project for analyzing and bypassing 403 responses from proxies and WAFs. Opinions on Patreon's recent layoffs and hot takes around security issues. Finally, web3-related topics of the recently-complete Ethereum merge along with Starbucks NFTs.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode Ep. 183 - Information Warfare w/LegendaryPatMan</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_183.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_183.mp3" length="52811317" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Sep 2022 11:00:00 -0700</pubDate>
+        <description>Ken is away, so Loji comes to play. Absolute AppSec is hosted this week by Seth and Stefan (@lojikil) to go outside the normal topics of application security to address questions about information warfare, Ukraine, and propaganda with Stefan Edwards (@lojikil) and @LegendaryPatMan.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode Ep. 182 - Twitter, LastPass, Testing Edge Cases</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3" length="28473146" type="audio/x-mp3"/>
