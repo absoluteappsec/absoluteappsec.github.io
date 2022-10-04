@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 186 - Security Trainings, Web3 Bounties, MFA</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_186.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_186.mp3" length="29259024" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Oct 2022 11:00:00 -0700</pubDate>
+        <description>Ken is back in the land of the living, so of course he and Seth dig into the current state of information security training, how SCORM is the worst for developer training, and what goes into creating and teaching a course. Discussions on bug bounties in the web3/defi space and the nature of payouts. Finally, a discussion on MFA fatigue and how theoretical attacks have become reality.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 185 - Daniel Ting (hoodiepony) - Breaches, Optus, Uber</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_185.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_185.mp3" length="38436145" type="audio/x-mp3"/>
