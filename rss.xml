@@ -23,7 +23,15 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
-        <title>Episode Ep. 184 - Sources, Payloads, Patreon, Ethereum, Starbucks</title>
+        <title>Episode 185 - Daniel Ting (hoodiepony) - Breaches, Optus, Uber</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_185.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_185.mp3" length="38436145" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Sep 2022 11:00:00 -0700</pubDate>
+        <description>Ken (cktricky) is out sick today, so Seth is joined by Daniel (https://twitter.com/hoodiepony) from Australia to talk about recent breaches.  Specifically, the recent breach of Optus in Australia has led to the exposure of about 10 million identity records. Daniel and Seth reference the recent Optus and Uber breaches to discuss weaknesses in identity protection, access control, and data disclosure.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 184 - Sources, Payloads, Patreon, Ethereum, Starbucks</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_184.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_184.mp3" length="36302253" type="audio/x-mp3"/>
         <pubDate>Thu, 15 Sep 2022 11:00:00 -0700</pubDate>
@@ -31,7 +39,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 183 - Information Warfare w/LegendaryPatMan</title>
+        <title>Episode 183 - Information Warfare w/LegendaryPatMan</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_183.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_183.mp3" length="52811317" type="audio/x-mp3"/>
         <pubDate>Tue, 06 Sep 2022 11:00:00 -0700</pubDate>
@@ -39,7 +47,7 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 182 - Twitter, LastPass, Testing Edge Cases</title>
+        <title>Episode 182 - Twitter, LastPass, Testing Edge Cases</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3" length="28473146" type="audio/x-mp3"/>
         <pubDate>Tue, 30 Aug 2022 11:00:00 -0700</pubDate>
@@ -47,7 +55,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 181 - (Post DEFCON)</title>
+        <title>Episode 181 - (Post DEFCON)</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3" length="32898325" type="audio/x-mp3"/>
         <pubDate>Tue, 23 Aug 2022 11:00:00 -0700</pubDate>
@@ -55,7 +63,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 180 - Logging! Attacks!</title>
+        <title>Episode 180 - Logging! Attacks!</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_180.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_180.mp3" length="35743081" type="audio/x-mp3"/>
         <pubDate>Wed, 10 Aug 2022 11:00:00 -0700</pubDate>
@@ -63,7 +71,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 179 - Starting in AppSec, Threat Modeling</title>
+        <title>Episode 179 - Starting in AppSec, Threat Modeling</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_179.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_179.mp3" length="35743081" type="audio/x-mp3"/>
         <pubDate>Tue, 02 Aug 2022 11:00:00 -0700</pubDate>
@@ -71,7 +79,7 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 178 - Wallet Attacks(!) and Data Privacy</title>
+        <title>Episode 178 - Wallet Attacks(!) and Data Privacy</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_178.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_178.mp3" length="38534421" type="audio/x-mp3"/>
         <pubDate>Tue, 26 Jul 2022 11:00:00 -0700</pubDate>
@@ -79,7 +87,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 177 - That Post-LocoMocoSec Glow</title>
+        <title>Episode 177 - That Post-LocoMocoSec Glow</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_177.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_177.mp3" length="38869883" type="audio/x-mp3"/>
         <pubDate>Tue, 05 Jul 2022 11:00:00 -0700</pubDate>
@@ -87,7 +95,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 176 - Exposed Secrets, Semgrep Rules, IoT Security Failures</title>
+        <title>Episode 176 - Exposed Secrets, Semgrep Rules, IoT Security Failures</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_176.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_176.mp3" length="29699650" type="audio/x-mp3"/>
         <pubDate>Tue, 21 Jun 2022 11:00:00 -0700</pubDate>
@@ -95,7 +103,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 175 - Web3, JWT Security, Public App Attacks</title>
+        <title>Episode 175 - Web3, JWT Security, Public App Attacks</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_175.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_175.mp3" length="36637856" type="audio/x-mp3"/>
         <pubDate>Tue, 14 Jun 2022 11:00:00 -0700</pubDate>
@@ -103,7 +111,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 174 - Smart Contracts, Code Review Lessons Learned</title>
+        <title>Episode 174 - Smart Contracts, Code Review Lessons Learned</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3" length="39453110" type="audio/x-mp3"/>
         <pubDate>Tue, 31 May 2022 11:00:00 -0700</pubDate>
@@ -111,7 +119,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 173 - Enumeration Attacks!</title>
+        <title>Episode 173 - Enumeration Attacks!</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3" length="37548481" type="audio/x-mp3"/>
         <pubDate>Tue, 24 May 2022 11:00:00 -0700</pubDate>
@@ -119,7 +127,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 172 - Jimmy Mesta - Kubernetes, Startup Adventures</title>
+        <title>Episode 172 - Jimmy Mesta - Kubernetes, Startup Adventures</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3" length="36512689" type="audio/x-mp3"/>
         <pubDate>Tue, 17 May 2022 11:00:00 -0700</pubDate>
@@ -127,7 +135,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 171 - Ruby Deserialization Walkthrough, Domain Takeovers</title>
+        <title>Episode 171 - Ruby Deserialization Walkthrough, Domain Takeovers</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3" length="36818667" type="audio/x-mp3"/>
         <pubDate>Tue, 10 May 2022 11:00:00 -0700</pubDate>
@@ -135,7 +143,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 170 - Security Basics, Social Engineering, Plan for Failure</title>
+        <title>Episode 170 - Security Basics, Social Engineering, Plan for Failure</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3" length="29745088" type="audio/x-mp3"/>
         <pubDate>Tue, 03 May 2022 11:00:00 -0700</pubDate>
@@ -143,7 +151,7 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 169 - Finding Security Bugs</title>
+        <title>Episode 169 - Finding Security Bugs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3" length="36911742" type="audio/x-mp3"/>
         <pubDate>Tue, 26 Apr 2022 11:00:00 -0700</pubDate>
@@ -151,7 +159,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 168 - Secure Code Review, Package Confusion, Privacy Acts</title>
+        <title>Episode 168 - Secure Code Review, Package Confusion, Privacy Acts</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3" length="41728152" type="audio/x-mp3"/>
         <pubDate>Tue, 19 Apr 2022 11:00:00 -0700</pubDate>
@@ -160,7 +168,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 167 - Ken Toler - Cryptocurrency, Spring4Shell</title>
+        <title>Episode 167 - Ken Toler - Cryptocurrency, Spring4Shell</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3" length="37859406" type="audio/x-mp3"/>
         <pubDate>Tue, 05 Apr 2022 11:00:00 -0700</pubDate>
@@ -168,7 +176,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 166 - Web App Firewalls, ProtestWare, CSP Level 3</title>
+        <title>Episode 166 - Web App Firewalls, ProtestWare, CSP Level 3</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3" length="32202024" type="audio/x-mp3"/>
         <pubDate>Tue, 22 Mar 2022 11:00:00 -0700</pubDate>
@@ -176,7 +184,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 165 - Portswigger 2021 Top 10, Supply Chain Attacks, TLS Certs</title>
+        <title>Episode 165 - Portswigger 2021 Top 10, Supply Chain Attacks, TLS Certs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3" length="38493409" type="audio/x-mp3"/>
         <pubDate>Tue, 15 Mar 2022 11:00:00 -0700</pubDate>
@@ -184,7 +192,7 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 164 - Supply Chain Security, Cyber Attacks, 2FA, AutoWarp</title>
+        <title>Episode 164 - Supply Chain Security, Cyber Attacks, 2FA, AutoWarp</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3" length="31491936" type="audio/x-mp3"/>
         <pubDate>Tue, 08 Mar 2022 11:00:00 -0700</pubDate>
@@ -192,7 +200,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 163 - IT Army, Secrets, Access Control</title>
+        <title>Episode 163 - IT Army, Secrets, Access Control</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3" length="36280021" type="audio/x-mp3"/>
         <pubDate>Tue, 01 Mar 2022 11:00:00 -0700</pubDate>
@@ -200,7 +208,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 162 - Mike McCabe (@mccabe615) - Cloud Security </title>
+        <title>Episode 162 - Mike McCabe (@mccabe615) - Cloud Security </title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3" length="37834981" type="audio/x-mp3"/>
         <pubDate>Tue, 22 Feb 2022 11:00:00 -0700</pubDate>
@@ -208,7 +216,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 	<item>
-        <title>Episode Ep. 161 - Language Semantics, Blockchain Validations, Pentest Stories</title>
+        <title>Episode 161 - Language Semantics, Blockchain Validations, Pentest Stories</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3" length="29666646" type="audio/x-mp3"/>
         <pubDate>Tue, 08 Feb 2022 11:00:00 -0700</pubDate>
@@ -216,7 +224,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 160 - Mental Health, Open Source Bug Bounties, IDOR</title>
+        <title>Episode 160 - Mental Health, Open Source Bug Bounties, IDOR</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_160.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_160.mp3" length="36021821" type="audio/x-mp3"/>
         <pubDate>Tue, 01 Feb 2022 11:00:00 -0700</pubDate>
@@ -224,7 +232,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 159 - Neil Matatall - CSP, Infosec Hiring, Languages + Framework Security</title>
+        <title>Episode 159 - Neil Matatall - CSP, Infosec Hiring, Languages + Framework Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_159.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_159.mp3" length="51106566" type="audio/x-mp3"/>
         <pubDate>Tue, 25 Jan 2022 11:00:00 -0700</pubDate>
@@ -232,7 +240,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 158 - More Supply Chains, 2021 Top Ten, CORS + CSRF</title>
+        <title>Episode 158 - More Supply Chains, 2021 Top Ten, CORS + CSRF</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_158.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_158.mp3" length="31932602" type="audio/x-mp3"/>
         <pubDate>Tue, 18 Jan 2022 11:00:00 -0700</pubDate>
@@ -240,7 +248,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 157 - 2022 Predictions, Schema Libraries, NPM and Open Source Packages</title>
+        <title>Episode 157 - 2022 Predictions, Schema Libraries, NPM and Open Source Packages</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_157.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_157.mp3" length="36339549" type="audio/x-mp3"/>
         <pubDate>Tue, 11 Jan 2022 11:00:00 -0700</pubDate>
@@ -248,7 +256,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 156 - Stefan Edwards (@lojikil) - Open Source Software, Software Bill of Materials</title>
+        <title>Episode 156 - Stefan Edwards (@lojikil) - Open Source Software, Software Bill of Materials</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_156.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_156.mp3" length="49572269" type="audio/x-mp3"/>
         <pubDate>Tue, 21 Dec 2021 11:00:00 -0700</pubDate>
@@ -256,7 +264,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 155 - Log4Hell, Boring AppSec, Crocs and SOCs</title>
+        <title>Episode 155 - Log4Hell, Boring AppSec, Crocs and SOCs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_155.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_155.mp3" length="29782277" type="audio/x-mp3"/>
         <pubDate>Fri, 17 Dec 2021 11:00:00 -0700</pubDate>
@@ -264,7 +272,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 154 - Conferences, Cloud Security, Software Supply Chain</title>
+        <title>Episode 154 - Conferences, Cloud Security, Software Supply Chain</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_154.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_154.mp3" length="30573816" type="audio/x-mp3"/>
         <pubDate>Tue, 07 Dec 2021 11:00:00 -0700</pubDate>
@@ -272,7 +280,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 153 - Fuzzing, Authentication, Browser Wars (again)</title>
+        <title>Episode 153 - Fuzzing, Authentication, Browser Wars (again)</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_153.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_153.mp3" length="34274909" type="audio/x-mp3"/>
         <pubDate>Tue, 30 Nov 2021 11:00:00 -0700</pubDate>
@@ -280,7 +288,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 152 - Breaches, Symbolic Execution, Dynamic vs. Static Assessments</title>
+        <title>Episode 152 - Breaches, Symbolic Execution, Dynamic vs. Static Assessments</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_152.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_152.mp3" length="32529513" type="audio/x-mp3"/>
         <pubDate>Tue, 23 Nov 2021 11:00:00 -0700</pubDate>
@@ -288,7 +296,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 151 - Secure Code Review, Software Interdependency</title>
+        <title>Episode 151 - Secure Code Review, Software Interdependency</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_151.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_151.mp3" length="30945697" type="audio/x-mp3"/>
         <pubDate>Tue, 16 Nov 2021 11:00:00 -0700</pubDate>
@@ -296,7 +304,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 150 - Jerry Gamblin - NVD CVEs, Vulnerability Disclosure, Burp Cert</title>
+        <title>Episode 150 - Jerry Gamblin - NVD CVEs, Vulnerability Disclosure, Burp Cert</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_150.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_150.mp3" length="33758606" type="audio/x-mp3"/>
         <pubDate>Tue, 26 Oct 2021 11:00:00 -0700</pubDate>
@@ -304,7 +312,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 149 - Burnout, AppSec News Sources</title>
+        <title>Episode 149 - Burnout, AppSec News Sources</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_149.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_149.mp3" length="30564346" type="audio/x-mp3"/>
         <pubDate>Tue, 19 Oct 2021 11:00:00 -0700</pubDate>
@@ -312,7 +320,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 148 - Facebook, Phrack, Paved Path</title>
+        <title>Episode 148 - Facebook, Phrack, Paved Path</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_148.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_148.mp3" length="30354582" type="audio/x-mp3"/>
         <pubDate>Tue, 05 Oct 2021 11:00:00 -0700</pubDate>
@@ -320,7 +328,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 147 - James Kettle (@albinowax), Security Research</title>
+        <title>Episode 147 - James Kettle (@albinowax), Security Research</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_147.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_147.mp3" length="35544678" type="audio/x-mp3"/>
         <pubDate>Tue, 21 Sep 2021 11:00:00 -0700</pubDate>
@@ -328,7 +336,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 146 - OWASP Top 10, Bug Bounties with @JHaddix, Request Smuggling</title>
+        <title>Episode 146 - OWASP Top 10, Bug Bounties with @JHaddix, Request Smuggling</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_146.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_146.mp3" length="34993127" type="audio/x-mp3"/>
         <pubDate>Tue, 14 Sep 2021 11:00:00 -0700</pubDate>
@@ -336,7 +344,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 145 - Return of @cktricky, Burnout, Bumble Vuln, Brute-Forcing</title>
+        <title>Episode 145 - Return of @cktricky, Burnout, Bumble Vuln, Brute-Forcing</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_145.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_145.mp3" length="38197589" type="audio/x-mp3"/>
         <pubDate>Thu, 26 Aug 2021 11:00:00 -0700</pubDate>
@@ -344,7 +352,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 144 - Fuzzing, Radamsa, Property Testing</title>
+        <title>Episode 144 - Fuzzing, Radamsa, Property Testing</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_144.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_144.mp3" length="39774426" type="audio/x-mp3"/>
         <pubDate>Tue, 17 Aug 2021 11:00:00 -0700</pubDate>
@@ -352,7 +360,7 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 143 - HTTP/2, Black Hat/DEFCON, Kubernetes</title>
+        <title>Episode 143 - HTTP/2, Black Hat/DEFCON, Kubernetes</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_143.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_143.mp3" length="40766756" type="audio/x-mp3"/>
         <pubDate>Tue, 10 Aug 2021 11:00:00 -0700</pubDate>
@@ -360,7 +368,7 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 142 - AI Code Generation, Puma Scan, HTTP Request Smuggling</title>
+        <title>Episode 142 - AI Code Generation, Puma Scan, HTTP Request Smuggling</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_142.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_142.mp3" length="29507709" type="audio/x-mp3"/>
         <pubDate>Tue, 20 Jul 2021 11:00:00 -0700</pubDate>
@@ -368,7 +376,7 @@
         <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
-        <title>Episode Ep. 141 - print(), Cross-Site Scripting (XSS), RiskIQ, Amass Demo</title>
+        <title>Episode 141 - print(), Cross-Site Scripting (XSS), RiskIQ, Amass Demo</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_141.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_141.mp3" length="35378576" type="audio/x-mp3"/>
         <pubDate>Tue, 13 Jul 2021 11:00:00 -0700</pubDate>
@@ -376,7 +384,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-		<title>Episode Ep. 140 - Naomi Buckwalter - Gatekeeping, Developing AppSec Resources</title>
+		<title>Episode 140 - Naomi Buckwalter - Gatekeeping, Developing AppSec Resources</title>
 		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_140.mp3</link>
 		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_140.mp3" length="36368729" type="audio/x-mp3"/>
 		<pubDate>Tue, 29 Jun 2021 11:00:00 -0700</pubDate>
@@ -384,7 +392,7 @@
 		<itunes:explicit>no</itunes:explicit>
 	</item>
     <item>
-		<title>Episode Ep. CXXXIX - Return of the @lojikil (Stefan Edwards)</title>
+		<title>Episode CXXXIX - Return of the @lojikil (Stefan Edwards)</title>
 		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_139.mp3</link>
 		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_139.mp3" length="39836115" type="audio/x-mp3"/>
 		<pubDate>Tue, 22 Jun 2021 11:00:00 -0700</pubDate>
