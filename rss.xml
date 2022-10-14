@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 187 - Hacking your Health, Fortinet, Secrets in Source</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_187.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_187.mp3" length="38115584" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Oct 2022 11:00:00 -0700</pubDate>
+        <description>Back once again, Ken and Seth riff off of recent health discussions to talk about hacking health and maintaining a descent work/life balance. Discussion of recent Fortinet authorization issue and how to both search for and protect against flaws in COTS (commercial-off-the-shelf) products. To close out, a quick discussion on detecting custom secrets in source and using Github regexes to monitor for them.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 186 - Security Trainings, Web3 Bounties, MFA</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_186.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_186.mp3" length="29259024" type="audio/x-mp3"/>
