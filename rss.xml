@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 188 - Security Training, Zero Trust, Rating of IoT Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_188.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_188.mp3" length="37204258" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Oct 2022 11:00:00 -0700</pubDate>
+        <description>What's that you say? There is no such thing as "done" with application security? Are our Sisyphean hosts (@cktricky and @sethlaw) therefore doomed to ever push this rock up the mountain, just to discuss ways to push it up again?</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 187 - Hacking your Health, Fortinet, Secrets in Source</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_187.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_187.mp3" length="38115584" type="audio/x-mp3"/>
