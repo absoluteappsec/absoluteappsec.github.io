@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 189 - Security Bypasses, AppMap, Dastardly</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_189.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_189.mp3" length="32586396" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Nov 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken kickoff another unique discussion by looking at a recent scholarly paper on security bypasses and workarounds by health care workers. Followed by a demo of AppMap, a development tool that shows code traces based on dynamic use. Finally, a discussion of Portswigger's new Dastardly CI/CD tool and where it fits in the security SDLC.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 188 - Security Training, Zero Trust, Rating of IoT Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_188.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_188.mp3" length="37204258" type="audio/x-mp3"/>
