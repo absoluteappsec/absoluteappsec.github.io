@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 190 - Immutable Laws of Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_190.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_190.mp3" length="38468441" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Nov 2022 11:00:00 -0700</pubDate>
+        <description>Ken and Seth break down the recently-released Immutable Laws of Security from Microsoft's Security Best Practices recommendations. Points of special interest being "Cybersecurity is a team sport", "Not keeping up is falling behind", and "Ruthless Prioritization is a survival skill"..</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 189 - Security Bypasses, AppMap, Dastardly</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_189.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_189.mp3" length="32586396" type="audio/x-mp3"/>
