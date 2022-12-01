@@ -23,11 +23,19 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 191 - DNS Attacks, Organizational Risk, Mastadon</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_191.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_191.mp3" length="31489343" type="audio/x-mp3"/>
+        <pubDate>Tue, 29 Nov 2022 11:00:00 -0700</pubDate>
+        <description>Going into the final month of 2022, the dynamic duo graces us with their presence. It begins with discussion of DNS Attacks based on Kaminsky-style attacks spurred by research presented at DeepSec by Timo Longen of Sec Consult. Followed by a conversation straight out of Slack about considerations involving organization and technical risks, specifically how to incorporate technical risk into organizational risk ratings. Finally, everyone is moving to Mastadon, but maybe they shouldn't be. Code is open source and there have been more than one flaw already identified in the service, although AppMap also shows how to use their tool to review Mastadon's source to sink interactions.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 190 - Immutable Laws of Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_190.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_190.mp3" length="38468441" type="audio/x-mp3"/>
         <pubDate>Tue, 08 Nov 2022 11:00:00 -0700</pubDate>
-        <description>Ken and Seth break down the recently-released Immutable Laws of Security from Microsoft's Security Best Practices recommendations. Points of special interest being "Cybersecurity is a team sport", "Not keeping up is falling behind", and "Ruthless Prioritization is a survival skill"..</description>
+        <description>Ken and Seth break down the recently-released Immutable Laws of Security from Microsoft's Security Best Practices recommendations. Points of special interest being "Cybersecurity is a team sport", "Not keeping up is falling behind", and "Ruthless Prioritization is a survival skill".</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
