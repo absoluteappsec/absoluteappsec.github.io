@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 192 - Blogs, GoLang Security, ChatGPT</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_192.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_192.mp3" length="39049759" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Dec 2022 11:00:00 -0700</pubDate>
+        <description>What do _you_ want for an AppSec Christmas! Another episode featuring Ken and Seth, for sure. The duo starts the conversation talking about useful AppSec and Security Blogs while featuring a recent GoLang Security post from Cole Cornford. Followed by an in-depth discussion on ChatGPT to welcome our new AI overlords. Finally, Seth and Ken both talk about what they wish to see this next year for AppSec-mas.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 191 - DNS Attacks, Organizational Risk, Mastadon</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_191.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_191.mp3" length="31489343" type="audio/x-mp3"/>
