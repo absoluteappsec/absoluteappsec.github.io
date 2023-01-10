@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 194 - Frank Wang (dbtlabs) - Organization Security, AI/ML</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_194.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_194.mp3" length="35758448" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Jan 2023 11:00:00 -0700</pubDate>
+        <description>Frank Wang from dbtlabs (@ffwang2 on twitter) joins Seth and Ken for a discussion on current security landscape, artificial intelligence, and machine learning. Follow Frank on twitter or through his blog at https://franklyspeaking.substack.com/. Discussion starts with current breaches and how organizations approach security through their first security hire. This is followed by a discussion on AI related to ChatGPT and how it will affect security in the future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 193 - Security Metrics, End-User Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_193.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_193.mp3" length="35758448" type="audio/x-mp3"/>
