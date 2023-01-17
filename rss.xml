@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 195 - 2022 CVEs, CORS, GraphQL</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_195.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_195.mp3" length="33458054" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Jan 2023 11:00:00 -0700</pubDate>
+        <description>Ken (@cktricky) and Seth (@sethlaw) take a step away from the news to review technical articles and research released in the last couple of weeks. This includes analysis done by Jerry Gamblin on total CVEs released during 2022, a new tool for exploiting weak CORS configurations, an excellent writeup on usage along with an intentionally-vulnerable GraphQL application, and finally some thoughts on prototype pollution style vulnerabilities in other interpreted languages (specifically python).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 194 - Frank Wang (dbtlabs) - Organization Security, AI/ML</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_194.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_194.mp3" length="35758448" type="audio/x-mp3"/>
