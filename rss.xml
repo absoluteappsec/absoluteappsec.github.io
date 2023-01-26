@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 196 - API Reviews, Web App Security Features</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_196.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_196.mp3" length="34598059" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Jan 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken dig into a topic that was raised by a member of our Slack community. The initial half of the show reviews both the risks and dynamic or static review items associated with microservices. This is followed by a discussion that starts by asking the question "what are the must-have security features for a web application?"</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 195 - 2022 CVEs, CORS, GraphQL</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_195.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_195.mp3" length="33458054" type="audio/x-mp3"/>
