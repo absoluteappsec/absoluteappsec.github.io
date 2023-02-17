@@ -4,7 +4,15 @@ links.md
 ## All the Links
 ### Links shared in Livestreams
 #### 2023
- 
+
+## Absolute AppSec Ep. #199 - OWASP, Phishing, Eurostar
+* https://owasp-change.github.io/
+* https://www.bleepingcomputer.com/news/security/eurostar-forces-password-resets-then-fails-and-locks-users-out/
+* https://www.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/
+* https://xkcd.com/538/
+* https://github.com/Checkmarx/capital
+* https://ysamm.com/?p=777
+
 ## Absolute AppSec Episode 198 with Laura Bell Main
 * https://training.defcon.org/pages/def-con-trainings-bellevue-april-2023
 * https://laurabellmain.com/
