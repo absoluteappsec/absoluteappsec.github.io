@@ -23,11 +23,19 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 200 w/ Jerry Gamblin - Startups, CVEs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_200.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_200.mp3" length="35705048" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Feb 2023 11:00:00 -0700</pubDate>
+        <description>Jerry Gamblin joins Seth and Ken for the 200th episode of the podcast. The discussions starts with a lengthy analysis of startup culture, security startups, and gotchas to be aware of when employed at or considering a job with a startup. This is followed by in-depth analysis of  CVEs and how the process of publicly reporting issues in software has changed over time. A small snippet on interesting tokens/words/comments to search for in git logs and comments that point at security problems.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 199 - OWASP, Phishing, Eurostar</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_199.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_199.mp3" length="29873273" type="audio/x-mp3"/>
         <pubDate>Tue, 14 Feb 2023 11:00:00 -0700</pubDate>
-        <description>After a number of guest appearances, Ken and Seth are flying "duo" to talk through recent news across the industry. Starting with analysis of the recent OWASP Change petition that has surfaced to address needs of OWASP projects and chapters for funding and definition of how the organization supports multiple efforts. Followed by commiseration with Eurostar on their recent self-inflicted lockout of user accounts due to authentication upgrades. Finally, discussion of the recent reddit phishing scam and how the public display of their incident response shows security maturity..</description>
+        <description>After a number of guest appearances, Ken and Seth are flying "duo" to talk through recent news across the industry. Starting with analysis of the recent OWASP Change petition that has surfaced to address needs of OWASP projects and chapters for funding and definition of how the organization supports multiple efforts. Followed by commiseration with Eurostar on their recent self-inflicted lockout of user accounts due to authentication upgrades. Finally, discussion of the recent reddit phishing scam and how the public display of their incident response shows security maturity.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
