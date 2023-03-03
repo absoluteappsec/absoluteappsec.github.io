@@ -5,6 +5,18 @@ links.md
 ### Links shared in Livestreams
 #### 2023
 
+## Absolute AppSec Ep. #200 w/ Jerry Gamblin - Startups, CVEs
+*	https://kernelcon.org/training#codereview
+*	https://jerrygamblin.com/
+*	https://www.youtube.com/watch?v=mCrOi9QQCwU
+*	https://docs.google.com/presentation/d/e/2PACX-1vRrUr9_SQPQnQq-jKt4QLrBQ2t9WBL2XIuKw38kboGYXmMwxK3r2-xTsQsWkIy7b3W-LnhzAwQyJxFo/pub?start=false&loop=false&delayms=3000
+*	https://www.angellist.com/
+*	https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119594820
+*	https://nvd.nist.gov/
+*	https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html#analysis
+*	https://cve.icu/CVE2023.html
+*	https://www.jwz.org/blog/2023/02/code-with-swearing-is-better-code/
+
 ## Absolute AppSec Ep. #199 - OWASP, Phishing, Eurostar
 * https://owasp-change.github.io/
 * https://www.bleepingcomputer.com/news/security/eurostar-forces-password-resets-then-fails-and-locks-users-out/
