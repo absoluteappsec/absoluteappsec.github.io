@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 201 - Breaches, Package Managers, Audit Logs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_201.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_201.mp3" length="33337234" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Mar 2023 11:00:00 -0700</pubDate>
+        <description>A lot has happened since the 200th (!!!) episode of the podcast, so we are bring another episode with a discussion of recent events, sites, and interesting finds. First up is a discussion of recent breaches, including some stories related to consumer rewards programs and weaknesses in that space. This is followed by a discussion on responsibility of package managers (e.g. npm, pip) for disclosure or removal of known vulnerable packages. Finally, Seth's favorite topic of audit logs gets a public shaming site for services that don't follow industry best-practices.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 200 w/ Jerry Gamblin - Startups, CVEs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_200.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_200.mp3" length="35705048" type="audio/x-mp3"/>
