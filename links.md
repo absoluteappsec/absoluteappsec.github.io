@@ -5,6 +5,15 @@ links.md
 ### Links shared in Livestreams
 #### 2023
 
+## Absolute AppSec Ep. #201 - Breaches, Package Managers, Audit Logs
+* https://kernelcon.org/training#codereview
+* https://www.bleepingcomputer.com/news/security/chick-fil-a-confirms-accounts-hacked-in-months-long-automated-attack/
+* https://www.eweek.com/cloud/how-chick-fil-a-uses-kubernetes-and-gitops-at-the-edge/
+* https://blog.lastpass.com/2023/03/security-incident-update-recommended-actions/
+* https://twitter.com/bagder/status/1630704007445372928?s=20
+* https://www.npmjs.com/package/rimrafall
+* https://audit-logs.tax/
+
 ## Absolute AppSec Ep. #200 w/ Jerry Gamblin - Startups, CVEs
 *	https://kernelcon.org/training#codereview
 *	https://jerrygamblin.com/
