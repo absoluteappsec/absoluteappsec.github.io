@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 202 w/ Haseeb Awan - Mobile Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_202.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_202.mp3" length="31394959" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Mar 2023 11:00:00 -0700</pubDate>
+        <description>Ken Johnson (@cktricky on twitter) and Seth Law (@sethlaw) interview Haseeb Awan (@haseeb) founder and CEO of Efani, a mobile service provider focused on security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 201 - Breaches, Package Managers, Audit Logs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_201.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_201.mp3" length="33337234" type="audio/x-mp3"/>
