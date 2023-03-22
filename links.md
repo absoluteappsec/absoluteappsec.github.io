@@ -5,6 +5,23 @@ links.md
 ### Links shared in Livestreams
 #### 2023
 
+## Absolute AppSec Ep. #203 with Shlomi Shaki
+* https://kernelcon.org/training#codereview
+* Shlomi Shaki's LinkedIn: https://www.linkedin.com/in/shlomi/
+* https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer
+* https://www.codosaur.us/acrumen
+* https://github.com/features/copilot
+* https://github.com/sentry01
+* https://galaxy.github.com/session/day-2-supercharge-the-power-of-your-security-team-with-a-global-community-of-security-researchers
+
+
+## Absolute AppSec Ep. #202 w/ Haseeb Awan - Mobile Security
+* https://kernelcon.org/training#codereview
+* https://twitter.com/Jhaddix/status/1635012193304612866
+* Haseeb Awan's LinkedIn: https://www.linkedin.com/in/haseebawan/
+* https://www.efani.com/
+* https://github.com/W00t3k/Awesome-Cellular-Hacking
+
 ## Absolute AppSec Ep. #201 - Breaches, Package Managers, Audit Logs
 * https://kernelcon.org/training#codereview
 * https://www.bleepingcomputer.com/news/security/chick-fil-a-confirms-accounts-hacked-in-months-long-automated-attack/
