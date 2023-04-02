@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 204 - Logging, Edge Cases, Client API Exposure</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_204.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_204.mp3" length="34775589" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Mar 2023 11:00:00 -0700</pubDate>
+        <description>The dynamite duopoly that is Ken and Seth are back to take the AppSec news by storm. Starting with Seth's favorite topic of Auditing or Logging, Ken brings up the recent Okta vulnerability report related to plaintext logging of usernames and passwords. This is followed by a review of Troy Hunt's recent post on edge cases when interacting with 3rd-party services, which the duo extrapolates to security edge cases and things they have seen recently. Finally, a discussion on manipulation of client single page applications to expose administrative endpoints from a recent twitter thread on reported and identified bug bounty issues of the same flavor.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 203 w/ Shlomi Shaki - Security Tools</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_203.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_203.mp3" length="35930696" type="audio/x-mp3"/>
