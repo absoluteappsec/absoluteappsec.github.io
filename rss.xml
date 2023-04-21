@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 205 - Decline of AppSec, Death of Code Review</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_205.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_205.mp3" length="32675104" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Apr 2023 11:00:00 -0700</pubDate>
+        <description>Finally returning to the podcast after a couple weeks of travel, training, and speaking, Seth and Ken are back for more, including their own takes opinions on the decline of application security and the reported death of manual code reviews.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 204 - Logging, Edge Cases, Client API Exposure</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_204.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_204.mp3" length="34775589" type="audio/x-mp3"/>
