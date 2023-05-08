@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 206 - RSA, Artificial Intelligence, Spidering Tools</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_206.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_206.mp3" length="31964160" type="audio/x-mp3"/>
+        <pubDate>Thu, 04 May 2023 11:00:00 -0700</pubDate>
+        <description>Seth Law and Ken Johnson are back this week. In this show, Seth and Ken discuss what the RSA conference did (and did not) reveal about the current state of #applicationsecurity, #appsec, #crocsandsocks. Also a discussion of the ChatGPT breach as well as AI's role in generating ever more content (in this case with news sites).</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 205 - Decline of AppSec, Death of Code Review</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_205.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_205.mp3" length="32675104" type="audio/x-mp3"/>
