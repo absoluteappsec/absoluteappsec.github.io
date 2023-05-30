@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 207 - Watering Hole Attacks, Adversarial AI, Cookie Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_207.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_207.mp3" length="36965836" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 May 2023 11:00:00 -0700</pubDate>
+        <description>Hello! We’re just a podcast, standing in front of you, aching to be the SYN to your ACK. Seth and Ken are back to talk about how the PyPI repo is experiencing an attack from multiple malicious package uploads. Seth brings up the concept of watering hole attacks and how the IDE plugin is a growing attack vector. Solarwinds discussion follows. Learning about attacking AI models, cookie security basics, and lock picking (allegedly) uses.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 206 - RSA, Artificial Intelligence, Spidering Tools</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_206.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_206.mp3" length="31964160" type="audio/x-mp3"/>
