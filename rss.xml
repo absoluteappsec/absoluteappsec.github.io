@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 208 - Zip TLD, PyPI 2FA, AI Poisoning</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_208.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_208.mp3" length="32887422" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 May 2023 11:00:00 -0700</pubDate>
+        <description>Beware! It’s double ides of May! (Proviso being that you add the integers and not the 1/2s). Sponsored by @redpointsec, an application security firm that specializes in code security by and for coders. If you're looking for Web App or mobile Pentesting, developer training, smart contract or secure-code reviews, check them out: https://redpointsecurity.com. First topic: the new .zip top-level domain and its potential problematic security implications. Followed by a discussion of PyPI and 2FA. Finally, a discussion on poisoning of ChatGPT and how it affects application security.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 207 - Watering Hole Attacks, Adversarial AI, Cookie Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_207.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_207.mp3" length="36965836" type="audio/x-mp3"/>
