@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 209 - James Wickett, Contextual Security Analysis</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_209.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_209.mp3" length="34702447" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Jun 2023 11:00:00 -0700</pubDate>
+        <description>Join us for a special episode of Absolute AppSec with James Wickett (@wickett on twitter), the co-founder of DryRun Security (dryrun.security), creator of the Lonestar Application Security Conference, and all around infosec industry veteran.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 208 - Zip TLD, PyPI 2FA, AI Poisoning</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_208.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_208.mp3" length="32887422" type="audio/x-mp3"/>
