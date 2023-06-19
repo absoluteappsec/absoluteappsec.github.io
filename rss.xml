@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 210 - Approaching Scans, AppSec Research, Threat Modeling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_210.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_210.mp3" length="35331244" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Jun 2023 11:00:00 -0700</pubDate>
+        <description>From depths comes a rumbling, and it carries the whisper of AppSec on its breath! Seth and Ken dig into approaches to conducting client scans and processing results. A review of recent research into EPP services for domain registrars along with the methodology for conducting code reviews and appsec research. Finally, some resources for threat modeling.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 209 - James Wickett, Contextual Security Analysis</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_209.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_209.mp3" length="34702447" type="audio/x-mp3"/>
