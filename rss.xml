@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 212 - Evan Johnson of RunReveal</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_212.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_212.mp3" length="35269801" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Jul 2023 11:00:00 -0700</pubDate>
+        <description>With some interesting developments going on at RunReveal, Evan Johnson joins Seth and Ken to discuss monitoring of security logs (hurray! Seth's favorite Crocs and Socks topic) and RunReveal's open beta (as well as other AppSec topics).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 211 - Brian Walter of OpenContext</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_211.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_211.mp3" length="34527145" type="audio/x-mp3"/>
