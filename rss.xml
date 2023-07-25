@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 213 - Brian Joe of Impart Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_213.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_213.mp3" length="34318268" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Jul 2023 11:00:00 -0700</pubDate>
+        <description>A special episode with Brian Joe (brianwjoe on LinkedIn), head of product and co-founder of Impart Security (impart.security). Brian has a background with Signal Sciences, Fastly, and Verizon. He posts regularly on infosec, API and application security, among other topics at Security Boulevard.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 212 - Evan Johnson of RunReveal</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_212.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_212.mp3" length="35269801" type="audio/x-mp3"/>
