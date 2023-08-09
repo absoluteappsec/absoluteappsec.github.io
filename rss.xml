@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 214 - Artificial Intelligence and Security with @lojikil</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_214.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_214.mp3" length="38045037" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Aug 2023 11:00:00 -0700</pubDate>
+        <description>A very special pre-DEF CON episode with @lojikil (aka Stefan Edwards). Seth and Stefan dig into various security aspects of artificial intelligence and the recent hype cycle around large language models (LLMs). A discussion of the recently released OWASP Top 10 for LLMs and its target audience. Finally, opinions on the recent news of ZAPs departure from OWASP and security tools in general.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 213 - Brian Joe of Impart Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_213.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_213.mp3" length="34318268" type="audio/x-mp3"/>
