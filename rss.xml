@@ -24,6 +24,14 @@
 	</image>
     <item>
         <title>Episode 214 - Artificial Intelligence and Security with @lojikil</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_215.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_215.mp3" length="34804979" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Aug 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken run through their experiences implementing Machine Learning for different application security activities. A break down the duo's experience at DEF CON 31, interesting talks, and happy hour results.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 214 - Artificial Intelligence and Security with @lojikil</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_214.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_214.mp3" length="38045037" type="audio/x-mp3"/>
         <pubDate>Tue, 08 Aug 2023 11:00:00 -0700</pubDate>
