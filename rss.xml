@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 216 - Security SDLC, Time Management</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_216.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_216.mp3" length="33318773" type="audio/x-mp3"/>
+        <pubDate>Tue, 29 Aug 2023 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back with another episode where they try _not_ to cover more on LLMs and AI. Specifically, talk about the basics of implementing security into an SDLC. A long conversation and personal experience from both Ken and Seth on time management and how to get into a flow when working on technical problems. Finally, some answers to questions on the future of AI in AppSec.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 215 - Learning Machine Learning, DEF CON 31 Recap</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_215.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_215.mp3" length="34804979" type="audio/x-mp3"/>
