@@ -5,6 +5,130 @@ links.md
 ### Links shared in Livestreams
 #### 2023
 
+## Absolute AppSec Ep. #217 w/ Shlomi Shaki - Security Tooling
+* https://texascyber.myshopify.com/products/practical-secure-code-review
+* https://training.defcon.org/products/seth-law-ken-johnson-practical-secure-code-review-1
+* https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/push-protection-for-repositories-and-organizations
+* https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/
+* https://davidvance.substack.com/p/how-next-gen-appsec-startups-are
+* https://github.com/blst-security/cherrybomb
+
+## Absolute AppSec Ep. #216 - Security SDLC, Time Management
+* https://texascyber.myshopify.com/products/practical-secure-code-review
+* https://training.defcon.org/products/seth-law-ken-johnson-practical-secure-code-review-1
+* https://www.microsoft.com/en-us/microsoft-365/python-in-excel
+* https://medium.com/immunefi/how-to-find-xss-vulnerabilities-in-nft-marketplaces-e190bd8cb8ad
+
+## Absolute AppSec Ep. #215 - Learning Machine Learning, DEF CON 31 Recap
+* https://texascyber.myshopify.com/products/practical-secure-code-review
+* https://training.defcon.org/pages/def-con-trainings-bellevue-nov-2023
+* https://www.dryrun.security/
+* https://www.dryrun.security/resources/csa-guide
+* https://www.amazon.com/What-Chatgpt-Doing-Does-Work/dp/1579550819
+* https://engineering.peerislands.io/extending-openai-gpt-4-using-langchain-and-pinecone-for-q-a-over-your-own-content-using-1f3e9dc10e91
+* https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/X%20-%20LLMs%20at%20the%20Forefront%20Pioneering%20the%20Future%20of%20Fuzz%20Testing%20in%20a%20Rapidly%20Changing%20World.pdf
+* https://github.com/tree-wizard/fuzz-forest
+
+## Absolute AppSec Episode #214 - Artificial Intelligence and Security with lojikil
+* https://simonwillison.net/
+* https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
+* https://blog.trailofbits.com/2023/07/31/how-ai-will-affect-cybersecurity-what-we-told-the-cftc/
+* https://en.wikipedia.org/wiki/Tay_(chatbot)
+* https://owasp.org/www-project-top-10-for-large-language-model-applications/
+* https://github.com/TabbyML/tabby
+* https://softwaresecurityproject.org/blog/welcoming-zap-to-the-software-security-project/
+
+## Absolute AppSec Ep. #213 - Brian Joe of Impart Security
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://www.impart.security/
+* https://www.signalsciences.com/
+* https://www.impart.security/post/2023-edition-of-owasp-api-top-10-is-out
+* https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+* https://www.impart.security/
+
+## Absolute AppSec Ep. #212 - Evan Johnson of RunReveal
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://runreveal.com/
+* https://blog.runreveal.com/runreveal-open-beta/
+* https://twitter.com/ejcx_?s=21&t=B2B9xMs1jsoajjQ_1dP-Sg
+
+## Absolute AppSec Ep. #211 - Brian Walter of OpenContext
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://www.opencontext.com/
+* https://itrevolution.com/product/investments-unlimited/
+* https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+* https://github.com/revolution-model/introduction
+* https://twitter.com/bdwalter
+
+## Absolute AppSec Ep. #210 - Approaching Scans, AppSec Research, Threat Modeling
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://absoluteappsec.com/blog/new/
+* https://hackcompute.com/hacking-epp-servers/
+* https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/
+* https://github.com/jeevan-singh/Security-Engineering-Training
+
+## Absolute AppSec Ep. #209 - James Wickett, Contextual Security Analysis
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://twitter.com/wickett
+* https://theagileadmin.com/
+* https://github.com/gauntlt/gauntlt
+* https://dryrun.security/
+
+## Absolute AppSec Ep. #208 - Zip TLD, PyPI 2FA, AI Poisoning
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5
+* https://www.bleepingcomputer.com/news/security/clever-file-archiver-in-the-browser-phishing-trick-uses-zip-domains/
+* https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/
+* https://github.com/pypi/support/issues?q=is%3Aissue+is%3Aopen+2fa
+* https://www.reddit.com/r/Python/comments/vuh41q/pypi_moves_to_require_2fa_for_critical_projects/
+* https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/
+* https://medium.com/@rramgattie/securing-pdf-generators-against-ssrf-vulnerabilities-b8f9b061c14b
+
+## Absolute AppSec Ep. #207 - Watering Hole Attacks, Adversarial AI, Cookie Security
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://twitter.com/dryrunsec/status/1661018306600669184?s=20
+* https://dryrun.security/blog/technology-veterans-james-wickett-and-ken-johnson-launch-dryrun-security-to-bring-security-to-developers
+* https://amp.thehackernews.com/thn/2023/05/pypi-repository-under-attack-user-sign.html
+* https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/
+* https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/
+* https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/
+* https://blog.ankursundara.com/cookie-bugs/
+* https://www.zope.dev/
+* https://github.com/rzhade3/adversarial-ai-reading-list
+* https://twitter.com/rzhade
+* https://greshake.github.io/
+* https://www.toool.us/
+
+## Absolute AppSec #206 - RSA, Artificial Intelligence, Spidering Tools
+* https://training.defcon.org/products/seth-law-practical-code-review
+* https://www.rsaconference.com/usa/programs/innovation-sandbox
+* https://securityintelligence.com/articles/chatgpt-confirms-data-breach/
+* https://www.newsguardtech.com/special-reports/newsbots-ai-generated-news-websites-proliferating/
+* https://spidersuite.github.io/
+* https://github.com/projectdiscovery/katana
+* https://gist.github.com/royra/35952b7bb1217e482a24d427848eefc2
+* https://github.com/royra?tab=repositories
+
+## Absolute AppSec Ep. #205 - Decline of AppSec, Death of Code Review
+* https://blog.sean-wright.com/code-reviews/
+* https://dualuse.io/blog/harnessing-the-hive-mind/
+* https://sushant747.gitbooks.io/total-oscp-guide/content/remote_file_inclusion.html
+* https://twitter.com/GTKlondike
+* https://www.youtube.com/c/NetsecExplained
+* https://twitter.com/peternixey/status/1640002493630369792?s=20
+* https://securityboulevard.com/2023/04/is-a-project-exodus-from-owasp-looming/
+
+## Absolute AppSec Ep. #204 - Logging, Edge Cases, Client API Exposure
+* https://kernelcon.org/training#codereview 
+* https://www.infosecurity-magazine.com/news/attack-method-affect-okta-passwords/ 
+* https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/ 
+* https://twitter.com/sama/status/1638635717462200320 
+* https://twitter.com/liveoverflow/status/1640674785364520961?s=61&t=R9SZeok863tBLkyp6spsEg 
+* https://www.theverge.com/2023/3/27/23657928/twitter-source-code-leak-github 
+* https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/ 
+* https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers 
+* https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome 
+
 ## Absolute AppSec Ep. #203 with Shlomi Shaki
 * https://kernelcon.org/training#codereview
 * Shlomi Shaki's LinkedIn: https://www.linkedin.com/in/shlomi/
