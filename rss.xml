@@ -23,11 +23,19 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 218 w/ Cole Cornford - Security Startups, Developer Training</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_218.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_218.mp3" length="44081108" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Sep 2023 11:00:00 -0700</pubDate>
+        <description>Ken (cktricky on Twitter) and Seth (sethlaw) welcome Cole Cornford (https://www.colecornford.com) to Absolute AppSec for a discussion on running a security startup and the future of security training for developers and organizations. Cole is the CEO and Founder of Galah Cyber (https://www.galahcyber.com.au) and an all around AppSec maestro, frequently presenting at conferences and contributing to security working groups, such as AppSec Australia. He is also an active commentator in the Absolute AppSec slack, so be sure to join discussion there in addition to tuning into this special episode.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 217 w/ Shlomi Shaki - Security Tooling</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_217.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_217.mp3" length="36469858" type="audio/x-mp3"/>
         <pubDate>Thu, 07 Sep 2023 11:00:00 -0700</pubDate>
-        <description>Shlomi is back! Shlomi Shaki, GitHub’s head of Asia-Pacific-Japan advanced security sales and all around thoughtful observer of the world of application security is back on the podcast with Ken Johnson and Seth Law.  A lively discussion on security vs. engineering and failures of security to meet development/business in the appropriate places. Suggestions for getting out of the way and letting security become a part of the culture instead of forcing it onto individuals..</description>
+        <description>Shlomi is back! Shlomi Shaki, GitHub’s head of Asia-Pacific-Japan advanced security sales and all around thoughtful observer of the world of application security is back on the podcast with Ken Johnson and Seth Law.  A lively discussion on security vs. engineering and failures of security to meet development/business in the appropriate places. Suggestions for getting out of the way and letting security become a part of the culture instead of forcing it onto individuals.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
