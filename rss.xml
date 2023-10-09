@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 219 w/Jason Haddix - Discovery Tools, Security Research</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_219.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_219.mp3" length="32941720" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Sep 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined last minute by Jason Haddix (@jhaddix). Conversion about DEF CON talks, use of LLMs in research, and recently released tools.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 218 w/ Cole Cornford - Security Startups, Developer Training</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_218.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_218.mp3" length="44081108" type="audio/x-mp3"/>
