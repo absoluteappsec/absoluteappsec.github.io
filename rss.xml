@@ -23,10 +23,18 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 220 w/ Erik Cabetas (Include Security)</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_220.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_220.mp3" length="38094090" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Oct 2023 11:00:00 -0700</pubDate>
+        <description>Erik Cabetas, founder and managing partner of Include Security joins Ken Johnson (@cktricky on twitter) and Seth Law (@sethlaw). Erik has been running Include Security for the last decade, and before that comes from a path that includes time working with early security teams at MicroSoft and Fortify Software, blue-team stints with financial groups as well as heading security for an eCommerce firm. Join us for a wide-ranging and expertly informed discussion of Application Security in many of its facets.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 219 w/Jason Haddix - Discovery Tools, Security Research</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_219.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_219.mp3" length="32941720" type="audio/x-mp3"/>
-        <pubDate>Tue, 19 Sep 2023 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 03 Oct 2023 11:00:00 -0700</pubDate>
         <description>Seth and Ken are joined last minute by Jason Haddix (@jhaddix). Conversion about DEF CON talks, use of LLMs in research, and recently released tools.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
