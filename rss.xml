@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 221 - Interviews, Breach, AI Tools</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_221.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_221.mp3" length="33900169" type="audio/x-mp3"/>
+        <pubDate>Thu, 19 Oct 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back to review some recent news and community discussions. Specifically, the duo talks about the use of coding requirements and projects during interviews for application security. Both have had experience on both ends and have opinions. This is followed by reactions to the recent breach and data dumps from 23andMe. Finally, new AI tools are starting to emerge that will help security find and fix vulnerabilities.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 220 w/ Erik Cabetas (Include Security)</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_220.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_220.mp3" length="38094090" type="audio/x-mp3"/>
