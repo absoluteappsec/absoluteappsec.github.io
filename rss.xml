@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 222 w/ Leif Dreizler</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_222.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_222.mp3" length="34308056" type="audio/x-mp3"/>
+        <pubDate>Mon, 23 Oct 2023 11:00:00 -0700</pubDate>
+        <description>Ken Johnson (cktricky) and Seth Law (@sethlaw) welcome Leif Dreizler back on the show! Leif recently became a Senior Manager of Software Engineering at Semgrep (semgrep.dev) , spent the better part of a decade working in product security and security software engineering at Twilio and Segment (segment.io). He also is a podcast co-host for the 404 Security Not Found podcast.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 221 - Interviews, Breach, AI Tools</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_221.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_221.mp3" length="33900169" type="audio/x-mp3"/>
