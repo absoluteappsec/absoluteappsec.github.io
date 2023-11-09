@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 223 w/Stefan Edwards - OWASP, Privacy</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_223.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_223.mp3" length="34664051" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Nov 2023 11:00:00 -0700</pubDate>
+        <description>When cktricky is away, the lojis will play. Stefan Edwards co-hosts an episode with Seth in what ends up bypassing the AI hype to discuss the current state of OWASP. In short, things are murky but the organization is useful and the industry should support some version of its efforts. A discussion on privacy and training AI, based on recent articles and books about Clearview AI. Don't miss this Very Special Episode.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 222 w/ Leif Dreizler</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_222.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_222.mp3" length="34308056" type="audio/x-mp3"/>
