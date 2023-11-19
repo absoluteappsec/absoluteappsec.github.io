@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 224 w/ Jeevan Singh</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_224.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_224.mp3" length="33658555" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Nov 2023 11:00:00 -0700</pubDate>
+        <description>Jeevan Singh (@askjeevansingh) returns to join Ken Johnson (cktricky on Twitter) and Seth Law (sethlaw) as a guest on the podcast! Jeevan is currently with Rippling, was previously the Director of Product Security at Twilio, and before that Segment. He has been a long-time leader in security and development communities, and currently heads up the @owaspvancouver group. Tune in for ways to improve Threat Modeling, DevSecOps, and security programs in general.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 223 w/Stefan Edwards - OWASP, Privacy</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_223.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_223.mp3" length="34664051" type="audio/x-mp3"/>
