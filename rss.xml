@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+     <item>
+        <title>Episode 225 w/ Brian C Reed</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_225.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_225.mp3" length="33811076" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Nov 2023 11:00:00 -0700</pubDate>
+        <description>We are excited to have Brian C Reed, chief mobility office at NowSecure, as a special guest on the Absolute AppSec podcast. Brian has specialized in mobile security, and his company NowSecure works to secure apps, train developers in safe mobile security engineering. As a piece of his work in mobile security, Brian has helped strengthen OWASP MASVS and ADA MASA standards. He also has experience in helping build go-to-market strategies or growth plans for a range of businesses. Be sure to tune in for the discussion and join our slack for further discussion.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>Episode 224 w/ Jeevan Singh</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_224.mp3</link>
