@@ -22,7 +22,15 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
-     <item>
+    <item>
+        <title>Episode 226 - Security Reviews, CVE-2023-46214</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_226.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_226.mp3" length="29843831" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Dec 2023 11:00:00 -0700</pubDate>
+        <description>Ken and Seth decide whether the idea of security reviews are dead, spurred on by a recent blog post by Frank Wang on doing away with the current perception of reviews. This is followed by a walkthrough of the Splunk XSLT code and vulnerability for the PoC of CVE-2023-46214.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 225 w/ Brian C Reed</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_225.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_225.mp3" length="33811076" type="audio/x-mp3"/>
