@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 227 - Token Leakage, Cybersecurity Isn't Special</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3" length="36275012" type="audio/x-mp3"/>
+        <pubDate>Thu, 14 Dec 2023 11:00:00 -0700</pubDate>
+        <description>Ken and Seth return to discuss current news. First up is a discussion about token leakage based on the recent discovery of AI tokens on Github and Cloud tokens on Hugging Face's repository. The struggles that package maintainers have with hosted data and secrets is an old problem that doesnt' have a good solution. A re-hash of the recent blogpost "Cybersecurity isn't Special" and how this also isn't a new idea.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 226 - Security Reviews, CVE-2023-46214</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_226.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_226.mp3" length="29843831" type="audio/x-mp3"/>
