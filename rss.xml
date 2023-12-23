@@ -23,9 +23,17 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 228 w/ Chime Security Engineering - Monocle</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_228.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_228.mp3" length="36275012" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Dec 2023 11:00:00 -0700</pubDate>
+        <description>David Trejo (@dtrejo@infosec.exchange) and Paul Kuliniewicz, security engineers at Chime join Seth (@sethlaw on x) and Ken (@cktricky) to discuss the ins and outs of challenges and successes in a widely recognized effective product security program. You can start reading up on the Monocle program here: https://medium.com/life-at-chime/monocle-how-chime-creates-a-proactive-security-engineering-culture-part-1-dedd3846127f And part 2 here: https://medium.com/life-at-chime/mitigating-risky-pull-requests-with-monocle-risk-advisor-part-2-7013e1485bf2.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 227 - Token Leakage, Cybersecurity Isn't Special</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3</link>
-        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3" length="36275012" type="audio/x-mp3"/>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3" length="36760374" type="audio/x-mp3"/>
         <pubDate>Thu, 14 Dec 2023 11:00:00 -0700</pubDate>
         <description>Ken and Seth return to discuss current news. First up is a discussion about token leakage based on the recent discovery of AI tokens on Github and Cloud tokens on Hugging Face's repository. The struggles that package maintainers have with hosted data and secrets is an old problem that doesnt' have a good solution. A re-hash of the recent blogpost "Cybersecurity isn't Special" and how this also isn't a new idea.</description>
         <itunes:explicit>no</itunes:explicit>
