@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 230 - False Positives vs. Negatives, Scaling Vuln Management</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_230.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_230.mp3" length="32496158" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth return to settle the age old question of whether false positives or false negatives are better when dealing with security tools. Tears are shed as stories of wasted efforts ring through on the podcasting airwaves. Maybe. Discussions on AI generated recommendations and how it _can_ be useful, but also turn out poorly. Finally, introductions on large scale vulnerability management at GitHub and how organizations struggle to fix issues identified through multiple streams.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 229 - Software Supply Chain Security, 2024 Predictions</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_229.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_229.mp3" length="34799201" type="audio/x-mp3"/>
