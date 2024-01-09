@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 229 - Software Supply Chain Security, 2024 Predictions</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_229.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_229.mp3" length="34799201" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken kick off a new year talking about recent news, including improvements in security process for software supply chains. This is followed by security predictions for 2024, including LLMs, dynamic scanning, process, and other possibilities in the near future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 228 w/ Chime Security Engineering - Monocle</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_228.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_228.mp3" length="36275012" type="audio/x-mp3"/>
