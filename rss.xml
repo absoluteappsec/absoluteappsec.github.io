@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 231 - FlowMate, State of Software Supply Chain Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_231.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_231.mp3" length="35789921" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back after a weeks hiatus and start by demonstrating FlowMate, a newly released Burp Extension for building context of the parameters used by an application. This is followed by in-depth analysis of Reversing Lab's State of Software Supply Chain Security Report.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 230 - False Positives vs. Negatives, Scaling Vuln Management</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_230.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_230.mp3" length="32496158" type="audio/x-mp3"/>
