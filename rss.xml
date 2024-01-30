@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 232 - Security Jobs, Surveillance, Prompt Injection</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_232.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_232.mp3" length="34659886" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth start out with a lengthy discussion about application security jobs, training, and getting into the security space due to an article based on someone's experience moving from IT to pentesting. This is followed by possible needs for the NSA to collect commercially available browsing data. Finally, a quick hit on prompt injection and how things are moving quickly in the AI/LLM space.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 231 - FlowMate, State of Software Supply Chain Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_231.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_231.mp3" length="35789921" type="audio/x-mp3"/>
