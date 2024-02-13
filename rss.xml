@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 234 - Password Analysis, GitHub Copilot</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_234.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_234.mp3" length="32344613" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Feb 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth comment on their recent use of the same passwords across multiple organizations. Errr, or wait. That's administrators in some instances, according to recently published analysis from Lares. Will we ever get over passwords or are we doomed to repeat the past? In other news, GitHub Copilot may be (one of) the culprit(s) for the enshitification of code, based on a published paper from GitClear. Or it might just be that organizations and developers should have coding standards. Or maybe it's not that deep. Come join us and chat about it.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 233 - Scammers, Deep Fakes, Data Exposure</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_233.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_233.mp3" length="36172452" type="audio/x-mp3"/>
