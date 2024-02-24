@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 235 - 2023 Top 10 Web Hacking Techniques, LLM Agent Hacking</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_235.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_235.mp3" length="34598784" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Feb 2024 11:00:00 -0700</pubDate>
+        <description>Podcast viewers will be familiar with Portswigger's annual list of Web Hacking Techniques. Ken and Seth take some time to digest the list and recommend reviewing not only the top 10, but also the nominations. A discussion on the use of LLM Agents as a dynamic scanning engine for identifying vulnerabilities. If you aren't already using an LLM to help speed up your AppSec, why not? Finally, a discussion on security statistics and how bad they are.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 234 - Password Analysis, GitHub Copilot</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_234.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_234.mp3" length="32344613" type="audio/x-mp3"/>
