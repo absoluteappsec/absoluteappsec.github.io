@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 237 - Security 101, Nation State Hackers, Malicious Code</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_237.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_237.mp3" length="31737092" type="audio/x-mp3"/>
+        <pubDate>Tue, 12 Mar 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth return for another episode, starting out with pointers on getting into security and finding a niche, all based on a recently released Microsoft project to introduce anyone to security. This is followed by a discussion on Chinese hacking groups and recent breaches among those groups. Finally, a discussion protecting the software supply chain due to recent forking and upload of malicious repositories on GitHub.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 236 - Memory Safe Languages, LLM Supply Chain Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_236.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_236.mp3" length="37012762" type="audio/x-mp3"/>
