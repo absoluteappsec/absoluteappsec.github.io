@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 238 - AppSec vs. Enterprise Sec, Supply Chain Tool Analysis</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_238.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_238.mp3" length="37057536" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Mar 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back to talk about the difference and competing priorities of Application and Enterprise Security. In short, recent news contends that Enterprise or Infrastructure security is lacking, whereas Application or Product Security is in a good state. This is followed by a discussion on supply chain security tools due to a recent analysis conducted by DoyenSec comparing false positives and negatives from the leading tools.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 237 - Security 101, Nation State Hackers, Malicious Code</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_237.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_237.mp3" length="31737092" type="audio/x-mp3"/>
