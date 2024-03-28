@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 239 - AppSec Intel, CVEs, Authorization</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_239.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_239.mp3" length="42560514" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Mar 2024 11:00:00 -0700</pubDate>
+        <description>When Ken is away, the geeks will play. Seth is joined by podcast regular Stefan Edwards (@lojikil) to catch up on his recent work around threat hunting. This progresses into a discussion on threat intelligence and what is available for applications. A recent blog post on the utility of the CVE system spurs thoughts on the usefulness of published CVEs. Finally, opinions fly on authorization issues and  how simple misconfigurations result in the many vulnerabilities or attack chains.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 238 - AppSec vs. Enterprise Sec, Supply Chain Tool Analysis</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_238.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_238.mp3" length="37057536" type="audio/x-mp3"/>
