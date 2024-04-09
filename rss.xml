@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 240 - Code Smells, XZ Backdoor, Hallucinations</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_240.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_240.mp3" length="33323229" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Apr 2024 11:00:00 -0700</pubDate>
+        <description>After a week of travel, Seth and Ken return to the podcast with a breakdown of their travel experiences at multiple conferences and teaching their first Practical Secure Code Review course using LLMs to enhance the methodology. This is followed by reinforcement of code review steps including library research, a discussion of the recent XZ backdoor, and an article reviewing LLM hallucinations when recommending libraries.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 239 - AppSec Intel, CVEs, Authorization</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_239.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_239.mp3" length="42560514" type="audio/x-mp3"/>
