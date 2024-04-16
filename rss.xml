@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 241 - Secure Defaults, Using LLMs for Code Review</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_241.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_241.mp3" length="37895931" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Apr 2024 11:00:00 -0700</pubDate>
+        <description>**Video may be required**: this episode is focused on demonstrating uses of LLMs against various code. As such, listeners may want to watch the stream to see these uses rather than just listening. Also, Seth and Ken talk briefly at the beginning of the episode about a new tldr;sec project (thanks Clint!) called awesome secure defaults that lists out useful libraries and projects that are secure by default.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 240 - Code Smells, XZ Backdoor, Hallucinations</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_240.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_240.mp3" length="33323229" type="audio/x-mp3"/>
