@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 242 - LLMs Exploiting Vulns, State of DevSecOps</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_242.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_242.mp3" length="32409384" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Apr 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return with analysis of recent research that shows LLMs exploiting known CVEs. And no, it's not completely autonomous yet. This is followed by a breakdown of DataDog's State of DevSecOps article, backing up our gut feel of current industry needs and failures.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 241 - Secure Defaults, Using LLMs for Code Review</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_241.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_241.mp3" length="37895931" type="audio/x-mp3"/>
