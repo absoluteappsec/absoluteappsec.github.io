@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 243 - w/ Bryan Schmidt</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_243.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_243.mp3" length="30534284" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Apr 2024 11:00:00 -0700</pubDate>
+        <description>Bryan Schmidt, information security lead at Adept AI is joining Ken Johnson (@cktricky on twitter/x) and Seth Law (@Sethlaw) for a special episode of Absolute AppSec. Before Adept.AI, Bryan spent the last half decade working as a security engineering manager at, first, Flatiron Health and, later ChowNow, and he worked as a penetration tester and security consultant for that. We’ll be discussing AI during the show as Adept.ai is recently again designated as one of the AI Fortune50. Be sure to tune in to learn a little about Bryan and his trajectory into security and emerging technologies.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 242 - LLMs Exploiting Vulns, State of DevSecOps</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_242.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_242.mp3" length="32409384" type="audio/x-mp3"/>
