@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 244 - w/ Kyle Kelly - Software Security Supply Chain</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_244.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_244.mp3" length="39487235" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 May 2024 11:00:00 -0700</pubDate>
+        <description>Kyle Kelly joins Seth Law and Ken Johnson as a special guest on the Absolute AppSec podcast. Kyle is an Executive Cybersecurity Consultant at Bancsec, Inc, and Security Researcher at Semgrep, and founder of the wonderful Cramhacks newsletter. As a consultant and researcher, Kyle specializes in supply chain security, a speciality that informs the thoughts he publicizes, but even more so cramhacks reflects his desire to help his readers become contributors to improving the cybersecurity landscape and analysis of software security supply chains. Subscribe to Kyle's newsletter at cramhacks.com.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 243 - w/ Bryan Schmidt</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_243.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_243.mp3" length="30534284" type="audio/x-mp3"/>
