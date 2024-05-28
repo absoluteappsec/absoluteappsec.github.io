@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 245 - w/ Dustin Lehr - Security Champions</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_245.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_245.mp3" length="32231088" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 May 2024 11:00:00 -0700</pubDate>
+        <description>Dustin Lehr, current director of AppSec at data integration company Fivetran, joins Seth and Ken for a special episode of Absolute AppSec. Dustin has spent years helping improve companies' security cultures industry-wide, through his work co-founding Katilyst Security which focuses on helping companies create security champion programs. Additionally, in that vein, Dustin has created The Security Champion Program Success Guide and heads up the "Let's Talk Software Security" meetup. Before Fivetran, Dustin headed Application Security at Staples. To read some of his thoughts on the benefits of security champions programs as well as advice on setting it up in your organization, you can read his article here hosted on the New Stack: https://securitychampionsuccessguide.org/</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 244 - w/ Kyle Kelly - Software Security Supply Chain</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_244.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_244.mp3" length="39487235" type="audio/x-mp3"/>
