@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 246 - w/ Charles Shirer</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_246.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_246.mp3" length="33335648" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Charles Shirer joins Absolute AppSec for a special episode of the show. Charles has decades of experience as a pentester, threat hunter, red teamer, and security consultant. He's CEO of GlobalWave consulting, a security consulting firm that's been serving clients for over a decade. Charles is also a frequent conference speaker, online commentator, and tireless advocate for helping hackers find ways take care of their overall well-being.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 245 - w/ Dustin Lehr - Security Champions</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_245.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_245.mp3" length="32231088" type="audio/x-mp3"/>
