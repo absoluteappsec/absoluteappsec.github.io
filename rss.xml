@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 247 - w/ Alejandro Saenz</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_247.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_247.mp3" length="34733311" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Absolute AppSec welcomes Alejandro Saenz to join Seth Law and Ken Johnson as a guest. Alejandro has been active in application and product security fields for over a decade, most recently working in product security for Twilio. Before that he worked as a senior application security engineer and software engineer at Softrams and as an application security consultant at nVisium. Alejandro has regularly contributed to security projects for both better understanding product security metrics and monitoring assets and managing vulnerabilities.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 246 - w/ Charles Shirer</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_246.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_246.mp3" length="33335648" type="audio/x-mp3"/>
