@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 248 w/ Rahil Parikh - Building AppSec Programs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_248.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_248.mp3" length="28651851" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Rahil Parikh, manager of Security Engineering and Architecture @ Policygenius, joins Seth Law and Ken Johnson for an episode of Absolute AppSec. Rahil is long-time leader in information security who's managed security teams and application security programs at a range of organizations: Policy Genius, Zinnia, the New York Times, Frame.io (now Adobe), Jet.com (Walmart), and Gotham Digital Science (Aon). He's also organized a major technical symposium (AAHVAN 08) and has generally been strengthening the infosec community for beyond a decade. He joins the podcast for the June 18th show, so be sure to tune in to learn more about his path in the industry and his thoughts on application security, cloud security, and leading teams toward success.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 247 - w/ Alejandro Saenz</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_247.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_247.mp3" length="34733311" type="audio/x-mp3"/>
