@@ -87,6 +87,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #DFEBED;
 }
 
+.light-blue {
+    color: #72E2FE;
+}
+
 .blue {
     color: #497285;
 }
@@ -177,7 +181,15 @@ h1, h2, h3, h4, h5, h6 {
 
 /*Blog */
 
+/* Links */
 
+.links {
+    background-color: #EBE5D9;
+    color: #fff;
+    min-height: 50px;
+    padding: 10px;
+    text-align: center;
+}
 
 /* Subscribe */
 
