@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 249 w/ Tanya Janca - Secure Guardrails</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_249.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_249.mp3" length="36886477" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Tanya Janca (@shehackspurple on X) joins Ken Johnson (@cktricky) and Seth Law (@sethlaw) for a special episode of the Absolute AppSec podcast. Tanya is currently head of education and community at Semgrep, and is a prominent info security commenter and active contributor to improving the industry for everybody through helping spread values of diversity, inclusion and kindness. Tanya has had experience with a range of roles, startup founder, pentester, CISO, AppSec Engineer, and software developer, and she’s worked at major industry landmarks such as Microsoft, Adobe, and Nokia. She is an award-winning public speaker, the founder of We Hack Purple (since acquired by Semgrep), an active blogger and streamer and has delivered hundreds of talks and trainings on 6 continents. Catch up with Tanya’s multiple activities and initiatives at her website https://shehackspurple.ca</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 248 w/ Rahil Parikh - Building AppSec Programs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_248.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_248.mp3" length="28651851" type="audio/x-mp3"/>
