@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 250 - Security Startups, Polyfill Takeover</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3" length="35353917" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Jul 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back on the podcast this week without a guest for the first time in a month and start out with an in-depth discussion on startup life based on a recent article from TLDR;Sec. This is followed by thoughts on the recent influx of cash for Portswigger and how it will affect work and the testing space over the next few years. Finally, opinions on the recent polyfill[.io] malware attack and supply chain issues. Join the newsletter at news.absoluteappsec.com for further analysis or pick up some new podcast swag at merch.absoluteappsec.com</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 249 w/ Tanya Janca - Secure Guardrails</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_249.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_249.mp3" length="36886477" type="audio/x-mp3"/>
