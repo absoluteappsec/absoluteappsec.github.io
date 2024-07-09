@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 251 - Passive Scanning, Chrome Extensions, CocoaPods, NVD</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_251.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_251.mp3" length="36660536" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Jul 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back with Episode 251, continuing on with their ranting over all things application security.  This starts with a discussion of Mozilla's HTTP Observatory that scans sites for security-relevant headers and leads to a discussion of so-called "passive" scanning of internet sets for risk analysis purposes. This is followed by a walkthrough of the recent exploit of Chrome extensions for remote code execution on client browsers. Compromise of the Apple-focused CocoaPods package repository. Finally, a discussion about recent problems and headaches at the National Vulnerability Database (NVD).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 250 - Security Startups, Polyfill Takeover</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3" length="35353917" type="audio/x-mp3"/>
