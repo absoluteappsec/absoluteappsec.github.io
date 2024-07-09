@@ -1,0 +1,1658 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <title>Absolute AppSec</title>
+    <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="foundation-icons/foundation-icons.css">
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2RV0DN1WK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-E2RV0DN1WK');
+    </script>
+</head>
+<body>
+    <div class="intro">
+        <div class="row">
+            <div class="large-12 columns">
+                <div style="background-color:rgba(255,255,255,0.5); min-height:100%; width:100%;">
+                    <div class="display-table" style="height:300px; width:100%;">
+                        <div class="va-align">
+			    <img src="img/title.png" width="900"><br><br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="links">
+        <div class="row">
+            <div class="medium-4 large-4 columns">
+                <h5><a class="grey" href="https://news.absoluteappsec.com"><b>Subscribe to the Newsletter</b></a></h5>
+            </div>
+            <div class="medium-4 large-4 columns">
+                <h5><a class="grey" href="https://merch.absoluteappsec.com"><b>Podcast Merchandise</b></a></h5>
+            </div>
+            <div class="medium-4 large-4 columns">
+                <h5><a class="grey" href="https://join.slack.com/t/absoluteappsec/shared_invite/zt-1i228f6qd-qJUn2L47P38roiqVkUrq8Q"><b>Join us on Slack</b></a></h5>
+            </div>
+        </div>
+    </div>
+    <div class="about">
+        <div class="row">
+            <div class="large-2 columns">
+                <img src="img/logo.png">
+            </div>
+            <div class="large-6 columns" align="center">
+                <hr>
+                <div align="center">
+                    <h3> About <img src="img/abount-name.png" width="250"></span></h3>
+                </div>
+                <div align="left">
+                    <a class="grey" href="https://x.com/sethlaw"><b>Seth Law (@sethlaw)</b></a> & <a class="grey" href="https://x.com/cktricky"><b>Ken Johnson (@cktricky)</b></a> host an informal discussion of all things application security. Opinions, biases, and recommendations about the security industry, current events, and anything else is fair game. Guests include industry professionals ranging from consultants to managers.<br>
+		Have a topic or question?
+                </div>
+                <hr>
+            </div>
+	    <div class="large-4 columns">
+            <h4>Latest Episode</h4>
+            <hr>
+		    <h5>Episode 250 - Security Startups, Polyfill Takeover</h5>
+            <audio controls>
+                <source src="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3">
+            </audio>
+		<hr>
+<a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hYnNvbHV0ZWFwcHNlYy5jb20vcnNzLnhtbA' rel='nofollow'><img width='150' alt='Listen on Google Podcasts' src='img/google.png'/></a> | <a href="https://podcasts.apple.com/us/podcast/absolute-appsec/id1402701626"><img width="150" src="img/apple.png"></a>
+            </div>
+        </div>
+    </div>
+    <div class="info">
+        <div class="row">
+            <div align="center">
+                <h3><b>Episodes</b></h3>
+            </div>
+        </div>
+        <!--<div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               &nbsp;
+    	   </div>
+           <div class="medium-4 large-4 columns" align="left">
+               &nbsp;
+    	   </div>
+        </div>-->
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                &nbsp;
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                &nbsp;
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/4PscgC6E5cA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 250 - Security Startups, Polyfill Takeover |
+                </h5>
+            </div>
+         </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_249.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/DRcjrvomyRs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 249 w/ Tanya Janca - Secure Guardrails |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_248.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/OMyqgehMDhU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 248 w/ Rahil Parikh - Building AppSec Programs |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_247.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/isK4slLzk-U" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 247 - w/ Alejandro Saenz |
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_246.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/tcPeOJRu6PU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 246 - w/ Charles Shirer |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_245.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/nEjD79t1CeM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 245 - w/ Dustin Lehr - Security Champions |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_244.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/NsMx36Qe4aQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 244 - w/ Kyle Kelly - Software Security Supply Chain |
+                </h5>
+            </div>
+         </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_243.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/quWspqhKIGg" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 243 - w/ Bryan Schmidt |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_242.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/X79M7sqfEAg" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 242 - LLMs Exploiting Vulns, State of DevSecOps |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_241.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/rdRJK8WWV_o" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 241 - Secure Defaults, Using LLMs for Code Review |
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_240.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/QVESg0nWmQw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 240 - Code Smells, XZ Backdoor, Hallucinations |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_239.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/d8vkZPqdFLo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 239 - AppSec Intel, CVEs, Authorization |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_238.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/nzNNuerM3pM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 238 - AppSec vs. Enterprise Sec, Supply Chain Tool Analysis |
+                </h5>
+            </div>
+         </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_237.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/odGayTvT1A4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 237 - Security 101, Nation State Hackers, Malicious Code |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_236.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/jALpBoAKiB8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 236 - Memory Safe Languages, LLM Supply Chain Security |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_235.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/Ggig1p21XuM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 235 - 2023 Top 10 Web Hacking Techniques, LLM Agent Hacking |
+                </h5>
+            </div>
+         </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_234.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/VFcojWV50rA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 234 - Password Analysis, GitHub Copilot |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_233.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/OontCwV_Gi0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 233 - Scammers, Deep Fakes, Data Exposure |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_232.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/gqpdEpVm4oM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 232 - Security Jobs, Surveillance, Prompt Injection |
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_231.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/RSHITObMB8g" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 231 - FlowMate, State of Software Supply Chain Security |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_230.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/DEYR7pZXJyk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 230 - False Positives vs. Negatives, Scaling Vuln Management |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_229.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/gHexk2F-ycE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 229 - Software Supply Chain Security, 2024 Predictions |
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_228.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/WGBkmlc2Y6A" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 228 w/ Chime Security Engineering - Monocle |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/84GpBa1WWWE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 227 - Token Leakage, Cybersecurity Isn't Special |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_226.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/P5Eq-G4mRXo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 226 - Security Reviews, CVE-2023-46214 |
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_225.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/9aS6jLY0w9Y" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 225 w/ Brian C. Reed |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_224.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/gYSh2lFKj74" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 224 w/ Jeevan Singh |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_223.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/XPQ1yDZHWbA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 223 w/Stefan Edwards - OWASP, Privacy |
+                </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_222.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/IoqjBQSrDF4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 222 w/ Leif Dreizler |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_221.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/OxUYDV1XRh4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 221 - Interviews, Breach, AI Tools |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_220.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtube.com/live/8eWfjUsvLu8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 220 w/ Erik Cabetas (Include Security) |
+                </h5>
+            </div>
+        </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_219.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/YYBQkic2bN4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 219 w/ Jason Haddix - Discovery Tools, Security Research |
+            </h5>
+        </div>
+         <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_218.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/TJyl4CESnMk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 218 w/ Cole Cornford - Security Startups, Developer Training |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_217.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/VJrb3SPGcyQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 217 w/ Shlomi Shaki - Security Tooling |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_216.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/THvjSVgaehE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 216 - Security SDLC, Time Management |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_215.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/KMf_N1yKmAg" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 215 - Learning Machine Learning, DEF CON 31 Recap |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_214.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/w_H9tEIGKBY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 214 - Artificial Intelligence and Security with @lojikil |
+            </h5>
+        </div>
+     </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_213.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/Y2gG-rM1Vxo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 213 - Brian Joe of Impart Security |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_212.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/2G3tWQdLQJo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 212 - Evan Johnson of RunReveal |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_211.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/FEsQviJZVbc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 211 - Brian Walter of OpenContext |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_210.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/tadAa4DDuIw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 210 - Approaching Scans, AppSec Research, Threat Modeling |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_209.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/Liq9uomMcmw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 209 - James Wickett, Contextual Security Analysis |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_208.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/f1Jfxze7sfk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 208 - Zip TLD, PyPI 2FA, AI Poisoning |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_207.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/FA6C6Kr1Ty8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 207 - Watering Hole Attacks, Adversarial AI, Cookie Security |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_206.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/mzS79dUiYno" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 206 - RSA, Artificial Intelligence, Spidering Tools |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_205.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/IPCdTWXT5uQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 205 - Decline of AppSec, Death of Code Review |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_204.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/DfAo7LPQ_AE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 204 - Logging, Edge Cases, Client API Exposure |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_203.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/PoR2G8e6V5o" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 203 w/ Shlomi Shaki - Security Tools |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_202.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/7ObY8CQhBtU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 202 w/ Haseeb Awan - Mobile Security |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_201.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/_ENIbLadfZQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 201 - Breaches, Package Managers, Audit Logs |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_200.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/EoaWnNwSS8o" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 200 w/ Jerry Gamblin - Startups, CVEs |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_199.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/bIE3jjoCI4Y" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 199 - OWASP, Phishing, Eurostar |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_198.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/xc7S5BvdQ70" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 198 with Laura Bell Main - Training |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_197.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtube.com/live/zCN-iWnaHOo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 197 with Sal Olivares - Exposed API Tokens |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_196.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/7HjA-ReGSBk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 196 - API Reviews, Web App Security Features |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_195.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/7RWuYNYL1Bc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 195 - 2022 CVEs, CORS, GraphQL |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_194.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/UYpuffVHRvA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 194 - Frank Wang (dbtlabs) - Organization Security, AI/ML |
+            </h5>
+        </div>
+       <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_193.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/iZ-ds8XDLWY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 193 - Security Metrics, End-User Security |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_192.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/Eqch3HUcPRo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 192 - Blogs, GoLang Security, ChatGPT |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_191.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/Fzwr66qv45I" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 191 - DNS Attacks, Organizational Risk, Mastadon |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_190.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/wV0botj53Uw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 190 - Immutable Laws of Security |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_189.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/VreqmGPAK7I" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 189 - Security Bypasses, AppMap, Dastardly |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_188.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/CjUSAFI7l-A" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 188 - Security Training, Zero Trust, Rating of IoT Security |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_187.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/vVpuO_K0mWE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 187 - Hacking your Health, Fortinet, Secrets in Source |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_186.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/Z8ZIZxgmX5Q" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 186 - Security Trainings, Web3 Bounties, MFA |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_185.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/8vpEb9dvaLw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 185 - <a class="light-blue" href="https://x.com/hoodiepony"></a>Daniel Ting</a> - Breaches, Optus, Uber |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_184.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/ZyMFLQ3qG4w" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 184 - Sources, Payloads, Patreon, Ethereum, Starbucks |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_183.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/YKFnKwR-FoM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 183 - Information Warfare w/LegendaryPatMan |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/wNODQSmGUTQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 182 - Twitter, LastPass, Testing Edge Cases |
+            </h5>
+        </div>
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/fhXzHskCDDM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 181 - (Post DEFCON) |
+            </h5>
+        </div>
+    </div>
+    <div class="row">
+        <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_180.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/__R280EY8Z8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 180 - Logging! Attacks! |
+            </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_179.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/l9HcKeLXVjw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 179 - Starting in AppSec, Threat Modeling |
+            </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_178.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/oHEBSTjdf1M" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 178 - Wallet Attacks(!) and Data Privacy |
+            </h5>
+          </div>
+      </div>
+      <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+             <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_177.mp3"><i class="fi-sound light-blue"></i></a> |
+                 <a href="https://youtu.be/L_vA4LX15Mc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 177 - That Post-LocoMocoSec Glow |
+             </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_176.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/w8z987qtlpw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 176 - Exposed Secrets, Semgrep Rules, IoT Security Failures |
+            </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_175.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/M0PZBrN8jPo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 175 - Web3, JWT Security, Public App Attacks |
+            </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+             <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3"><i class="fi-sound light-blue"></i></a> |
+                 <a href="https://youtu.be/pu8c8ItKXn0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 174 - Smart Contracts, Code Review Lessons Learned |
+             </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/kDkA-ubrYEQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 173 - Enumeration Attacks! |
+            </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/EJdwK82wb6M" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 172 - <a class="light-blue" href="https://x.com/jimmesta" target="_blank">Jimmy Mesta</a> - Kubernetes, Startup Adventures |
+            </h5>
+          </div>
+       </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+             <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3"><i class="fi-sound light-blue"></i></a> |
+                 <a href="https://youtu.be/-JvOSeaKjBc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 171 - Ruby Deserialization Walkthrough, Domain Takeovers |
+             </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/3AcL_37gnhY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 170 - Security Basics, Social Engineering, Plan for Failure |
+            </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/PWJPecd7XGo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 169 - Finding Security Bugs |
+            </h5>
+         </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+             <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3"><i class="fi-sound light-blue"></i></a> |
+                 <a href="https://youtu.be/j093mOfawiU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 168 - Secure Code Review, Package Confusion, Privacy Acts |
+             </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/TWM3_VHpSYc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 167 - <a class="light-blue" href="https://x.com/relotnek">Ken Toler</a> - Cryptocurrency, Spring4Shell |
+            </h5>
+         </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/ageZ_-GyjP4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 166 - Web App Firewalls, ProtestWare, CSP Level 3 |
+            </h5>
+         </div>
+       </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+             <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3"><i class="fi-sound light-blue"></i></a> |
+                 <a href="https://youtu.be/fnm3mz01kFQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 165 - Portswigger 2021 Top 10, Supply Chain Attacks, TLS Certs |
+             </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/4dxfKBaKp2M" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 164 - Supply Chain Security, Cyber Attacks, 2FA, AutoWarp |
+            </h5>
+         </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/_wEQi8ccvV4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 163 - IT Army, Secrets, Access Control |
+            </h5>
+         </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+             <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3"><i class="fi-sound light-blue"></i></a> |
+                 <a href="https://youtu.be/fzhTbRVEvpo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 162 - <a class="light-blue" href="https://x.com/mccabe615">Mike McCabe</a> - Cloud Security |
+             </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+            <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/4xYJPyBo9XE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 161 - Language Semantics, Blockchain Validations, Pentest Stories |
+            </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_160.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/9N6OX38QCmg" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 160 - Mental Health, Open Source Bug Bounties, IDOR |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_159.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/ugXNt994TOM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 159 - <a class="light-blue" href="https://x.com/ndm">Neil Matatall (@ndm)</a> - CSP, Infosec Hiring, Languages & Framework Security |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_158.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/98w9DrZ7YeA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 158 - More Supply Chains, 2021 Top Ten, CORS + CSRF |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_157.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/SfuEfQsSCFY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 157 - 2022 Predictions, Schema Libraries, NPM and Open Source Packages |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_156.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/j6QPak2GA3o" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 156 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards (@lojikil)</a> - Open Source Software, Software Bill of Materials |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_155.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/q1N2Il0VuKg" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 155 - Log4Hell, Boring AppSec, Crocs and SOCs |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_154.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/wSEZSP3WT6w" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 154 - Conferences, Cloud Security, Software Supply Chain |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_153.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/Nb9U9f_IXrY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 153 - Fuzzing, Authentication, Browser Wars (again) |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_152.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/bmf5lIls7BM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 152 - Breaches, Symbolic Execution, Dynamic vs. Static Assessments |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_151.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/4LwH8tN--B0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 151 - Secure Code Review, Software Interdependency |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_150.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/90wpUnTUEBc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 150 - <a class="light-blue" href="https://x.com/jgamblin">Jerry Gamblin</a> - NVD CVEs, Vulnerability Disclosure, Burp Cert |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_149.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/rq_AfEVSOOs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 149 - Burnout, AppSec News Sources |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_148.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/BylkLExiiLc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 148 - Facebook, Phrack, Paved Path |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_147.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/b5IVhnboDIY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 147 - <a class="light-blue" href="https://x.com/albinowax">James Kettle</a> - Security Research, HTTP Request Smuggling |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_146.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/viXpwtLJa3k" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 146 - OWASP Top 10, Bug Bounties with @JHaddix, Request Smuggling |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_145.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/yOLtrDu-xio" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 145 - Return of @cktricky, Burnout, Bumble Vuln, Brute-Forcing |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_144.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/iQZgJTPM6SU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 144 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a> - Fuzzing, Radamsa, Property Testing |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_143.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/S2SQfewMtIY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 143 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a> - HTTP/2, Black Hat/DEFCON, Kubernetes |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_142.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/7JnNd7QkfjU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 142 - AI Code Generation, Puma Scan, HTTP Request Smuggling |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_141.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/lzcww7g8zGo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode 141 - print(), Cross-Site Scripting (XSS), RiskIQ, Amass Demo |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_140.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/JGVhJhP5yMQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode #140 - <a class="light-blue" href="https://x.com/ineedmorecyber">Naomi Buckwalter</a> - Gatekeeping, Developing AppSec Resources |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_139.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/EsdKjjymg6k" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode #CXXXIX - Return of the <a class="light-blue" href="https://x.com/ineedmorecyber">@lojikil (Stefan Edwards)</a> |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_138.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/pKNdvUcpiYY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode #138 - Ransomware |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_137.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/An6wasoAkhQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode #137 - CSRF, GraphQL, Kubernetes, Docker, NoSQL Injection |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_136.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/XNL0Z6R_TOw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode #136 - AppSec Nihilism and Breaches |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_135.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/wH4Ss5Ou5XI" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode #135 - GoSDL, Language Choice, Kenna, Dependency Confusion |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_134.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/zsN2FNoUZIc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> | Episode #134 - Legal Protections, Browser Sanitization APIs, Burnout |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_133.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/PgyyCDiIzY4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #133 - Rob Shavell - Privacy |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_132.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/lGSFHzkEJcI" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #132 - Supply Chain Attacks, What I Wish I Knew Starting in Security |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_131.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/O69_XP8sJys" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #131 - Jeevan Singh - Threat Modeling |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_130.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/EbXQiDnPlE0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #130 - Facebook 'Breach', Data Privacy |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_129.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/z05p8XlNjJw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #129 - <a class="light-blue" href="https://x.com/reybango">Rey Bango</a> - JQuery, Developer Relations, Security Education |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_128.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/8YtO-0kuM8M" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #128 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a>/<a class="light-blue" href="https://x.com/dacoursey">David Coursey</a> - PHP, Backdoors, and AppSec Nihilism |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_127.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/7crdQ25M0Vs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #127 - Regexes, WAFs, Secondary Contexts |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_126.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/iySBPlCt_8A" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #126 - Junior AppSec Positions, Phishing Site Detection, Client-side JavaScript |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_125.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/1SpHiMP0vZ8ls" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #125 - Interviews, SQLi, Concurrency, Wordpress |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_124.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/khs2aRXeekU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #124 - 2020 Top 10 Web Hacking Techniques, Development vs. Security |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_123.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/xPFyDdTFEN0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #123 - Client-Side Controls, Dependency Confusion |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_122.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/LH2hiAGN7OA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #122 - <a class="light-blue" href="https://x.com/infosecdad">Brian Glas</a> - OWASP Top 10 2021 |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_121.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/37PaSHz6T44" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #121 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a> - Formal Specification, Fuzzing, LangSec |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_120.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/jkuojMVH8wU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #120 - OWASP Top 10 2021, Researcher Attacks, Parler, Phishing |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_119.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/-kASfnaFAfM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #119 - Bugtraq, Web Cache Poisoning, and Blind SSRF |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_118.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/BqS02-6m9-4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #118 - Parler, Twitter, and IDOR |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_117.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/w4O-UmKu-n8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #117 - Solarwinds, Timing Attacks, Threat Dragon |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_116.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/MuBwlgbrvW8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #116 - <a class="light-blue" href="https://x.com/LewisArdern">Lewis Ardern</a> & <a class="light-blue" href="https://x.com/PwnFunction">pwnfunction</a> - Client-Side JavaScript Security |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_115.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/yjsE_DSnK5w" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #115 - <a class="light-blue" href="https://x.com/clintgibler">Clint Gibler</a> - Static Analysis with Semgrep |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_114.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/klByndbwB0s" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #114 - Account Enumeration, Github Actions |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_113.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/LE1E0MO56LY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #113 - <a class="light-blue" href="https://x.com/JacobSalassi">Jacob Salassi</a> - Modeling Threats, Risk Assessment |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_112.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/tMRH5M0rKYQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #112 - <a class="light-blue" href="https://x.com/mfeferman">Mark Feferman</a> - Static Analysis Tools |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_111.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/1lOrXPSZ0b8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #111 - Bug Bounties, Detection as Code |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_110.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/2Lb3LPNR_rI" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #110 - Reserved Words, Authentication, Developer Patterns |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_109.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/iXHu1STJPvk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #109 - Threat Modeling & Social Media apps |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_108.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/vBPk1DsjNWw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #108 - <a class="light-blue" href="https://x.com/skp00">Sean Poris</a> - Bug Bounty Programs and H1-2010 |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_107.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/KVnUootgcB8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #107 - <a class="light-blue" href="https://x.com/_m_b_j_">Markus Schirp</a> - Ruby & Dynamic Languages |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_106.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/QyrA37yvp14" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #106 -<a class="light-blue" href="https://x.com/jmassey09">Justin Massey</a> - Logging & Monitoring |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_105.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/hntc5TryqIs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #105 - <a class="light-blue" href="https://x.com/huertamigus">Laura Migus</a> - Diversity & Inclusion |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_104.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/jmM6lc3xWDQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #104 - <a class="light-blue" href="https://x.com/leifdreizler">Leif Dreizler</a> - Authentication & SCIM |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_103.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/5HCVT_pMdu8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #103 - Secrets Management, Oded Hareven, & akeyless.io |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_102.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/fd3r5hhobkA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #102 - Popular Programming Languages, TikTok, OWASP |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_101.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/xy9kB3ShSsE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #101 - <a target="_blank" href="https://x.com/mccabe615"><span class="light-blue">Mike McCabe</span></a>, <a target="_blank" href="https://x.com/relotnek"><span class="light-blue">Ken Toler</span></a> & Cloud Security |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_100.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/mA7TGD1BJpc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #100 - Virtual Content, Bots, DDoS, Ebay |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_99.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/I8WH3dz1smI" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #99 - Contact Tracing, GnuTLS, Breaches |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_98.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/LYoSpCz9jMY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #98 - Bug Bounty Programs, Work when World is Crazy |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_97.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/GvNXxOc30lM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #97 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a> and <a class="light-blue" href="https://x.com/infosecdad">Brian Glas</a> - Threat Modeling |
+              </h5>
+          </div>
+      </div>
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_96.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/U_7zoVhVtsQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #96 - Fuzzing and Static Analysis Tools |
+               </h5>
+           </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_95.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/kXMwlQLKdH4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #95 - <a class="light-blue" href="https://x.com/JessicaRozhin">Jessica Rozhin</a> and Lady <a class="light-blue" href="https://x.com/cliuthulu">Christina Liu</a> - Incident Response, Lockpicking, Building an Infosec Culture |
+              </h5>
+          </div>
+          <div class="medium-4 large-4 columns" align="left">
+              <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_94.mp3"><i class="fi-sound light-blue"></i></a> |
+                  <a href="https://youtu.be/14Z-XnfY7GE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                  Episode #94 - Bug Bounty, Microservices vs. Monoliths, and CVE Fatigue |
+              </h5>
+          </div>
+      </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_93.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtu.be/avuGmRCcVVA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                    Episode #93 - <a class="light-blue" href="https://x.com/huntrdev">Huntr Dev</a> - Securing Open Source Software |
+                </h5>
+            </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_92.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/HlGcJRhgNG0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #92 - Working from Home, Skreen, Evolution of AppSec |
+               </h5>
+           </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_91.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtu.be/HlGcJRhgNG0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                    Episode #91 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a> -  More Voatz, Zoom, Code Reviews, Report Writing, Threat Models, and Risk Assessments |
+                </h5>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_90.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtu.be/h8tSm1YkxYY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                    Episode #90 - Voatz, HackerOne, Bug Bounties, GraphQL, Shodan Network Trends |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_89.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtu.be/0bJqI2v8zvk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                    Episode #89 - <a class="light-blue" href="https://x.com/TheSweetKat">Kat Sweet</a> - Incident Response, DevOps & Developer Training, Breaking into Security |
+                </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_88.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtu.be/TrJIDCx2Wic" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                    Episode #88 - <a class="light-blue" href="https://x.com/darth_kevin">Kevin Johnson</a> - Secure Ideas, Star Wars, Passing it On |
+                </h5>
+            </div>
+       </div>
+
+
+       <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_87.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/deZCV5QHXhY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #87 - <a class="light-blue" href="https://x.com/abhaybhargav">Abhay Bhargav</a> - Threat Modeling, DevSecOps, Microservices |
+               </h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_85.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/M_cPSszRFb0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #86 - <a class="light-blue" href="https://www.linkedin.com/in/rohan-joshi-3b23a920/">Rohan Joshi</a> - QA Security Testing, Security Champions, Paypal Vulnerabilities |
+               </h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_85.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/P_vKt2ASk_0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #85 - <a class="light-blue" href="https://x.com/golfhackerdave">David Lindner</a> - Voting Apps, Bug Bounties, IAST/RASP/WAF |
+               </h5>
+           </div>
+       </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_84.mp3"><i class="fi-sound light-blue"></i></a> |
+                    <a href="https://youtu.be/BQ5fi_vCqWs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                    Episode #84 - Tinfoil Hat Tuesday - Backdoors, Application Libraries, Equifax |
+                </h5>
+            </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_83.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/2bs6gQjLZJo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #83 - <a class="light-blue" href="https://x.com/ronperris">Ron Perris</a> - NPM, Developer Training, React |
+               </h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_82.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/0pLdsLUYHzI" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #82 - <a class="light-blue" href="https://x.com/kelleyrobinson">Kelley Robinson</a> - MFA, SHAKEN, STIR |
+               </h5>
+           </div>
+        </div>
+        <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_81.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/omTGDXnAjgc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #81 - <a class="light-blue" href="https://x.com/mmadou">Matias Madou</a> - Application Security Training |
+               </h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_80.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/qu8T3Yeg1Ag" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #80 - Louis Barrett - SIRT and AppSec |
+               </h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_79.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/I_71wPCXFtw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #79 - Live from DevSecOpsDays Austin - Next up in AppSec/DevSecops |
+               </h5>
+           </div>
+        </div>
+        <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_78.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/MweejY4TaAY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #78 - Breaches, Passwords, and Chicken Fingies |
+               </h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_77.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/pfNRgbGxtOc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #77 - <a class="light-blue" href="https://x.com/clintgibler">Clint Gibler</a>, DevSecOps, <a class="light-blue" href="https://bit.ly/tldrsec">TLDR; Sec</a> |
+               </h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_76.mp3"><i class="fi-sound light-blue"></i></a> |
+                   <a href="https://youtu.be/IxpD5GbHMWY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                   Episode #76 - <a class="light-blue" href="https://x.com/guypod">Guy Podjarny</a>, Snyk, AppScan, SCA |
+               </h5>
+           </div>
+       </div>
+        <div class="row">
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_75.mp3"><i class="fi-sound light-blue"></i></a> |
+       <a href="https://youtu.be/YTIof-RiiKk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+               Episode #75 - <a class="light-blue" href="https://x.com/infosecdad">Brian Glas</a>, OWASP Top 10, OWASPSAMM |</h5>
+           </div>
+           <div class="medium-4 large-4 columns" align="left">
+               <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_74.mp3"><i class="fi-sound light-blue"></i></a> |
+       <a href="https://youtu.be/2bQDYLdxgAs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+               Episode #74 - <a class="light-blue" href="https://x.com/ernestmueller">Ernest Mueller</a>, DevOps, Security & Cloud Computing |</h5>
+           </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_73.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/DDfTuNaqL2U" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #73 - <a class="light-blue" href="https://x.com/kevcody">Kevin Cody</a>, CORS, and Lockpicking |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_72.mp3"><i class="fi-sound light-blue"></i></a> |
+        <a href="https://youtu.be/lJxdRji4eDY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #72 - Consulting Horror Stories |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_71.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/lHY6ULGwR6Q" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #71 - <a class="light-blue" href="https://x.com/ejcx_">Evan Johnson</a>, Cloudflare, and Lastpass |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_70.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/9U-9CPki-XA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #70 - <a class="light-blue" href="https://x.com/azwilsong">Andrew Wilson</a>, OWASP, and Training New AppSec Resources |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_69.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/miaOUki5Eas" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #69 - <a class="light-blue" href="https://x.com/EricEllett">Eric Ellett</a>, Development vs. Security |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_68.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/ATZMidTB6tw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #68 - <a class="light-blue" href="https://x.com/jgamblin">Jerry Gamblin</a>, DEF CON 27 Recap |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_67.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/YTrf33-5AYs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #67 - Kubernetes Security with <a class="light-blue" href="https://x.com/lojikil">Stefan</a> and <a class="light-blue" href="https://x.com/b0bbytabl3s">Bobby</a> |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_66.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/GtJd2h3hQMY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #66 - Capital One Breach,  NPM, and Secure Code Reviews |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_65.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/EQ9cZFyJ_xA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #65 - <a class="light-blue" href="https://x.com/adam_baldwin">Adam Baldwin</a>, 3rd Party Dependencies, and Supply Chain Security |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_64.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/NHdRsItU9Fk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #64 - Hijacked Gems, Zoom RCE, and Marriott/Starwood Breach Fines |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_63.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/QtlW6tfMSKU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #63 - <a class="light-blue" href="https://x.com/JulianBerton">Julian Berton</a>, AppSec Day, Developer Training, and Security Standards |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_62.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/RqsoNMjKTaw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #62 - <a class="light-blue" href="https://x.com/amanofwar">Abdullah Munawar</a>, <a class="light-blue" href="https://x.com/picksecurity">Ben Pick</a>, Global AppSec DC, and Running an OWASP Chapter |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_61.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/KEsBR-K31dE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #61 - <a class="light-blue" href="https://x.com/shehackspurple">Tanya Janca</a>, DevSlop, Diversity, and Inclusion |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_60.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/BZ0U7K0IxNQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #60 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a>, Huawei, Android, and Programming Languages |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_59.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/ufjbF5f2yPY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #59 - <a class="light-blue" href="https://x.com/wickett">James Wickett</a> & DevOps |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_58.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/GnaWDL9wD5k" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #58 - <a class="light-blue" href="https://x.com/golfhackerdave">David Lindner</a>, RASP, Mobile, IoT |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_57.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/DFnvzGAExc4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #57 - <a class="light-blue" href="https://x.com/owaspwia">OWASP WIA</a> (Women In AppSec) Committee |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_56.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/DFnvzGAExc4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #56 - Learn to Code / Loco Moco Sec Recap |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_55.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/Q0pKAlGLFtY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #55 - <a class="light-blue" href="https://x.com/lojikil">Stefan Edwards</a> ruins Infosec - Testing Edition |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_54.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/jMaJL1ritJE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #54 - Recon-NG and Burp Suite 2 with <a class="light-blue" href="https://x.com/LaNMaSteR53">Tim Tomes</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_53.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/YQzqYm78UlU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #53 - Building AppSec at GitHub with <a class="light-blue" href="https://x.com/gose1">Greg Ose</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_52.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/4Pw_BJciR5o" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #52 - Serialization Vulns, Career Growth, and Hacking your Happiness with <a class="light-blue" href="https://x.com/carnal0wnage">Chris Gates</a> |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_51.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/RdMcMG4wCPo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #51 - XXE, Assessment Reporting and Process with <a class="light-blue" href="https://x.com/Jhyp3">Jessica Ryan</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_50.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/XJIxFYT21sw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #50 - Static Analysis Tools, DevSecOps, Secure Code Training with <a class="light-blue" href="https://x.com/0wn">Eric Heitzman</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_49.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/OeTZYIFMA-Q" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #49 - Subdomain Takeovers, DNS SSRF, Oauth Best Practices, Top 10 Web Hacking Techniques of 2019 |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_48.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/S2ky_1VX-Co" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #48 - .dev domains, Kamus with Kubernetes Secrets, Threat Modeling as Code, OWASP Glue Project & <a class="light-blue" href="https://x.com/omerlh">Omer Levi Hevroni</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_47.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/A21RnyG5fRg" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #47 - Mapping Application Source, Mobile OWASP Top 10, Mobile App Testing & <a class="light-blue" href="https://x.com/kevcody">Kevin Cody</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_46.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/4s48khEKYGA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #46 - Fuzzing, Frameworks, Training & <a class="light-blue" href="https://x.com/DanielMiessler">Daniel Miessler</a> |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_45.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/-yXMLsqmMpw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #45 - Bug Bounties, Managing AppSec, & <a class="light-blue" href="https://x.com/skp00">Sean Poris</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_44.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/XIdLgqR31qo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #44 - AppSec Cali, Bug Bounties, & <a class="light-blue" href="https://x.com/dacoursey">David Coursey</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_43.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/MdwQS4vHkNM" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #43 - DerbyCon, pwnhead, & <a class="light-blue" href="https://x.com/andmyhacks">Keith Hoodlet</a> |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_42.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/fK_68n92t3g" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #42 - SSRF Rebinding & Segment Team (<a class="light-blue" href="https://x.com/leifdreizler">Leif Dreizler</a>& <a class="light-blue" href="https://x.com/david_scrobonia">David Scrobonia</a>) - SSRF Rebinding, Breach Password Lists |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_41.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/PmXYkMmER-c" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #41 - Hidden File Enumeration + <a target="_blank" href="https://x.com/__muscles"><span class="light-blue">Will Bengtson</span></a> - AWS/Cloud Security, Cloudtrail, Trailblazer |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_40.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/9SoBbutCGu4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #40 - Secure Code Reviews, Assessment Scopes, More Breach Fatigue |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_39.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/mIqngoj5mfA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #39 - <a target="_blank" href="https://x.com/jgamblin"><span class="light-blue">Jerry Gamblin</span></a> - Breach Fatigue, AWS Re:Invent |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_38.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/cG3YDA_lRo4" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #38 - <a target="_blank" href="https://x.com/mkonda"><span class="light-blue">Matt Konda</span></a> - event_stream, Glue Tool, OWASP, Jemerai |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_37.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/beGo7l0u5cY" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #37 - <a target="_blank" href="https://x.com/lojikil"><span class="light-blue">Stefan Edwards</span></a> - Holiday Gifts, Getting Started with Security and Languages, Formal Verification. |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_36.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/4_BxM-tCjf0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #36 - <a target="_blank" href="https://x.com/mccabe615"><span class="light-blue">Mike McCabe</span></a> - Input Validation vs. XSS, Cloud Security, Building AppSec Programs, Interviews |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_35.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/qPCSsZ6Jz_Q" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #35 - <a target="_blank" href="https://x.com/travismcpeak"><span class="light-blue">Travis McPeak</span></a> - OWASP Bay Area, RepoKid, AWS Security, and SSRF |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_34.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/gtikYoT6vKc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #34 - <a target="_blank" href="https://x.com/lojikil"><span class="light-blue">Stefan Edwards</span></a> - Security Testing, Blockchain & you! |</h5>
+            </div>
+	</div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_33.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/68T-If1d-Mc" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #33 - <a target="_blank" href="https://x.com/_jtmelton"><span class="light-blue">John Melton</span></a> -  Building appsec programs, static analysis tools, and contributing to open source. |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_32.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/Ttw6539Woto" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #32 - <a target="_blank" href="https://x.com/emjohn20"><span class="light-blue">Eric Johnson</span></a> -  Burp Suite Pro setup tips, Puma Scan, teaching appsec |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_31.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/_YCbP_2g_VE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #31 - <a target="_blank" href="https://x.com/mubix"><span class="light-blue">Rob Fuller</span></a> -  Writing effective vulnerability reports, CCDC, volunteerism, NoVA Hackers |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_30.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/8abGdG3G6MQ" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #30 - <a target="_blank" href="https://x.com/_sc0rn"><span class="light-blue">Dave Ferguson</span></a> -  CSRF, AppSec Tooling, Developer Training |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_29.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/EGl4ZZRZUwU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #29 - <a target="_blank" href="https://x.com/matt_tesauro"><span class="light-blue">Matt Tesauro</span></a> -  OWASP, Defect Dojo, AppSec Pipeline Toolbox |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_28.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/M9JS8AeB4eA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #28 - <a target="_blank" href="https://x.com/astha_singhal"><span class="light-blue">Astha Singhal</span></a> -  Automating application security, bug bounties |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_27.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/h1kyoDYVVNg" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #27 - <a target="_blank" href="https://x.com/manicode"><span class="light-blue">Jim Manico</span></a> -  Jim Manico RAW, Training, OWASP, Code Security |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_26.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/lC5esDhQ9uE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #26 - <a target="_blank" href="https://x.com/Phant0mTrav3ler"><span class="light-blue">Justin Larson</span></a> - Building an AppSec program from scratch, Ruby vs. JS |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_25.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/puTS49kmulk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #25 - <a target="_blank" href="https://x.com/0xdabbad00"><span class="light-blue">Scott Piper</span></a> - AWS Security, Cloud Mapper, Cloud Tracker |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_24.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/VhkM3dCAdW8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #24 - <a target="_blank" href="https://x.com/misfir3"><span class="light-blue">Jason White</span></a> - Transitioning from developer to application security |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_23.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/deiaccKiF1Q" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #23 - <a target="_blank" href="https://x.com/relotnek"><span class="light-blue">Ken Toler</span></a> - Security programs and identifying security champions |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_22.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/sT-PNh_EGWA" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #22 - <a target="_blank" href="https://x.com/jimmesta"><span class="light-blue">Jimmy Mesta</span></a> - Kubernetes and container security |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_21.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/HpmFvhEMU10" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #21 - <a target="_blank" href="https://x.com/alsmola"><span class="light-blue">Alex Smolen</span></a> - cloudtrail-daily & webauthn |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_20.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/3YfZssU1lKs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #20 - Authentication & JWTs |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_19.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/Uhvjeuvk_jw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #19 - Submitting CFPs & More |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_18.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/BAyUvw8WsYE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #18 - <a target="_blank" href="https://x.com/carnal0wnage"><span class="light-blue">Chris Gates</span></a> (Purple Teaming/WeirdAAL) |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_17.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/EKy6r1_z1iI" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #17 - Efail & CSRF Tokens |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_16.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/aRZWzbDWEZI" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #16 - Hipster Languages/Frameworks |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_15.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/vVJWMQKfVZU" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #15 - <a target="_blank" href="https://x.com/kevcody"><span class="light-blue">Kevin Cody</a> (Mobile Security Testing) |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_14.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/3EekWg3cDhw" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #14 - <a target="_blank" href="https://x.com/iteration1"><span class="light-blue">Karthik Gaekwad</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_13.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/COEXLMaipb8" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #13 - <a target="_blank" href="https://x.com/charles_nwatu"><span class="light-blue">Charles Nwatu</a> |</h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_12.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/few9AN1zwPE" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #12 - <a target="_blank" href="https://x.com/presidentbeef"><span class="light-blue">Justin Collins</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_11.mp3"><i class="fi-sound light-blue"></i></a> |
+		<a href="https://youtu.be/Hrw4KvRWMMs" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+                Episode #11 - <a target="_blank" href="https://x.com/dacoursey"><span class="light-blue">David Coursey</a> & <a target="_blank" href="https://x.com/lojikil"><span class="light-blue">Stefan Edwards</a> |</h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_10.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://youtu.be/wqYJqKAw0Ac" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 10 - <a target="_blank" href="https://x.com/jimmesta"><span class="light-blue">Jimmy Mesta</a> | </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_9.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=RX4mdX4XUZ0" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 9 - <a target="_blank" href="https://x.com/jhaddix"><span class="light-blue">Jason Haddix</a> | </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_8.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=uQ8jSL44ITY"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 8 - <a target="_blank" href="https://x.com/ndm"><span class="light-blue">Neil Matatal</a> | </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_7.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=hYxAVoo3EKc"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 7 | </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_6.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=wdq_Q5uohpo" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 6 - <a target="_blank" href="https://x.com/kevcody"><span class="light-blue">Kevin Cody</a> | </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_5.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=ne8aLHVd4fQ"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 5 - <a target="_blank" href="https://x.com/lojikil"><span class="light-blue">Stefan Edwards</a> & <a target="_blank" href="https://x.com/dacoursey"><span class="light-blue">David Coursey</a> | </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_4.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=ML1hXTmj4Po"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 4 - <a target="_blank" href="https://x.com/ejcx_"><span class="light-blue">Evan Johnson</a> | </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_3.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=vpkA0Su-aQk" target="_blank"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 3 - <a target="_blank" href="https://x.com/jgamblin"><span class="light-blue">Jerry Gamblin</a> | </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_2.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=oM4AqzOThL0"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 2 | </h5>
+            </div>
+            <div class="medium-4 large-4 columns" align="left">
+                <h5>| <a href="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_1.mp3"><i class="fi-sound light-blue"></i></a> |
+                <a href="https://www.youtube.com/watch?v=NC3LRGYDk_U"><i class="fi-social-youtube light-blue"></i></a> |
+		Episode 1 - Introductions | </h5>
+            </div>
+        </div>
+        <div class="row">
+            <div class="large-12 columns">
+                <a class="light-blue" href="mailto:absoluteappsec@gmail.com" target="_blank">Email Us</a> | <a class="light-blue" href="https://join.slack.com/t/absoluteappsec/shared_invite/zt-1i228f6qd-qJUn2L47P38roiqVkUrq8Q" target="_blank">Join Slack</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="team">
+        <h3 class="text-center"><span class="grey"> <b> The Hosts </b></span></h3>
+        <div class="row">
+            <div class="medium-6 large-6 columns">
+                <div class="team-member">
+                    <div>
+                        <h5><a class="light-blue" href="https://x.com/sethlaw"><b>Seth Law</b></a></h5>
+			<img src="img/seth.jpg"><br>
+                        <!--Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat.-->
+                    </div>
+                </div>
+            </div>
+            <div class="medium-6 large-6 columns">
+                <div class="team-member">
+                    <div>
+                        <h5><a class="light-blue" href="https://x.com/cktricky"><b>Ken Johnson</b></a></h5>
+			<img src="img/ken.jpg"><br>
+                        <!--Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat.-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--<div class="subscribe">
+        <div class="row">
+            <div class="large-12 columns">
+                <h4> Stay Updated With Our Mailing List </h4>
+                <div class="row small-uncollapse large-collapse ">
+                    <div class="large-11 columns">
+                        <input type="text" placeholder="Your Email">
+                    </div>
+                    <div class="large-1 columns">
+                        <a href="#" class="orange-bg button">Subscribe</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <div class="contact">
+        <div style="background-color:rgba(0,0,0,0.7); min-height:100%; padding:32px; width:100%;">
+            <div class="row">
+                <div class="large-12 columns">
+                    <div class="display-table" style=" width:100%;">
+                        <div class="va-align">
+                            <h4>absoluteappsec@gmail.com | <a href="https://x.com/absoluteappsec" target="_blank"><i class="fi-social-twitter light-blue"></i> </h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="row">
+            <div class="large-12 columns">
+                <span class="light-blue">&copy; Absolute AppSec 2020</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.8.1/js/foundation.min.js"></script>
+    <script>
+        $(document).foundation();
+    </script>
+	<script>var srvyr_client_id = "1b4de737-4ed9-11eb-8604-029ac08ad624"</script> <script type="text/javascript" src="https://rdpt.io/js/srvyr.min.js"></script>
+</body>
+</html>

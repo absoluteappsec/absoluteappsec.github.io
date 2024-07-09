@@ -1,0 +1,2028 @@
+<?xml version="1.0" ?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>Absolute AppSec</title>
+	<link>https://absoluteappsec.com</link>
+	<language>en-us</language>
+	<itunes:author>Ken Johnson and Seth Law</itunes:author>
+	<itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:owner>
+            <itunes:name>Ken Johnson and Seth Law</itunes:name>
+            <itunes:email>absoluteappsec@gmail.com</itunes:email>
+        </itunes:owner>
+	<atom:link href="https://absoluteappsec.com/rss.xml" rel="self" type="application/rss+xml" />
+	<description>A weekly podcast of all things application security related. Hosted by Ken Johnson and Seth Law.</description>
+	<image>
+		<url>https://absoluteappsec.com/img/logo_1600x1600.jpg</url>
+		<link>https://absoluteappsec.com</link>
+		<title>Absolute AppSec</title>
+	</image>
+    <item>
+        <title>Episode 250 - Security Startups, Polyfill Takeover</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_250.mp3" length="35353917" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Jul 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back on the podcast this week without a guest for the first time in a month and start out with an in-depth discussion on startup life based on a recent article from TLDR;Sec. This is followed by thoughts on the recent influx of cash for Portswigger and how it will affect work and the testing space over the next few years. Finally, opinions on the recent polyfill[.io] malware attack and supply chain issues. Join the newsletter at news.absoluteappsec.com for further analysis or pick up some new podcast swag at merch.absoluteappsec.com</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 249 w/ Tanya Janca - Secure Guardrails</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_249.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_249.mp3" length="36886477" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Tanya Janca (@shehackspurple on X) joins Ken Johnson (@cktricky) and Seth Law (@sethlaw) for a special episode of the Absolute AppSec podcast. Tanya is currently head of education and community at Semgrep, and is a prominent info security commenter and active contributor to improving the industry for everybody through helping spread values of diversity, inclusion and kindness. Tanya has had experience with a range of roles, startup founder, pentester, CISO, AppSec Engineer, and software developer, and she’s worked at major industry landmarks such as Microsoft, Adobe, and Nokia. She is an award-winning public speaker, the founder of We Hack Purple (since acquired by Semgrep), an active blogger and streamer and has delivered hundreds of talks and trainings on 6 continents. Catch up with Tanya’s multiple activities and initiatives at her website https://shehackspurple.ca</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 248 w/ Rahil Parikh - Building AppSec Programs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_248.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_248.mp3" length="28651851" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Rahil Parikh, manager of Security Engineering and Architecture @ Policygenius, joins Seth Law and Ken Johnson for an episode of Absolute AppSec. Rahil is long-time leader in information security who's managed security teams and application security programs at a range of organizations: Policy Genius, Zinnia, the New York Times, Frame.io (now Adobe), Jet.com (Walmart), and Gotham Digital Science (Aon). He's also organized a major technical symposium (AAHVAN 08) and has generally been strengthening the infosec community for beyond a decade. He joins the podcast for the June 18th show, so be sure to tune in to learn more about his path in the industry and his thoughts on application security, cloud security, and leading teams toward success.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 247 - w/ Alejandro Saenz</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_247.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_247.mp3" length="34733311" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Absolute AppSec welcomes Alejandro Saenz to join Seth Law and Ken Johnson as a guest. Alejandro has been active in application and product security fields for over a decade, most recently working in product security for Twilio. Before that he worked as a senior application security engineer and software engineer at Softrams and as an application security consultant at nVisium. Alejandro has regularly contributed to security projects for both better understanding product security metrics and monitoring assets and managing vulnerabilities.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 246 - w/ Charles Shirer</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_246.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_246.mp3" length="33335648" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Jun 2024 11:00:00 -0700</pubDate>
+        <description>Charles Shirer joins Absolute AppSec for a special episode of the show. Charles has decades of experience as a pentester, threat hunter, red teamer, and security consultant. He's CEO of GlobalWave consulting, a security consulting firm that's been serving clients for over a decade. Charles is also a frequent conference speaker, online commentator, and tireless advocate for helping hackers find ways take care of their overall well-being.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 245 - w/ Dustin Lehr - Security Champions</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_245.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_245.mp3" length="32231088" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 May 2024 11:00:00 -0700</pubDate>
+        <description>Dustin Lehr, current director of AppSec at data integration company Fivetran, joins Seth and Ken for a special episode of Absolute AppSec. Dustin has spent years helping improve companies' security cultures industry-wide, through his work co-founding Katilyst Security which focuses on helping companies create security champion programs. Additionally, in that vein, Dustin has created The Security Champion Program Success Guide and heads up the "Let's Talk Software Security" meetup. Before Fivetran, Dustin headed Application Security at Staples. To read some of his thoughts on the benefits of security champions programs as well as advice on setting it up in your organization, you can read his article here hosted on the New Stack: https://securitychampionsuccessguide.org/</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 244 - w/ Kyle Kelly - Software Security Supply Chain</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_244.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_244.mp3" length="39487235" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 May 2024 11:00:00 -0700</pubDate>
+        <description>Kyle Kelly joins Seth Law and Ken Johnson as a special guest on the Absolute AppSec podcast. Kyle is an Executive Cybersecurity Consultant at Bancsec, Inc, and Security Researcher at Semgrep, and founder of the wonderful Cramhacks newsletter. As a consultant and researcher, Kyle specializes in supply chain security, a speciality that informs the thoughts he publicizes, but even more so cramhacks reflects his desire to help his readers become contributors to improving the cybersecurity landscape and analysis of software security supply chains. Subscribe to Kyle's newsletter at cramhacks.com.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 243 - w/ Bryan Schmidt</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_243.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_243.mp3" length="30534284" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Apr 2024 11:00:00 -0700</pubDate>
+        <description>Bryan Schmidt, information security lead at Adept AI is joining Ken Johnson (@cktricky on twitter/x) and Seth Law (@Sethlaw) for a special episode of Absolute AppSec. Before Adept.AI, Bryan spent the last half decade working as a security engineering manager at, first, Flatiron Health and, later ChowNow, and he worked as a penetration tester and security consultant for that. We’ll be discussing AI during the show as Adept.ai is recently again designated as one of the AI Fortune50. Be sure to tune in to learn a little about Bryan and his trajectory into security and emerging technologies.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 242 - LLMs Exploiting Vulns, State of DevSecOps</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_242.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_242.mp3" length="32409384" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Apr 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return with analysis of recent research that shows LLMs exploiting known CVEs. And no, it's not completely autonomous yet. This is followed by a breakdown of DataDog's State of DevSecOps article, backing up our gut feel of current industry needs and failures.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 241 - Secure Defaults, Using LLMs for Code Review</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_241.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_241.mp3" length="37895931" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Apr 2024 11:00:00 -0700</pubDate>
+        <description>**Video may be required**: this episode is focused on demonstrating uses of LLMs against various code. As such, listeners may want to watch the stream to see these uses rather than just listening. Also, Seth and Ken talk briefly at the beginning of the episode about a new tldr;sec project (thanks Clint!) called awesome secure defaults that lists out useful libraries and projects that are secure by default.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 240 - Code Smells, XZ Backdoor, Hallucinations</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_240.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_240.mp3" length="33323229" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Apr 2024 11:00:00 -0700</pubDate>
+        <description>After a week of travel, Seth and Ken return to the podcast with a breakdown of their travel experiences at multiple conferences and teaching their first Practical Secure Code Review course using LLMs to enhance the methodology. This is followed by reinforcement of code review steps including library research, a discussion of the recent XZ backdoor, and an article reviewing LLM hallucinations when recommending libraries.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 239 - AppSec Intel, CVEs, Authorization</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_239.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_239.mp3" length="42560514" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Mar 2024 11:00:00 -0700</pubDate>
+        <description>When Ken is away, the geeks will play. Seth is joined by podcast regular Stefan Edwards (@lojikil) to catch up on his recent work around threat hunting. This progresses into a discussion on threat intelligence and what is available for applications. A recent blog post on the utility of the CVE system spurs thoughts on the usefulness of published CVEs. Finally, opinions fly on authorization issues and  how simple misconfigurations result in the many vulnerabilities or attack chains.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 238 - AppSec vs. Enterprise Sec, Supply Chain Tool Analysis</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_238.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_238.mp3" length="37057536" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Mar 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back to talk about the difference and competing priorities of Application and Enterprise Security. In short, recent news contends that Enterprise or Infrastructure security is lacking, whereas Application or Product Security is in a good state. This is followed by a discussion on supply chain security tools due to a recent analysis conducted by DoyenSec comparing false positives and negatives from the leading tools.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 237 - Security 101, Nation State Hackers, Malicious Code</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_237.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_237.mp3" length="31737092" type="audio/x-mp3"/>
+        <pubDate>Tue, 12 Mar 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth return for another episode, starting out with pointers on getting into security and finding a niche, all based on a recently released Microsoft project to introduce anyone to security. This is followed by a discussion on Chinese hacking groups and recent breaches among those groups. Finally, a discussion protecting the software supply chain due to recent forking and upload of malicious repositories on GitHub.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 236 - Memory Safe Languages, LLM Supply Chain Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_236.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_236.mp3" length="37012762" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Mar 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken review the recent Whitehouse report on going back to the basics for software security and vulnerabilities. Specifically, how is the use of memory unsafe languages like C and C++ affecting the overall security of the internet landscape. This include a discussion on formal verification and crocs and socks of software testing. Finally, thoughts are shared on the recent use of Hugging Face and Github to host malicious code/packages and how this is a natural progression for popular package repositories.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 235 - 2023 Top 10 Web Hacking Techniques, LLM Agent Hacking</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_235.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_235.mp3" length="34598784" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Feb 2024 11:00:00 -0700</pubDate>
+        <description>Podcast viewers will be familiar with Portswigger's annual list of Web Hacking Techniques. Ken and Seth take some time to digest the list and recommend reviewing not only the top 10, but also the nominations. A discussion on the use of LLM Agents as a dynamic scanning engine for identifying vulnerabilities. If you aren't already using an LLM to help speed up your AppSec, why not? Finally, a discussion on security statistics and how bad they are.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 234 - Password Analysis, GitHub Copilot</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_234.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_234.mp3" length="32344613" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Feb 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth comment on their recent use of the same passwords across multiple organizations. Errr, or wait. That's administrators in some instances, according to recently published analysis from Lares. Will we ever get over passwords or are we doomed to repeat the past? In other news, GitHub Copilot may be (one of) the culprit(s) for the enshitification of code, based on a published paper from GitClear. Or it might just be that organizations and developers should have coding standards. Or maybe it's not that deep. Come join us and chat about it.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 233 - Scammers, Deep Fakes, Data Exposure</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_233.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_233.mp3" length="36172452" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Feb 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return to the podcast to talk about fraud scammers based on a recent article from Cory Doctorow and what AppSec can do to protect their apps and themselves. Crocs and Socks. The use of deep fakes to scam corporations to transfer money. Finally, a discussion on sensitive data and why it happens in APIs due to the recent news that Spoutible exposed all sorts of tokens as reported by Troy Hunt.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 232 - Security Jobs, Surveillance, Prompt Injection</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_232.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_232.mp3" length="34659886" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth start out with a lengthy discussion about application security jobs, training, and getting into the security space due to an article based on someone's experience moving from IT to pentesting. This is followed by possible needs for the NSA to collect commercially available browsing data. Finally, a quick hit on prompt injection and how things are moving quickly in the AI/LLM space.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 231 - FlowMate, State of Software Supply Chain Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_231.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_231.mp3" length="35789921" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back after a weeks hiatus and start by demonstrating FlowMate, a newly released Burp Extension for building context of the parameters used by an application. This is followed by in-depth analysis of Reversing Lab's State of Software Supply Chain Security Report.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 230 - False Positives vs. Negatives, Scaling Vuln Management</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_230.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_230.mp3" length="32496158" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Ken and Seth return to settle the age old question of whether false positives or false negatives are better when dealing with security tools. Tears are shed as stories of wasted efforts ring through on the podcasting airwaves. Maybe. Discussions on AI generated recommendations and how it _can_ be useful, but also turn out poorly. Finally, introductions on large scale vulnerability management at GitHub and how organizations struggle to fix issues identified through multiple streams.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 229 - Software Supply Chain Security, 2024 Predictions</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_229.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_229.mp3" length="34799201" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Jan 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken kick off a new year talking about recent news, including improvements in security process for software supply chains. This is followed by security predictions for 2024, including LLMs, dynamic scanning, process, and other possibilities in the near future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 228 w/ Chime Security Engineering - Monocle</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_228.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_228.mp3" length="36275012" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Dec 2023 11:00:00 -0700</pubDate>
+        <description>David Trejo (@dtrejo@infosec.exchange) and Paul Kuliniewicz, security engineers at Chime join Seth (@sethlaw on x) and Ken (@cktricky) to discuss the ins and outs of challenges and successes in a widely recognized effective product security program. You can start reading up on the Monocle program here: https://medium.com/life-at-chime/monocle-how-chime-creates-a-proactive-security-engineering-culture-part-1-dedd3846127f And part 2 here: https://medium.com/life-at-chime/mitigating-risky-pull-requests-with-monocle-risk-advisor-part-2-7013e1485bf2.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 227 - Token Leakage, Cybersecurity Isn't Special</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_227.mp3" length="36760374" type="audio/x-mp3"/>
+        <pubDate>Thu, 14 Dec 2023 11:00:00 -0700</pubDate>
+        <description>Ken and Seth return to discuss current news. First up is a discussion about token leakage based on the recent discovery of AI tokens on Github and Cloud tokens on Hugging Face's repository. The struggles that package maintainers have with hosted data and secrets is an old problem that doesnt' have a good solution. A re-hash of the recent blogpost "Cybersecurity isn't Special" and how this also isn't a new idea.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 226 - Security Reviews, CVE-2023-46214</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_226.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_226.mp3" length="29843831" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Dec 2023 11:00:00 -0700</pubDate>
+        <description>Ken and Seth decide whether the idea of security reviews are dead, spurred on by a recent blog post by Frank Wang on doing away with the current perception of reviews. This is followed by a walkthrough of the Splunk XSLT code and vulnerability for the PoC of CVE-2023-46214.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 225 w/ Brian C Reed</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_225.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_225.mp3" length="33811076" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Nov 2023 11:00:00 -0700</pubDate>
+        <description>We are excited to have Brian C Reed, chief mobility office at NowSecure, as a special guest on the Absolute AppSec podcast. Brian has specialized in mobile security, and his company NowSecure works to secure apps, train developers in safe mobile security engineering. As a piece of his work in mobile security, Brian has helped strengthen OWASP MASVS and ADA MASA standards. He also has experience in helping build go-to-market strategies or growth plans for a range of businesses. Be sure to tune in for the discussion and join our slack for further discussion.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 224 w/ Jeevan Singh</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_224.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_224.mp3" length="33658555" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Nov 2023 11:00:00 -0700</pubDate>
+        <description>Jeevan Singh (@askjeevansingh) returns to join Ken Johnson (cktricky on Twitter) and Seth Law (sethlaw) as a guest on the podcast! Jeevan is currently with Rippling, was previously the Director of Product Security at Twilio, and before that Segment. He has been a long-time leader in security and development communities, and currently heads up the @owaspvancouver group. Tune in for ways to improve Threat Modeling, DevSecOps, and security programs in general.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 223 w/Stefan Edwards - OWASP, Privacy</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_223.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_223.mp3" length="34664051" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Nov 2023 11:00:00 -0700</pubDate>
+        <description>When cktricky is away, the lojis will play. Stefan Edwards co-hosts an episode with Seth in what ends up bypassing the AI hype to discuss the current state of OWASP. In short, things are murky but the organization is useful and the industry should support some version of its efforts. A discussion on privacy and training AI, based on recent articles and books about Clearview AI. Don't miss this Very Special Episode.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 222 w/ Leif Dreizler</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_222.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_222.mp3" length="34308056" type="audio/x-mp3"/>
+        <pubDate>Mon, 23 Oct 2023 11:00:00 -0700</pubDate>
+        <description>Ken Johnson (cktricky) and Seth Law (@sethlaw) welcome Leif Dreizler back on the show! Leif recently became a Senior Manager of Software Engineering at Semgrep (semgrep.dev) , spent the better part of a decade working in product security and security software engineering at Twilio and Segment (segment.io). He also is a podcast co-host for the 404 Security Not Found podcast.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 221 - Interviews, Breach, AI Tools</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_221.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_221.mp3" length="33900169" type="audio/x-mp3"/>
+        <pubDate>Thu, 19 Oct 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back to review some recent news and community discussions. Specifically, the duo talks about the use of coding requirements and projects during interviews for application security. Both have had experience on both ends and have opinions. This is followed by reactions to the recent breach and data dumps from 23andMe. Finally, new AI tools are starting to emerge that will help security find and fix vulnerabilities.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 220 w/ Erik Cabetas (Include Security)</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_220.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_220.mp3" length="38094090" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Oct 2023 11:00:00 -0700</pubDate>
+        <description>Erik Cabetas, founder and managing partner of Include Security joins Ken Johnson (@cktricky on twitter) and Seth Law (@sethlaw). Erik has been running Include Security for the last decade, and before that comes from a path that includes time working with early security teams at MicroSoft and Fortify Software, blue-team stints with financial groups as well as heading security for an eCommerce firm. Join us for a wide-ranging and expertly informed discussion of Application Security in many of its facets.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 219 w/Jason Haddix - Discovery Tools, Security Research</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_219.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_219.mp3" length="32941720" type="audio/x-mp3"/>
+        <pubDate>Tue, 03 Oct 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined last minute by Jason Haddix (@jhaddix). Conversion about DEF CON talks, use of LLMs in research, and recently released tools.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 218 w/ Cole Cornford - Security Startups, Developer Training</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_218.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_218.mp3" length="44081108" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Sep 2023 11:00:00 -0700</pubDate>
+        <description>Ken (cktricky on Twitter) and Seth (sethlaw) welcome Cole Cornford (https://www.colecornford.com) to Absolute AppSec for a discussion on running a security startup and the future of security training for developers and organizations. Cole is the CEO and Founder of Galah Cyber (https://www.galahcyber.com.au) and an all around AppSec maestro, frequently presenting at conferences and contributing to security working groups, such as AppSec Australia. He is also an active commentator in the Absolute AppSec slack, so be sure to join discussion there in addition to tuning into this special episode.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 217 w/ Shlomi Shaki - Security Tooling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_217.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_217.mp3" length="36469858" type="audio/x-mp3"/>
+        <pubDate>Thu, 07 Sep 2023 11:00:00 -0700</pubDate>
+        <description>Shlomi is back! Shlomi Shaki, GitHub’s head of Asia-Pacific-Japan advanced security sales and all around thoughtful observer of the world of application security is back on the podcast with Ken Johnson and Seth Law.  A lively discussion on security vs. engineering and failures of security to meet development/business in the appropriate places. Suggestions for getting out of the way and letting security become a part of the culture instead of forcing it onto individuals.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 216 - Security SDLC, Time Management</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_216.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_216.mp3" length="33318773" type="audio/x-mp3"/>
+        <pubDate>Tue, 29 Aug 2023 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back with another episode where they try _not_ to cover more on LLMs and AI. Specifically, talk about the basics of implementing security into an SDLC. A long conversation and personal experience from both Ken and Seth on time management and how to get into a flow when working on technical problems. Finally, some answers to questions on the future of AI in AppSec.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 215 - Learning Machine Learning, DEF CON 31 Recap</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_215.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_215.mp3" length="34804979" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Aug 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken run through their experiences implementing Machine Learning for different application security activities. A break down the duo's experience at DEF CON 31, interesting talks, and happy hour results.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 214 - Artificial Intelligence and Security with @lojikil</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_214.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_214.mp3" length="38045037" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Aug 2023 11:00:00 -0700</pubDate>
+        <description>A very special pre-DEF CON episode with @lojikil (aka Stefan Edwards). Seth and Stefan dig into various security aspects of artificial intelligence and the recent hype cycle around large language models (LLMs). A discussion of the recently released OWASP Top 10 for LLMs and its target audience. Finally, opinions on the recent news of ZAPs departure from OWASP and security tools in general.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 213 - Brian Joe of Impart Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_213.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_213.mp3" length="34318268" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Jul 2023 11:00:00 -0700</pubDate>
+        <description>A special episode with Brian Joe (brianwjoe on LinkedIn), head of product and co-founder of Impart Security (impart.security). Brian has a background with Signal Sciences, Fastly, and Verizon. He posts regularly on infosec, API and application security, among other topics at Security Boulevard.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 212 - Evan Johnson of RunReveal</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_212.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_212.mp3" length="35269801" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Jul 2023 11:00:00 -0700</pubDate>
+        <description>With some interesting developments going on at RunReveal, Evan Johnson joins Seth and Ken to discuss monitoring of security logs (hurray! Seth's favorite Crocs and Socks topic) and RunReveal's open beta (as well as other AppSec topics).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 211 - Brian Walter of OpenContext</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_211.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_211.mp3" length="34527145" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Jun 2023 11:00:00 -0700</pubDate>
+        <description>Ken Johnson (@cktricky) and Seth Law (@sethlaw) host Brian Walter (@bdwalter), co-founder and CEO of OpenContext (opencontext.com), tech industry veteran with leadership stints at device-reputation company iovation (acquired by TransUnion), Xerox, Siemens, Sun Microsystems, Lockheed Martin, among others. Discussion focuses on establishing product requirements for all aspects of an application, including development, security, availability and more.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 210 - Approaching Scans, AppSec Research, Threat Modeling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_210.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_210.mp3" length="35331244" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Jun 2023 11:00:00 -0700</pubDate>
+        <description>From depths comes a rumbling, and it carries the whisper of AppSec on its breath! Seth and Ken dig into approaches to conducting client scans and processing results. A review of recent research into EPP services for domain registrars along with the methodology for conducting code reviews and appsec research. Finally, some resources for threat modeling.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 209 - James Wickett, Contextual Security Analysis</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_209.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_209.mp3" length="34702447" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Jun 2023 11:00:00 -0700</pubDate>
+        <description>Join us for a special episode of Absolute AppSec with James Wickett (@wickett on twitter), the co-founder of DryRun Security (dryrun.security), creator of the Lonestar Application Security Conference, and all around infosec industry veteran.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 208 - Zip TLD, PyPI 2FA, AI Poisoning</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_208.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_208.mp3" length="32887422" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 May 2023 11:00:00 -0700</pubDate>
+        <description>Beware! It’s double ides of May! (Proviso being that you add the integers and not the 1/2s). Sponsored by @redpointsec, an application security firm that specializes in code security by and for coders. If you're looking for Web App or mobile Pentesting, developer training, smart contract or secure-code reviews, check them out: https://redpointsecurity.com. First topic: the new .zip top-level domain and its potential problematic security implications. Followed by a discussion of PyPI and 2FA. Finally, a discussion on poisoning of ChatGPT and how it affects application security.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 207 - Watering Hole Attacks, Adversarial AI, Cookie Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_207.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_207.mp3" length="36965836" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 May 2023 11:00:00 -0700</pubDate>
+        <description>Hello! We’re just a podcast, standing in front of you, aching to be the SYN to your ACK. Seth and Ken are back to talk about how the PyPI repo is experiencing an attack from multiple malicious package uploads. Seth brings up the concept of watering hole attacks and how the IDE plugin is a growing attack vector. Solarwinds discussion follows. Learning about attacking AI models, cookie security basics, and lock picking (allegedly) uses.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 206 - RSA, Artificial Intelligence, Spidering Tools</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_206.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_206.mp3" length="31964160" type="audio/x-mp3"/>
+        <pubDate>Thu, 04 May 2023 11:00:00 -0700</pubDate>
+        <description>Seth Law and Ken Johnson are back this week. In this show, Seth and Ken discuss what the RSA conference did (and did not) reveal about the current state of #applicationsecurity, #appsec, #crocsandsocks. Also a discussion of the ChatGPT breach as well as AI's role in generating ever more content (in this case with news sites).</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 205 - Decline of AppSec, Death of Code Review</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_205.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_205.mp3" length="32675104" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Apr 2023 11:00:00 -0700</pubDate>
+        <description>Finally returning to the podcast after a couple weeks of travel, training, and speaking, Seth and Ken are back for more, including their own takes opinions on the decline of application security and the reported death of manual code reviews.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 204 - Logging, Edge Cases, Client API Exposure</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_204.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_204.mp3" length="34775589" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Mar 2023 11:00:00 -0700</pubDate>
+        <description>The dynamite duopoly that is Ken and Seth are back to take the AppSec news by storm. Starting with Seth's favorite topic of Auditing or Logging, Ken brings up the recent Okta vulnerability report related to plaintext logging of usernames and passwords. This is followed by a review of Troy Hunt's recent post on edge cases when interacting with 3rd-party services, which the duo extrapolates to security edge cases and things they have seen recently. Finally, a discussion on manipulation of client single page applications to expose administrative endpoints from a recent twitter thread on reported and identified bug bounty issues of the same flavor.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 203 w/ Shlomi Shaki - Security Tools</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_203.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_203.mp3" length="35930696" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Mar 2023 11:00:00 -0700</pubDate>
+        <description>Joining Seth and Ken is Shlomi Shaki, a tech exec with GitHub who directs sales resources related Application Security and Product Security in APJ region. Discussion revolves around adoption of security tools and the struggles of securing software from both a tooling and process perspective.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 202 w/ Haseeb Awan - Mobile Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_202.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_202.mp3" length="31394959" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Mar 2023 11:00:00 -0700</pubDate>
+        <description>Ken Johnson (@cktricky on twitter) and Seth Law (@sethlaw) interview Haseeb Awan (@haseeb) founder and CEO of Efani, a mobile service provider focused on security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 201 - Breaches, Package Managers, Audit Logs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_201.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_201.mp3" length="33337234" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Mar 2023 11:00:00 -0700</pubDate>
+        <description>A lot has happened since the 200th (!!!) episode of the podcast, so we are bring another episode with a discussion of recent events, sites, and interesting finds. First up is a discussion of recent breaches, including some stories related to consumer rewards programs and weaknesses in that space. This is followed by a discussion on responsibility of package managers (e.g. npm, pip) for disclosure or removal of known vulnerable packages. Finally, Seth's favorite topic of audit logs gets a public shaming site for services that don't follow industry best-practices.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 200 w/ Jerry Gamblin - Startups, CVEs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_200.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_200.mp3" length="35705048" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Feb 2023 11:00:00 -0700</pubDate>
+        <description>Jerry Gamblin joins Seth and Ken for the 200th episode of the podcast. The discussions starts with a lengthy analysis of startup culture, security startups, and gotchas to be aware of when employed at or considering a job with a startup. This is followed by in-depth analysis of  CVEs and how the process of publicly reporting issues in software has changed over time. A small snippet on interesting tokens/words/comments to search for in git logs and comments that point at security problems.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 199 - OWASP, Phishing, Eurostar</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_199.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_199.mp3" length="29873273" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Feb 2023 11:00:00 -0700</pubDate>
+        <description>After a number of guest appearances, Ken and Seth are flying "duo" to talk through recent news across the industry. Starting with analysis of the recent OWASP Change petition that has surfaced to address needs of OWASP projects and chapters for funding and definition of how the organization supports multiple efforts. Followed by commiseration with Eurostar on their recent self-inflicted lockout of user accounts due to authentication upgrades. Finally, discussion of the recent reddit phishing scam and how the public display of their incident response shows security maturity.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 198 with Laura Bell Main - Training</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_198.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_198.mp3" length="29779081" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Feb 2023 11:00:00 -0700</pubDate>
+        <description>Laura Bell Main, founder and CEO of safestack.io (@lady_nerd on twitter and check out her website https://laurabellmain.com to acquaint yourself with her work and recent publications), joins Seth and Ken as a special guest. The discussion revolves around security training for developers and how it has changed over the years.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 197 with Sal Olivares - Exposed API Tokens</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_197.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_197.mp3" length="30917037" type="audio/x-mp3"/>
+        <pubDate>Tue, 31 Jan 2023 11:00:00 -0700</pubDate>
+        <description>Sal Olivares, Senior Software Engineer from segment.io, joins Seth and Ken to discuss his experience with and recent blog post related to security token scanning and revocation. Sal was involved with the recently-implemented exposed scanning token service at Segment and talks through his experience, gotchas, and other security topics.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 196 - API Reviews, Web App Security Features</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_196.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_196.mp3" length="34598059" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Jan 2023 11:00:00 -0700</pubDate>
+        <description>Seth and Ken dig into a topic that was raised by a member of our Slack community. The initial half of the show reviews both the risks and dynamic or static review items associated with microservices. This is followed by a discussion that starts by asking the question "what are the must-have security features for a web application?"</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 195 - 2022 CVEs, CORS, GraphQL</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_195.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_195.mp3" length="33458054" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Jan 2023 11:00:00 -0700</pubDate>
+        <description>Ken (@cktricky) and Seth (@sethlaw) take a step away from the news to review technical articles and research released in the last couple of weeks. This includes analysis done by Jerry Gamblin on total CVEs released during 2022, a new tool for exploiting weak CORS configurations, an excellent writeup on usage along with an intentionally-vulnerable GraphQL application, and finally some thoughts on prototype pollution style vulnerabilities in other interpreted languages (specifically python).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 194 - Frank Wang (dbtlabs) - Organization Security, AI/ML</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_194.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_194.mp3" length="35758448" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Jan 2023 11:00:00 -0700</pubDate>
+        <description>Frank Wang from dbtlabs (@ffwang2 on twitter) joins Seth and Ken for a discussion on current security landscape, artificial intelligence, and machine learning. Follow Frank on twitter or through his blog at https://franklyspeaking.substack.com/. Discussion starts with current breaches and how organizations approach security through their first security hire. This is followed by a discussion on AI related to ChatGPT and how it will affect security in the future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 193 - Security Metrics, End-User Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_193.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_193.mp3" length="35758448" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Dec 2022 11:00:00 -0700</pubDate>
+        <description>@cktricky and @sethlaw host another episode starting with a lengthy discussion on security metrics spurred by a recent post by Leif Drezler (@leifdreizler). Security metrics are highly specific and custom to the organization and target audience, as evidenced by the lively discussion between the hosts. This is followed by a discussion of improvements in end-user security based on recent Apple iOS releases that change encryption and protection mechanisms for various services.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 192 - Blogs, GoLang Security, ChatGPT</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_192.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_192.mp3" length="39049759" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Dec 2022 11:00:00 -0700</pubDate>
+        <description>What do _you_ want for an AppSec Christmas! Another episode featuring Ken and Seth, for sure. The duo starts the conversation talking about useful AppSec and Security Blogs while featuring a recent GoLang Security post from Cole Cornford. Followed by an in-depth discussion on ChatGPT to welcome our new AI overlords. Finally, Seth and Ken both talk about what they wish to see this next year for AppSec-mas.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 191 - DNS Attacks, Organizational Risk, Mastadon</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_191.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_191.mp3" length="31489343" type="audio/x-mp3"/>
+        <pubDate>Tue, 29 Nov 2022 11:00:00 -0700</pubDate>
+        <description>Going into the final month of 2022, the dynamic duo graces us with their presence. It begins with discussion of DNS Attacks based on Kaminsky-style attacks spurred by research presented at DeepSec by Timo Longen of Sec Consult. Followed by a conversation straight out of Slack about considerations involving organization and technical risks, specifically how to incorporate technical risk into organizational risk ratings. Finally, everyone is moving to Mastadon, but maybe they shouldn't be. Code is open source and there have been more than one flaw already identified in the service, although AppMap also shows how to use their tool to review Mastadon's source to sink interactions.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 190 - Immutable Laws of Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_190.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_190.mp3" length="38468441" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Nov 2022 11:00:00 -0700</pubDate>
+        <description>Ken and Seth break down the recently-released Immutable Laws of Security from Microsoft's Security Best Practices recommendations. Points of special interest being "Cybersecurity is a team sport", "Not keeping up is falling behind", and "Ruthless Prioritization is a survival skill".</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 189 - Security Bypasses, AppMap, Dastardly</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_189.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_189.mp3" length="32586396" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Nov 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken kickoff another unique discussion by looking at a recent scholarly paper on security bypasses and workarounds by health care workers. Followed by a demo of AppMap, a development tool that shows code traces based on dynamic use. Finally, a discussion of Portswigger's new Dastardly CI/CD tool and where it fits in the security SDLC.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 188 - Security Training, Zero Trust, Rating of IoT Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_188.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_188.mp3" length="37204258" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Oct 2022 11:00:00 -0700</pubDate>
+        <description>What's that you say? There is no such thing as "done" with application security? Are our Sisyphean hosts (@cktricky and @sethlaw) therefore doomed to ever push this rock up the mountain, just to discuss ways to push it up again?</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 187 - Hacking your Health, Fortinet, Secrets in Source</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_187.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_187.mp3" length="38115584" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Oct 2022 11:00:00 -0700</pubDate>
+        <description>Back once again, Ken and Seth riff off of recent health discussions to talk about hacking health and maintaining a descent work/life balance. Discussion of recent Fortinet authorization issue and how to both search for and protect against flaws in COTS (commercial-off-the-shelf) products. To close out, a quick discussion on detecting custom secrets in source and using Github regexes to monitor for them.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 186 - Security Trainings, Web3 Bounties, MFA</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_186.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_186.mp3" length="29259024" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Oct 2022 11:00:00 -0700</pubDate>
+        <description>Ken is back in the land of the living, so of course he and Seth dig into the current state of information security training, how SCORM is the worst for developer training, and what goes into creating and teaching a course. Discussions on bug bounties in the web3/defi space and the nature of payouts. Finally, a discussion on MFA fatigue and how theoretical attacks have become reality.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 185 - Daniel Ting (hoodiepony) - Breaches, Optus, Uber</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_185.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_185.mp3" length="38436145" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Sep 2022 11:00:00 -0700</pubDate>
+        <description>Ken (cktricky) is out sick today, so Seth is joined by Daniel (https://twitter.com/hoodiepony) from Australia to talk about recent breaches.  Specifically, the recent breach of Optus in Australia has led to the exposure of about 10 million identity records. Daniel and Seth reference the recent Optus and Uber breaches to discuss weaknesses in identity protection, access control, and data disclosure.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 184 - Sources, Payloads, Patreon, Ethereum, Starbucks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_184.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_184.mp3" length="36302253" type="audio/x-mp3"/>
+        <pubDate>Thu, 15 Sep 2022 11:00:00 -0700</pubDate>
+        <description>Ken is back to lead a discussion on identification of interesting sources for the podcast and specifically how XSS just is not as interesting to him and Seth as it was a decade ago. A new project for analyzing and bypassing 403 responses from proxies and WAFs. Opinions on Patreon's recent layoffs and hot takes around security issues. Finally, web3-related topics of the recently-complete Ethereum merge along with Starbucks NFTs.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 183 - Information Warfare w/LegendaryPatMan</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_183.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_183.mp3" length="52811317" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Sep 2022 11:00:00 -0700</pubDate>
+        <description>Ken is away, so Loji comes to play. Absolute AppSec is hosted this week by Seth and Stefan (@lojikil) to go outside the normal topics of application security to address questions about information warfare, Ukraine, and propaganda with Stefan Edwards (@lojikil) and @LegendaryPatMan.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 182 - Twitter, LastPass, Testing Edge Cases</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_182.mp3" length="28473146" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Aug 2022 11:00:00 -0700</pubDate>
+        <description>A late decision to record an episode this week after thinking it would be scratched due to life ended up with a long discussion on the recent Twitter drama and whistleblower revelations around their security problems. Both Seth and Ken express opinions about disclosures and building out security programs. Further discussion on password managers and LastPass breach. Finally, a bug bounty report shows the importance of testing edge cases and using a bounty program to supplement integration testing.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 181 - (Post DEFCON)</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_181.mp3" length="32898325" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Aug 2022 11:00:00 -0700</pubDate>
+        <description>Finally returned from the wasteland that is Las Vegas, or at least the fun that is #hackersummercamp and #defcon30, Ken and Seth break down their different experiences and impressions from the conference, including training. A discussion on in-app browsers for mobile applications and how they are bad and should feel bad. Finally, encoding of malicious strings in DNA, of all things.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 180 - Logging! Attacks!</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_180.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_180.mp3" length="35743081" type="audio/x-mp3"/>
+        <pubDate>Wed, 10 Aug 2022 11:00:00 -0700</pubDate>
+        <description>It's time for hacker summer camp, so the duo starts out discussing upcoming events and interesting talks. A discussion of LOGGING to warms Seth's heart as it comes to light that logging of sensitive data was the cause of a recently successful web3 wallet-draining attack. Further topics include deserialization of objects in multiple sensitive data disclosures. Discussion on importance of identity provides as well as the difference between application security and product security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 179 - Starting in AppSec, Threat Modeling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_179.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_179.mp3" length="35743081" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Aug 2022 11:00:00 -0700</pubDate>
+        <description>Ken pulls Seth back into an episode to talk through the steps anyone can take to get into Application or Product Security based on some recent articles. True security professionals can come from anywhere. This leads to a discussion on threat assessment and threat modeling across the industry.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 178 - Wallet Attacks(!) and Data Privacy</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_178.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_178.mp3" length="38534421" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Jul 2022 11:00:00 -0700</pubDate>
+        <description>The duo is back and live, with an episode stolen from _some_ headlines. Specifically, a breakdown of various attacks against crypto wallets and how they stem from traditional security risks. Followed up by a discussion of data privacy disclosure, business ethics, and the tradeoffs associated with disclosing data as both a consumer and organization.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 177 - That Post-LocoMocoSec Glow</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_177.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_177.mp3" length="38869883" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Jul 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken recap some of their experiences from LocoMocoSec,  followed by a discussion on the recent Bugcrowd revelation that an employee attempted to re-submit reports for gain. A review of LaLuka's 60 RCEs in 60 minutes. Finally, thoughts on the recent Chinese data leak.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 176 - Exposed Secrets, Semgrep Rules, IoT Security Failures</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_176.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_176.mp3" length="29699650" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Jun 2022 11:00:00 -0700</pubDate>
+        <description>Guess what's coming right up!? Another edition of Absolute AppSec with your summer-school hosts, @sethlaw and @cktricky. What are the secrets out there available if one scans the internet? Well, security researchers at @RedHuntLabs have reported on a large-scale study. Giving back by publishing relevant Semgrep Rules and a lack of access control in multiple IoT devices and services.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 175 - Web3, JWT Security, Public App Attacks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_175.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_175.mp3" length="36637856" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Jun 2022 11:00:00 -0700</pubDate>
+        <description>Late night edition. Now we are tired. Seth and Ken get back to the podcast and dig into Web3 security a bit. A review of the recent blog post from portswigger on JWT security. Finally discussion on public attacks against applications coming from nation states against US-based systems. Come to LocomocoSec ... and Defcon.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 174 - Smart Contracts, Code Review Lessons Learned</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_174.mp3" length="39453110" type="audio/x-mp3"/>
+        <pubDate>Tue, 31 May 2022 11:00:00 -0700</pubDate>
+        <description>If there were a magical world where mensch-y podcasters (@cktricky and @sethlaw) discuss smart contract vulnerabilities, secure code review experiences, and package takeover attacks, wouldn't you like to know about it?! Such a world exists for your pleasure in this episode of Absolute AppSec.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 173 - Enumeration Attacks!</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_173.mp3" length="37548481" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 May 2022 11:00:00 -0700</pubDate>
+        <description>Yet ANOTHER episode of Absolute AppSec with Seth and Ken! User enumeration vulnerabilities are the order of the day.  Seth digs in on an interesting #talesfromconsulting where security questions, and the different way they appeared for real users and invalid users, revealed valid user accounts on an application. Further enumeration flaws using WAF bypasses in production systems. A story from Ken on a case where an application only checked that password-reset token was valid, but not tied to an account, allowing for unauthorized password reset of _any_ user account.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 172 - Jimmy Mesta - Kubernetes, Startup Adventures</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_172.mp3" length="36512689" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 May 2022 11:00:00 -0700</pubDate>
+        <description>Jimmy Mesta (@jimmesta) of KSOC joins Ken and Seth to talk about Kubernetes Security and startup adventures with KSOC. This leads to a discussion on the OWASP's Top 10 Kubernetes Project and how all old security principles are seen in new technologies. Jimmy breaks down his experience in funding a startup, gaining partners, and ultimately building a team.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 171 - Ruby Deserialization Walkthrough, Domain Takeovers</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_171.mp3" length="36818667" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 May 2022 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back to talk about potential of package hijacking based on DNS takeovers due to domain expirations. Ken provides a walkthrough of Ruby Deserialization techniques based on recent news articles.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 170 - Security Basics, Social Engineering, Plan for Failure</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_170.mp3" length="29745088" type="audio/x-mp3"/>
+        <pubDate>Tue, 03 May 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return with a discussion of security basics and failures resulting from lack of security hygiene. As a developer, security engineer, or a CISO, i's important to recognize that breaches will happen, so security planners should "plan for failure." "It's not a matter of if but when."</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 169 - Finding Security Bugs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_169.mp3" length="36911742" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Apr 2022 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return to the podcast and spend the episode reviewing the recent keynote from Mark Dowd at OffensiveCon 22 about the process he uses to find bugs in software.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 168 - Secure Code Review, Package Confusion, Privacy Acts</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_168.mp3" length="41728152" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Apr 2022 11:00:00 -0700</pubDate>
+        <description>What's that sound?! Could it be the Absolute AppSec train coming 'round the bend, set to deliver
+@cktricky and @sethlaw's timely takes on Application Security news?! This episode starts with an in-depth discussion about secure code review techniques based on a recent twitter thread. Further topics include more software supply chain attacks based on package confusion, the proliferation of state privacy acts, handling of bug bounty issues, and a review of the recently-patched GitLab critical security flaw.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 167 - Ken Toler - Cryptocurrency, Spring4Shell</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_167.mp3" length="37859406" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Apr 2022 11:00:00 -0700</pubDate>
+        <description>A pair of Kens. A quick discussion on Spring4Shell and how the exploit takes advantage of Java's dynamic configuration options along with a data binding aka mass assignment vulnerabilities. Ken Toler (@relotnek) joins the show to discus  the current web3 security landscape and how security can be involved in cryptocurrency projects. "There is a place for you in crypto" - @relotnek</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 166 - Web App Firewalls, ProtestWare, CSP Level 3</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_166.mp3" length="32202024" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Mar 2022 11:00:00 -0700</pubDate>
+        <description>As sands through the hourglass, another episode is falls on a Tuesday in late March. It was not _the_ first episode, but it was an episode as Ken and Seth talk about the origins of web application firewalls (WAFs) to go along with an article describing current WAF usage patterns. A heated discussion on recent software supply issues related to ProtestWare (or the changing of open source packages to highlight maintainer-focused causes). Finally, a quick look into Content Security Policy (CSP) Level 3 and upcoming browser support for the protocol.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 165 - Portswigger 2021 Top 10, Supply Chain Attacks, TLS Certs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_165.mp3" length="38493409" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Mar 2022 11:00:00 -0700</pubDate>
+        <description>Welcome to the latest nihilism and bitch session. In this episode, Seth and Ken review Portswigger's Top 10 list of the "most significant web security research released in the last year". Discussion of weak links in the NPM supply chain and what developers can look at to ascertain the security of packages they depend on. Finally, Russia has begun issuing its own TLS certificates, which always leads to better privacy and security for the general public..../s</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 164 - Supply Chain Security, Cyber Attacks, 2FA, AutoWarp</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_164.mp3" length="31491936" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Mar 2022 11:00:00 -0700</pubDate>
+        <description>What now? Another episode? You have to be kidding me. Now I get to write another summary per my job description. At least this episode covers some security topics like as Software Supply Chain Security using socket.dev and protecting yourself with security basics as a package maintainer. And the discussion of recent cyber attacks against Toyota hardware suppliers and AutoWarp vulnerability for Azure was at least interesting. Listen, or don't, I'm just required to write the description.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 163 - IT Army, Secrets, Access Control</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_163.mp3" length="36280021" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Mar 2022 11:00:00 -0700</pubDate>
+        <description>And we are live, with our 163 episode of Absolute AppSec. Say hi to Ken and Seth once again as they start out with a discussion on the IT Cyber Army and issues with enlisting to help in cyber attacks. Next up is a series of opinions on the security of environment variables and inclusion of secrets within application architectures and the cloud. Finally, a discussion on authorization and access control based on viewer demand. Yes, it's hard, yes, you should do it.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 162 - Mike McCabe (@mccabe615) - Cloud Security </title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_162.mp3" length="37834981" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Feb 2022 11:00:00 -0700</pubDate>
+        <description>After a week's hiatus, the Absolute AppSec-ers return with guest Mike McCabe (@mccabe615) to talk about all things Cloud Security. Discussions on cloud security tools, various differences between AWS and Azure, infrastructure as code (IaC), and predictions on cloudsec merging with appsec in the future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+	<item>
+        <title>Episode 161 - Language Semantics, Blockchain Validations, Pentest Stories</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_161.mp3" length="29666646" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Feb 2022 11:00:00 -0700</pubDate>
+        <description>A blast from the past as Ken and Seth reminisce about past penetration testing and security stories. A discussion of language semantics and how programming language basics are similar to spoken language basics.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 160 - Mental Health, Open Source Bug Bounties, IDOR</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_160.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_160.mp3" length="36021821" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Feb 2022 11:00:00 -0700</pubDate>
+        <description>The duplicitous duo returns with another episode that starts out in left field away from security topics by addressing mental health and how to keep sane when life gets busy, in both good and bad ways. Security does eventually become a topic in a discussion around bug bounties in the news as the European Government announces bug bounties for multiple open source projects. Finally, a discussion on the existence of IDOR _everywhere_ and how to identify it in more complex scenarios.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 159 - Neil Matatall - CSP, Infosec Hiring, Languages + Framework Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_159.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_159.mp3" length="51106566" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Jan 2022 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back to talk with a blast from the past. Neil Matatall (@ndm) of Twitter, Github, and now TikTok fame joins the discussion (again) to talk about CSP. The conversation wanders from there to hiring people in information security and tech jobs. Opinions on language and framework security defaults and why Ruby cannot be beat, errr, or is so good. Finally getting back to CSP and misunderstandings on what it provides to developers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 158 - More Supply Chains, 2021 Top Ten, CORS + CSRF</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_158.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_158.mp3" length="31932602" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Jan 2022 11:00:00 -0700</pubDate>
+        <description>Yet another episode. Always something to discuss. Ken and Seth talk about a recent article covering *theoretical* software supply chain exploits and how this will be a big thing this year. A review of Portswigger's nominations for Top Ten Web Hacking techniques of 2021. Finally, a discussion on the upcoming Chrome changes to do pre-flight requests for non-routable IP address CSRF requests.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 157 - 2022 Predictions, Schema Libraries, NPM and Open Source Packages</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_157.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_157.mp3" length="36339549" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Jan 2022 11:00:00 -0700</pubDate>
+        <description>NEW YEAR, NEW SECURITY MADNESS! The duo is back with their application security predictions for 2022. A discussion on 3rd party library differences, in particular how URL/URI Schema libraries and parsing can lead to security flaws. Finally, a discussion on recent NPM news where a developer pushed package versions that undermine the trust developers and corporations have with open source maintainers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 156 - Stefan Edwards (@lojikil) - Open Source Software, Software Bill of Materials</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_156.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_156.mp3" length="49572269" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Dec 2021 11:00:00 -0700</pubDate>
+        <description>As we get ready for the holidays, we only want to talk about log4hell and bill of materials. Please let it end, please, oh please. A surprise visit by Stefan Edwards (@lojikil) to address all things Open Source Software and Software Bill of Materials. Why this matters so much and how asset, application, and software inventory management is death by a thousand cuts. Also, happy holidays!</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 155 - Log4Hell, Boring AppSec, Crocs and SOCs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_155.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_155.mp3" length="29782277" type="audio/x-mp3"/>
+        <pubDate>Fri, 17 Dec 2021 11:00:00 -0700</pubDate>
+        <description>Tis the season... for 0 days. Discussions on the ever-present Log4j issue that the whole industry is dealing with. Kernelcon training announcements, dealing with varying expectations of clients and developers on industry terms, further appsec resources, and why crocs and socks matter.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 154 - Conferences, Cloud Security, Software Supply Chain</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_154.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_154.mp3" length="30573816" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Dec 2021 11:00:00 -0700</pubDate>
+        <description>It's one of those days, must be Q4. View of tech conferences as an outsider. An analysis of data from Google's "Threat Horizons" report and what it tells us about Cloud Security. A few items related security of the software supply chain, including an academic white paper comparing different SCA tools.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 153 - Fuzzing, Authentication, Browser Wars (again)</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_153.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_153.mp3" length="34274909" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Nov 2021 11:00:00 -0700</pubDate>
+        <description>Our last episode before its December!!! Where oh where did 2021 go? Seth and Ken wrap up a conversation on fuzzing strategies for HTTP Requests. A discussion on the difficulty of authentication and why that is. Finally, Google Chrome has taken over the web and how it comes back to the browser wars of the early 2000s.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 152 - Breaches, Symbolic Execution, Dynamic vs. Static Assessments</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_152.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_152.mp3" length="32529513" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Nov 2021 11:00:00 -0700</pubDate>
+        <description>Gobble gobble! It is that time of the year again to stuff our faces... WITH APPSEC! A discussion on breach notification related to the recent GoDaddy disclosure. Understanding symbolic execution with trail of bits. The differences of dynamic and static assessments and why both are important.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 151 - Secure Code Review, Software Interdependency</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_151.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_151.mp3" length="30945697" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Nov 2021 11:00:00 -0700</pubDate>
+        <description>Ahem, Seth and Ken return with a live code review of a recently seen authentication routine. A discussion of software interdependence and the issues it creates (such as SSRF). In other words, 151 and not even the rum... sigh. Well somehow these clowns are still allowed on YouTube so stay tuned for another episode I guess or whatever. Or don't, who cares. Worst. Internship. Ever.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 150 - Jerry Gamblin - NVD CVEs, Vulnerability Disclosure, Burp Cert</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_150.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_150.mp3" length="33758606" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Oct 2021 11:00:00 -0700</pubDate>
+        <description>Jerry Gamblin makes a return to the podcast to talk about recent events in Missouri and how _not_ to respond to responsible vulnerability disclosure. A discussion on the increase of CVEs showing up in the National Vulnerability Database, how Kenna was acquired by Cisco, and Portswigger's new Burp Suite Certificate.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 149 - Burnout, AppSec News Sources</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_149.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_149.mp3" length="30564346" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Oct 2021 11:00:00 -0700</pubDate>
+        <description>Just two old men bi***ing and moaning about App Sec and the price of a good pair of New Balances. Real discussion on dealing with burnout and imposter syndrome. How to stay engaged and interested when the excitement becomes mundane.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 148 - Facebook, Phrack, Paved Path</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_148.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_148.mp3" length="30354582" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 Oct 2021 11:00:00 -0700</pubDate>
+        <description>Strange things are afoot at the Circle K. Facebook outage and BGP routing. A new issue of phrack released on Oct 5 results a discussion on the good ol' days, BBSes, and the commercialization of security. Finally, thoughts on paved paths and how they affect security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 147 - James Kettle (@albinowax), Security Research</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_147.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_147.mp3" length="35544678" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Sep 2021 11:00:00 -0700</pubDate>
+        <description>The one and only James Kettle (@albinowax) of Portswigger joins Seth and Ken to talk about his path into security, HTTP request smuggling, and how to perform security research.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 146 - OWASP Top 10, Bug Bounties with @JHaddix, Request Smuggling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_146.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_146.mp3" length="34993127" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Sep 2021 11:00:00 -0700</pubDate>
+        <description>Now with the latest in old people ramblings. Discussion about the OWASP Top 10 Draft list and how the Top 10 should be used as an awareness document. Discussions on bug bounties with surprise guest Jason Haddix (@JHaddix). More fun with HTTP Request Smuggling.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 145 - Return of @cktricky, Burnout, Bumble Vuln, Brute-Forcing</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_145.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_145.mp3" length="38197589" type="audio/x-mp3"/>
+        <pubDate>Thu, 26 Aug 2021 11:00:00 -0700</pubDate>
+        <description>@cktricky is _back_ with a newfound lease on life (and application security). The duo discusses in-person vs. virtual conferences, DEF CON 29, burnout, vulnerabilities in dating apps. A demonstration of using Burp Suite to fuzz a user enumeration vulnerability and brute-force an account.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 144 - Fuzzing, Radamsa, Property Testing</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_144.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_144.mp3" length="39774426" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Aug 2021 11:00:00 -0700</pubDate>
+        <description>With @cktricky still on hiatus, @sethlaw and @lojikil talk fuzzing, property testing, semantic analysis and demo radamsa.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 143 - HTTP/2, Black Hat/DEFCON, Kubernetes</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_143.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_143.mp3" length="40766756" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Aug 2021 11:00:00 -0700</pubDate>
+        <description>With @cktricky out adventuring, @sethlaw is joined by a familiar face (@lojikil) to dive deeply into recent research presented at Black Hat/DEF CON,  HTTP/2, and how everything old is new again.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 142 - AI Code Generation, Puma Scan, HTTP Request Smuggling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_142.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_142.mp3" length="29507709" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Jul 2021 11:00:00 -0700</pubDate>
+        <description>Dreamin', Beamin', and Streamin' about using artificial intelligence (AI) to generate code (*cough*, *cough*). When and where to use automated source code analysis tools, specifically Puma Scan for .Net/C# code. Also a primer on HTTP Request Smuggling and what you should know about it.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 141 - print(), Cross-Site Scripting (XSS), RiskIQ, Amass Demo</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_141.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_141.mp3" length="35378576" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Jul 2021 11:00:00 -0700</pubDate>
+        <description>Just two grumpy old men with some AppSec sprinkled in. Topics this week include new research from portswigger using print to bypass new Chrome XSS iframe restrictions, how XSS is still the best (and worst) issue we deal with, and Microsoft's acquisition of RiskIQ.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+		<title>Episode 140 - Naomi Buckwalter - Gatekeeping, Developing AppSec Resources</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_140.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_140.mp3" length="36368729" type="audio/x-mp3"/>
+		<pubDate>Tue, 29 Jun 2021 11:00:00 -0700</pubDate>
+		<description>Naomi Buckwalter (@ineedmorecyber) joins Ken and Seth in a discussion about security gatekeeping, how anyone can get into application security, and the relationships between development and security.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode CXXXIX - Return of the @lojikil (Stefan Edwards)</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_139.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_139.mp3" length="39836115" type="audio/x-mp3"/>
+		<pubDate>Tue, 22 Jun 2021 11:00:00 -0700</pubDate>
+		<description>Stefan returns and we pick his brain about information security degrees, format strings, and different testing methodologies. Then we spend most of the episode googling the words that come out of his mouth.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 138: Ransomware</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_138.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_138.mp3" length="33722437" type="audio/x-mp3"/>
+		<pubDate>Tue, 15 Jun 2021 11:00:00 -0700</pubDate>
+		<description>The duo is back to talk about consulting scheduling and ransomware. Somehow this evolved to a discussion on Hipster Vulns and how auditing is the Crocs-n-SOCs of application security.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 137: CSRF, GraphQL, Kubernetes, Docker, NoSQL Injection</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_137.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_137.mp3" length="27923046" type="audio/x-mp3"/>
+		<pubDate>Tue, 08 Jun 2021 11:00:00 -0700</pubDate>
+		<description>Live from their parent's basement and dripping with tin foil - Seth and Ken talk about how CSRF is a thing in GraphQL. Kubernetes gets an intentionally-vulnerable setup, and you should definitely check the security of your docker. Finally, some noise about the NoSQL Injection Cheat Sheet.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 136: AppSec Nihilism and Breaches</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_136.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_136.mp3" length="33875000" type="audio/x-mp3"/>
+		<pubDate>Tue, 01 Jun 2021 11:00:00 -0700</pubDate>
+		<description>Back off of a week's break, Seth and Ken catch up on breach news. A return of security nihilism is also in order based on recent breaches and exploits.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 135: GoSDL, Language Choice, Kenna, Dependency Confusion</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_135.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_135.mp3" length="33584230" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 May 2021 11:00:00 -0700</pubDate>
+		<description>Punchy and Grumpy are back at it starting with a discussion on GoSDL and how it integrates with developer workflows. Followed by a discussion on language choice/experience, Cisco's acquisition of Kenna Security, and more dependency confusion in gem files.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 134: Legal Protections, Browser Sanitization APIs, Burnout</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_134.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_134.mp3" length="36659645" type="audio/x-mp3"/>
+		<pubDate>Tue, 11 May 2021 11:00:00 -0700</pubDate>
+		<description>Statler and Waldorf meet again to discuss legal protections when conducting security testing, new browser APIs for sanitization of user-supplied content, how XSS is boring, and techniques for dealing with burnout.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 133: Rob Shavell - Privacy</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_133.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_133.mp3" length="32433429" type="audio/x-mp3"/>
+		<pubDate>Tue, 04 May 2021 11:00:00 -0700</pubDate>
+		<description>Rob Shavell from Abine.com joins Seth and Ken to talk about data privacy, social media, and industry concerns with tracking.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 1: Introductions</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_1.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_1.mp3" length="39829042" type="audio/x-mp3"/>
+		<pubDate>Tue, 09 Jan 2018 21:00:00 -0700</pubDate>
+		<description>Introductions with Seth and Ken</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 2: Current Events</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_2.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_2.mp3" length="33976116" type="audio/x-mp3"/>
+		<pubDate>Tue, 16 Jan 2018 21:00:00 -0700</pubDate>
+		<description>Weekly discussion</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 3: Jerry Gamblin</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_3.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_3.mp3" length="42432707" type="audio/x-mp3"/>
+		<pubDate>Tue, 23 Jan 2018 21:00:00 -0700</pubDate>
+		<description>Featuring Guest Jerry Gamblin</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 4: Evan Johnson</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_4.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_4.mp3" length="49112464" type="audio/x-mp3"/>
+		<pubDate>Tue, 30 Jan 2018 21:00:00 -0700</pubDate>
+		<description>Featuring Guest Evan Johnson</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 5: Stefan Edwards and Dave Coursey</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_5.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_5.mp3" length="43216313" type="audio/x-mp3"/>
+		<pubDate>Tue, 06 Feb 2018 21:00:00 -0700</pubDate>
+		<description>Featuring Guests Stefan Edwards and David Coursey</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 6: Kevin Cody</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_6.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_6.mp3" length="41539101" type="audio/x-mp3"/>
+		<pubDate>Tue, 13 Feb 2018 21:00:00 -0700</pubDate>
+		<description>Featuring Guest Kevin Cody</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 7: Current Events</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_7.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_7.mp3" length="34375783" type="audio/x-mp3"/>
+		<pubDate>Tue, 20 Feb 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss current events</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 8: Neil Matatall</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_8.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_8.mp3" length="43236030" type="audio/x-mp3"/>
+		<pubDate>Tue, 27 Feb 2018 21:00:00 -0700</pubDate>
+		<description>Featuring Guest Neil Matatal</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 9: Jason Haddix</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_9.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_9.mp3" length="39070509" type="audio/x-mp3"/>
+		<pubDate>Tue, 06 Mar 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken talk with Jason Haddix about bug bounties</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 10: Jimmy Mesta</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_10.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_10.mp3" length="43255537" type="audio/x-mp3"/>
+		<pubDate>Tue, 13 Mar 2018 21:00:00 -0700</pubDate>
+		<description>Jimmy Mesta joins Seth and Ken to talk about Kubernetes and Container security.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 11: David Coursy and Stefan Edwards</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_11.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_11.mp3" length="43782587" type="audio/x-mp3"/>
+		<pubDate>Tue, 27 Mar 2018 21:00:00 -0700</pubDate>
+		<description>David Coursey and Stefan Edwards reprise their discussion with Ken and Seth</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 12: Justin Collins</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_12.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_12.mp3" length="55921342" type="audio/x-mp3"/>
+		<pubDate>Tue, 04 Apr 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Justin Collins join from LocoMocoSec to discuss static analyzers</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 13: Charles Nwatu</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_13.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_13.mp3" length="49715464" type="audio/x-mp3"/>
+		<pubDate>Tue, 10 Apr 2018 21:00:00 -0700</pubDate>
+		<description>Charles Nwatu joins Ken and Seth</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 14: Karthik Gaekwad</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_14.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_14.mp3" length="49052517" type="audio/x-mp3"/>
+		<pubDate>Tue, 24 Apr 2018 21:00:00 -0700</pubDate>
+		<description>Karthik Gaekwad joins Ken and Seth</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 15: Kevin Cody</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_15.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_15.mp3" length="50749728" type="audio/x-mp3"/>
+		<pubDate>Tue, 01 May 2018 21:00:00 -0700</pubDate>
+		<description>Kevin Cody joins Ken and Seth to talk about mobile security testing</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 16: Hipster Languages</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_16.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_16.mp3" length="37437237" type="audio/x-mp3"/>
+		<pubDate>Tue, 08 May 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth talk about hipster languages and frameworks</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 17: Efail and CSRF</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_17.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_17.mp3" length="20683571" type="audio/x-mp3"/>
+		<pubDate>Tue, 15 May 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth talk about current news (Efail) and CSRF Tokens</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 18: Chris Gates</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_18.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_18.mp3" length="47816120" type="audio/x-mp3"/>
+		<pubDate>Tue, 29 May 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Chris Gates to talk about Purple Teaming and the WeirdAAL tool</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 19: CFPs and More</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_19.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_19.mp3" length="45114772" type="audio/x-mp3"/>
+		<pubDate>Tue, 05 Jun 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth talk about current events, submitting CFPs, and more</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 20: Authentication and JWTs</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_20.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_20.mp3" length="27468450" type="audio/x-mp3"/>
+		<pubDate>Tue, 19 Jun 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth talk more about authentication, JWTs and everything that is wrong with both of them.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 21: Alex Smolen</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_21.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_21.mp3" length="44035608" type="audio/x-mp3"/>
+		<pubDate>Tue, 21 Jun 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Alex Smolen (@alsmola) to talk about current events, cloudtrail audit, and webauthn.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 22: Jimmy Mesta</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_22.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_22.mp3" length="38856660" type="audio/x-mp3"/>
+		<pubDate>Tue, 28 Jun 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Jimmy Mesta (@jimmesta) to talk about Kubernetes and container security.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 23: Ken Toler</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_23.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_23.mp3" length="36383469" type="audio/x-mp3"/>
+		<pubDate>Tue, 10 Jul 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Ken Toler (@relotnek) and talk security champions and security program management.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 24: Jason White</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_24.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_24.mp3" length="37117812" type="audio/x-mp3"/>
+		<pubDate>Tue, 17 Jul 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Jason White (@misfir3) and talk about transitioning from a developer to an application security professional.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 25: Scott Piper</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_25.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_25.mp3" length="38578510" type="audio/x-mp3"/>
+		<pubDate>Tue, 24 Jul 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Scott Piper (@0xdabbad00) and talk AWS Security, including https://flaws.cloud, cloud mapper, and cloud tracker projects.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 26: Justin Larson</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_26.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_26.mp3" length="34441619" type="audio/x-mp3"/>
+		<pubDate>Tue, 31 Jul 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Justin Larson (@Phant0mTrav3ler) and talk about building an AppSec program from scratch.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 27: Jim Manico</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_27.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_27.mp3" length="43775302" type="audio/x-mp3"/>
+		<pubDate>Tue, 14 Aug 2018 21:00:00 -0700</pubDate>
+		<description>Ken and Seth are joined by Jim Manico (@manicode) RAW, training, OWASP, code security, and all things AppSec. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 28: Astha Singhal</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_28.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_28.mp3" length="37666112" type="audio/x-mp3"/>
+		<pubDate>Tue, 21 Aug 2018 21:00:00 -0700</pubDate>
+		<description>Astha Singhal (@astha_singhal) joins Ken and Seth to talk automating application security and bug bounties. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 29: Matt Tesauro</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_29.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_29.mp3" length="45897650" type="audio/x-mp3"/>
+		<pubDate>Tue, 28 Aug 2018 21:00:00 -0700</pubDate>
+		<description>Matt Tesauro (@matt_tesauro) talks OWASP, community involvement, Defect Dojo, and the AppSec Pipeline toolbox with Ken and Seth. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 30: Dave Ferguson</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_30.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_30.mp3" length="45319257" type="audio/x-mp3"/>
+		<pubDate>Tue, 04 Sep 2018 21:00:00 -0700</pubDate>
+		<description>Dave Ferguson (@_sc0rn) talks about the futility of developer training, initial discovery of CSRF in on netflix.com, and application scanning with Ken and Seth. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 31: Rob Fuller</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_31.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_31.mp3" length="42466499" type="audio/x-mp3"/>
+		<pubDate>Tue, 11 Sep 2018 21:00:00 -0700</pubDate>
+		<description>Practical advice on submitting and writing effective findings for bug bounties and reports. Rob Fuller (@mubix) talks about his path into security, CCDC, volunteerism, NoVA Hackers and more. </description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 32: Eric Johnson</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_32.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_32.mp3" length="46032666" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 Sep 2018 21:00:00 -0700</pubDate>
+		<description>Setup tips for starting an assessment with Burp Suite Professional. Eric Johnson (@emjohn20) talks with Ken and Seth about Roslyn, building Puma Scan, SANS, and more. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 33: John Melton</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_33.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_33.mp3" length="58456845" type="audio/x-mp3"/>
+		<pubDate>Tue, 02 Oct 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken go over fully vetting functions during code reviews. John Melton (@_jtmelton) talks with Ken and Seth about static analysis tools, building an appsec program, open source, and more. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 34: Stefan Edwards</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_34.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_34.mp3" length="43810825" type="audio/x-mp3"/>
+		<pubDate>Tue, 30 Oct 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined last minute by Stefan Edwards (@lojikil) to talk about security unit tests, fuzzing, and all things you will need to google later on. Blockchains and secure contracts are introduced and somewhat explained. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 35: Travis McPeak</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_35.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_35.mp3" length="36942302" type="audio/x-mp3"/>
+		<pubDate>Tue, 06 Nov 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss server side request forgery and then pick Travis McPeak's (@travismcpeak) brain about AWS security, his path into security, QA testing, and Netflix cloud security tools. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 36: Mike McCabe</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_36.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_36.mp3" length="42994044" type="audio/x-mp3"/>
+		<pubDate>Tue, 13 Nov 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss cross-site scripting and input validation/output encoding findings. Later joined by Mike McCabe's (@mccabe615) talking about cloud security, building an appsec program, interviews (both for and against) and CHRISTMAS. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 37: Stefan Edwards</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_37.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_37.mp3" length="45453931" type="audio/x-mp3"/>
+		<pubDate>Tue, 20 Nov 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss security gifts for appsec peeps. Joined by Stefan Edwards (@lojikil) to talk about his origin story (Seth gets bagged on), formal verification, and a multitude of other topics. </description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 38: Matt Konda</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_38.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_38.mp3" length="46600766" type="audio/x-mp3"/>
+		<pubDate>Tue, 27 Nov 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss node packages and event_stream fallout. Matt Konda (@mkonda) joins to talk about OWASP, the Glue tool, Jemurai and his origin story and other topics. </description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 39: Jerry Gamblin</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_39.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_39.mp3" length="47280581" type="audio/x-mp3"/>
+		<pubDate>Tue, 04 Dec 2018 21:00:00 -0700</pubDate>
+		<description>Is there such a thing as breach fatigue? When have we had enough? Seth and Ken are joined by Jerry Gamblin of Kenna Security to discuss recent breaches and AWS Re:Invent.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 40: Code Reviews</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_40.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_40.mp3" length="38119955" type="audio/x-mp3"/>
+		<pubDate>Tue, 11 Dec 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken talk through secure code reviews and assessment scoping, more on breaches, the Google congressional hearings and more.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 41: Hidden File/Dir Enumeration and Will Bengtson</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_41.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_41.mp3" length="38781912" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 Dec 2018 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss hidden file and directory enumeration. Joined by Will Bengtson to talk AWS and cloud security, including cloudtrail and trailblazer.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 42: SSRF Rebinding and Segment Team (Leif Dreizler and David Scrobonia)</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_42.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_42.mp3" length="42870336" type="audio/x-mp3"/>
+		<pubDate>Tue, 08 Jan 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss SSRF Rebinding defenses with Segment (Leif, David, and Achille). Additional topics include password complexity, password resets, and using Troy Hunt's breach database.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 43: DerbyCon, pwnhead, and Keith Hoodlet</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_43.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_43.mp3" length="48542250" type="audio/x-mp3"/>
+		<pubDate>Tue, 15 Jan 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by Keith Hoodlet (@andMyHacks) to discuss DerbyCon, pwnhead, and application security in medical devices.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 44: AppSec California, running a Bug Bounty program, and David Coursey</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_44.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_44.mp3" length="43742513" type="audio/x-mp3"/>
+		<pubDate>Tue, 29 Jan 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined once again by David Coursey (@dacoursey) to review topics from AppSec California 2019, including building developer relationships and the OWASP ZAP HUD. Ken and Dave answer questions about the time investment required to support a Bug Bounty program. David discusses his role at Allstate.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 45: Making the most of Bug Bounties, managing an AppSec program, and Sean Poris</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_45.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_45.mp3" length="47643409" type="audio/x-mp3"/>
+		<pubDate>Tue, 05 Feb 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by Sean Poris (@skp00) of Verizon Media to talk about making the most of a bug bounty program, Sean's path into application security from his budding time as a biologist, and strategies on managing a large application security program. Sean also talks about methods he has used for finding and developing application security engineers.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 46: Fuzzing, Frameworks, Training and Daniel Miessler</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_46.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_46.mp3" length="48542250" type="audio/x-mp3"/>
+		<pubDate>Tue, 12 Feb 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about the recent release of ClusterFuzz by Google. Joined by Daniel Miessler (@Daniel Miessler) to talk about the SecLists project, how it relates to fuzzing, training developers and his path into security.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 47: Mapping Application Source Code, Mobile OWASP Top 10, Mobile Application Testing, and Kevin Cody</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_47.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_47.mp3" length="44392976" type="audio/x-mp3"/>
+		<pubDate>Tue, 19 Feb 2019 21:00:00 -0700</pubDate>
+		<description>Seth and Ken review steps taken during a secure code review to map out an application. Joined by Kevin Cody (@kevcody) to talk mobile application testing, OWASP Mobile Top 10, what devices to use when performing these tests and how python is awesome.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 48: .dev domains, Kubernetes Secrets, Threat Modeling as Code, OWASP Glue Project and Omer Levi Hevroni </title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_48.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_48.mp3" length="40127897" type="audio/x-mp3"/>
+		<pubDate>Tue, 26 Feb 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss recent events with the .dev domain and why developers should care. Omer Levi Hevroni (@omerlh) stops by to talk about the OWASP Glue Project, the Kamus project for managing Kubernetes secrets, and Threat Modeling as code. Also .Net.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 49: Subdomain Takeovers, DNS SSRF, Oauth Best Practices, Top 10 Web Hacking Techniques of 2019 </title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_49.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_49.mp3" length="33825692" type="audio/x-mp3"/>
+		<pubDate>Tue, 05 Mar 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken talk through subdomain takeovers vulnerabilities at large companies and identification of DNS SSRF. Ken walks through a few oauth best practices. A look at the Portswigger list of Top 10 Web Hacking Techniques of 2018.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 50: Static Analysis Tools, DevSecOps, Secure Code Training with Eric Heitzman </title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_50.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_50.mp3" length="37948077" type="audio/x-mp3"/>
+		<pubDate>Tue, 12 Mar 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about number 8 in the top web hacking techniques of 2018. Discussions on static analysis tools and approach to usidng them. Eric Heitzman joins to talk about his background, DevSecOps, secure code training and more.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 51: XXE review and techniques, Assessment Reporting and Process with Jessica Ryan</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_51.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_51.mp3" length="33442914" type="audio/x-mp3"/>
+		<pubDate>Tue, 19 Mar 2019 16:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about new techniques for exploiting XXE, number 7 in the top web hacking techniques of 2018. Discussions on assessment process, including reporting, note taking and soft skills with Jessica Ryan.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 52: Serialization Vulns, Managing Careers, and Hacking your Happiness with Chris Gates</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_52.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_52.mp3" length="55135728" type="audio/x-mp3"/>
+		<pubDate>Tue, 26 Mar 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken talk about serialization vulnerabilities, number 6 in the top web hacking techniques of 2018. Discussions on continuous integration, hacking jenkins, reading code to find vulns, maintaining your edge, career growth, and hacking your happiness with Chris Gates.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 53: Building AppSec at Github with Greg Ose</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_53.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_53.mp3" length="40881656" type="audio/x-mp3"/>
+		<pubDate>Tue, 02 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken talk AppCache vulnerabilities and postMessage exploits from PortSwigger's Top 10 web hacking techniques of 2018. Greg Ose joins them to talk about building application security programs, developer involvement, his background, and product security at Github.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 54: Recon-NG and Burp Suite v2 with Tim Tomes</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_54.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_54.mp3" length="37422799" type="audio/x-mp3"/>
+		<pubDate>Tue, 09 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by Tim Tomes, aka LaNMaSteR53. We discuss Tim's path into application security, his work on Recon-NG, and his analysis of Burp Suite Professional's version 2.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 55: Stefan Edwards ruins Infosec - Testing Edition</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_55.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_55.mp3" length="48211008" type="audio/x-mp3"/>
+		<pubDate>Thu, 18 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth is joined once again by Stefan Edwards. First in the series "Lojikil ruins Infosec". Ken is at LocomocoSec in Hawaii, so Seth and Stefan (@lojikil) talk all things testing, including symbolic execution, fuzzing, and why everything is awful. Seth becomes a nihilist.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 56: Learn to Code / Loco Moco Sec Recap</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_56.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_56.mp3" length="38268812" type="audio/x-mp3"/>
+		<pubDate>Tue, 23 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken get back together to talk about Loco Moco Sec and recent industry news. Specifically, should all security people be able to code? Is it a strict requirement? Ken gives his take on the talks from LocomocoSec and why we should all be there in 2020.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 57: OWASP WIA (Women in AppSec) Committee</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_57.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_57.mp3" length="34228545" type="audio/x-mp3"/>
+		<pubDate>Tue, 30 Apr 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by the OWASP WIA (Women in AppSec, @owaspwia) Committee. We discuss diversity in security and how the committee and OWASP is making the community more inclusive. Topics include first security conferences, how to get involved, and more.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 58: David Lindner on RASP, Mobile, IoT</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_58.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_58.mp3" length="38839140" type="audio/x-mp3"/>
+		<pubDate>Tue, 07 May 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss Edge Side Include Injection. Subsequently joined by David Lindner (@golfhackerdave), the current head of AppSec at Contrast Security. David talks all about RASP, mobile and IoT security plus talk a little bit about appsec program building.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 59: James Wickett on DevOps</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_59.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_59.mp3" length="41601216" type="audio/x-mp3"/>
+		<pubDate>Tue, 14 May 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss Minecraft mod hacking and applying AppSec tools to the practice. Joined by James Wickett (@wickett) to talk about the history of DevOps, why software security people should learn to code, and current trends in the DevOps space.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 60: Stefan Edwards, Huawei, Android Security, and Programming Languages</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_60.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_60.mp3" length="38719835" type="audio/x-mp3"/>
+		<pubDate>Tue, 21 May 2019 11:00:00 -0700</pubDate>
+		<description>Seth is joined once again by Stefan Edwards to talk about current events and ruin another portion of information security. Topics include Huawei, Android Security, and Programming Languages.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 61: Tanya Janca, DevSlop, Diversity, and Inclusion</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_61.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_61.mp3" length="41822086" type="audio/x-mp3"/>
+		<pubDate>Tue, 11 Jun 2019 11:00:00 -0700</pubDate>
+		<description>Based on demand, Seth and Ken are joined by Tanya Janca (@shehackspurple) to talk about all things OWASP, travel, and experinces. Topics include OWASP DevSlop, diversity, and inclusion</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 62: Abdullah Munawar, Ben Pick, Global AppSec DC, and Running an OWASP Chapter</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_62.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_62.mp3" length="45028251" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 Jun 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken welcome Abdullah Munawar and Ben Pick to the show. They discuss their path into application security, current roles, and OWASP involvement. Specifically, Abdullah and Ben talk about running the OWASP NoVA chapter and challenges in organizing the Global AppSec DC conference.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 63: Julian Berton, AppSec Day, Developer Training, and Security Standards</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_63.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_63.mp3" length="48945756" type="audio/x-mp3"/>
+		<pubDate>Tue, 02 Jul 2019 11:00:00 -0700</pubDate>
+		<description>Julian Berton joins Seth and Ken to talk about Developer Training, Security Standards and AppSec Day, a global Application Security conference in Melbourne, Australia. They also discuss the latest lodash vulnerability and Boeing's outsourcing of developers.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 64: Hijacked Gems, Zoom RCE, and Marriott Fines</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_64.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_64.mp3" length="43992080" type="audio/x-mp3"/>
+		<pubDate>Tue, 09 Jul 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss conference proposals submissions and how to stand out. Also discussions on the latest security news, including the Zoom vulnerability disclosure, European fines for Marriott, and the latest hijacked/backdoored third-party library.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 65: Adam Baldwin, 3rd Party Dependencies, and Supply Chain Security</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_65.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_65.mp3" length="38617727" type="audio/x-mp3"/>
+		<pubDate>Tue, 16 Jul 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by Adam Baldwin (@adam_baldwin) to discuss a topic we've been talking a lot about - 3rd party dependency and supply chain security. Adam gave a talk at this year's LocoMoco Security conference where he discuss fascinating and VERY relevant topics such as "developer burnout as an attack vector" as well as providing stats such as 97% of modern node applications rely on the code of 3rd party libraries. </description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 66: Capital One Breach, NPM, and Secure Code Reviews</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_66.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_66.mp3" length="40131819" type="audio/x-mp3"/>
+		<pubDate>Tue, 30 Jul 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken discuss the latest news, including the Capital One Breach, Project Zero's recent iOS vusnerability disclosures, and further malicious NPM package takeovers. Further topics include learning who to trust and security code reviews. </description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 67: Kubernetes Security with Stefan and Bobby</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_67.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_67.mp3" length="51031085" type="audio/x-mp3"/>
+		<pubDate>Mon, 12 Aug 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by Stefan (@lojikil) and Bobby (@b0bbytabl3s) to talk about Kubernetes Security based on the assessment they conducted at Trail of Bits.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 68: Jerry Gamblin, DEF CON 27 Recap</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_68.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_68.mp3" length="38333370" type="audio/x-mp3"/>
+		<pubDate>Mon, 13 Aug 2019 11:00:00 -0700</pubDate>
+		<description>Jerry Gamblin (@jgamblin) joins Seth and Ken to talk about #hackersummercamp, DEF CON 27, and all things Vegas. Discussion includes NULL license plates, software bill of materials, and more.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 69: Eric Ellett, Development vs. Security</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_69.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_69.mp3" length="40012203" type="audio/x-mp3"/>
+		<pubDate>Tue, 27 Aug 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken are joined by Eric Ellett (@EricEllett) to talk about software supply chain security. Development vs. Security and how to develop a good relationship with development instead of an antagonistic one.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 70: Andrew Wilson, OWASP and Training New AppSec Resources</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_70.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_70.mp3" length="45246852" type="audio/x-mp3"/>
+		<pubDate>Tue, 03 Sep 2019 11:00:00 -0700</pubDate>
+		<description>Andrew Wilson (@azwilsong) , a friend and partner at Bishop Fox joins Seth and Ken to discuss OWASP, running a consultancy, organizing CactusCon, and training new AppSec resources.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	<item>
+		<title>Episode 71: Evan Johnson, Cloudflare and Lastpass</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_71.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_71.mp3" length="43598027" type="audio/x-mp3"/>
+		<pubDate>Tue, 17 Sep 2019 11:00:00 -0700</pubDate>
+		<description>Eric Johnson (@ejcx_), one of the first podcast guests to join Seth and Ken revisits to talk about recent industry revelations, including the Lastpass vulnerability from Google's Project Zero. Further discussions on Cloudflare Access and ranging topics including Coke's 80s lawsuit involving trade secrets.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    	<item>
+		<title>Episode 72: Consulting Horror Stories</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_72.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_72.mp3" length="45304632" type="audio/x-mp3"/>
+		<pubDate>Tue, 01 Oct 2019 11:00:00 -0700</pubDate>
+		<description>Seth and Ken kickoff October with a discussion of consulting horror stories, both from personal experiences and listener-provided. Additional discussions around Cloudflare's WARP.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+    <item>
+		<title>Episode 73: Kevin Cody, CORS, and Lockpicking</title>
+		<link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_73.mp3</link>
+		<enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_73.mp3" length="50299280" type="audio/x-mp3"/>
+		<pubDate>Wed, 16 Oct 2019 23:00:00 -0700</pubDate>
+		<description>Kevin Cody (@kevcody) is back with Seth and Ken to talk about his collaboration with Tim Tomes (@LaNMaSteR53) on CORS. Also discussions on lockpicking, travel tips, and a wide range of topics. Remember, CORS is a anti-security control.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+    <item>
+        <title>Episode 74: Ernest Mueller, DevOps, Security and Cloud Computing</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_74.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_74.mp3" length="54797753" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Oct 2019 23:00:00 -0700</pubDate>
+        <description>Ernest Mueller (@ernestmueller) joins Seth and Ken to talk about the his path into technology, operations, and security. Additional discussions on the beginnings of DevOps, Security, and Cloud Computing.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 75: Brian Glas, OWASP Top 10, OWASPSAMM</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_75.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_75.mp3" length="40878193" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Nov 2019 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back! Joined in this episode by Brian Glas, aka @infosecdad, aka Professor Glas to talk about all things OWASP Top 10 2017, the path to his involvement, and how it almost split AppSec in two. Also a discussion on OWASPSAMM vs. OpenSAMM vs. BSIMM.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 76: Guy Podjarny, Snyk, AppScan, SCA</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_76.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_76.mp3" length="35230035" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Nov 2019 11:00:00 -0700</pubDate>
+        <description>Guy Podjarny (@guypod), founder of Snyk, joins Ken and Seth to talk about Snyk, the origins of AppScan Standard, Software Composition Analysis and his origin story. A discussion of building developer focused security tools and how this can benefit security in the long run.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 77: Clint Gibler, DevSecOps, TLDR; Sec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_77.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_77.mp3" length="41169840" type="audio/x-mp3"/>
+        <pubDate>Tue, 03 Dec 2019 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined this week by Clint Gibler (@clintgibler) to talk about DevSecOps, what he sees in the industry as effective security, and his newsletter TLDR; Sec (https://bit.ly/tldrsec). Comments on prioritization, asset inventory, and effectively quashing bug classes.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 78: Breaches, Passwords, and Chicken Fingies</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_78.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_78.mp3" length="30673029" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Dec 2019 11:00:00 -0700</pubDate>
+        <description>Seth and Ken host Seth and Santa's Secure Workshop as a pair this week. The discussion revolves around the Hacker 1 "breach", Practical Pentest Lab's storage and sending of plaintext passwords, chicken fingie injection, and toxicity of infosec social media. May or may not be a discussion on squirrels and pigeons in cowboy hats.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 79: Live from DevSecOpsDays Austin - Next up in AppSec/DevSecops</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_79.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_79.mp3" length="18719577" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Dec 2019 11:00:00 -0700</pubDate>
+        <description>Seth and Ken host the podcast live from DevSecOpsDays Austin, with multiple guests from conference speakers. Discussions on what each guest feels is up next in AppSec and DevSecOps for the forseeable future.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 80: Louis Barratt - SIRT and AppSec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_80.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_80.mp3" length="41294301" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Jan 2020 11:00:00 -0700</pubDate>
+        <description>Louis Barrett of the Segment SIRT team joins Seth and Ken to discuss his path into security, mentors, and SIRT. Discussions on approaching SIRT, creating a SIRT team, and how to integration AppSec into the SIRT.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 81: Matias Madou - Application Security Training</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_81.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_81.mp3" length="39930120" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Jan 2020 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are joined by Matias Madou, CTO of Secure Code Warrior. Discussion of current state of application security training, static analysis tools, and just-in-time-training.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 82: Kelley Robinson - MFA, SHAKEN, STIR</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_82.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_82.mp3" length="38223909" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Jan 2020 11:00:00 -0700</pubDate>
+        <description>Kelley Robinson (@kelleyrobinson), Security Advocate at Twilio/Authy joins Seth and Ken to talk about multifactor authentication, her path into security, and advances in voice security (SHAKEN/STIR).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 83: Ron Perris - NPM, Developer Training, React</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_83.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_83.mp3" length="45222495" type="audio/x-mp3"/>
+        <pubDate>Thu, 06 Feb 2020 11:00:00 -0700</pubDate>
+        <description>Ron Perris (@ronperris), Software Security Engineer from npm, Inc. joins Seth and Ken to talk about module security, developer interactions, and recent node security issues. DOM Clobbering.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 84: Tinfoil Hat Tuesday - Backdoors, Application Libraries, Equifax</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_84.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_84.mp3" length="38986072" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Feb 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss the latest security news, including CIA Backdoors in the Crypto AG products, FBI release of wanted Chinese nationals related to the Equifax breach, protecting applications against nation state actors, and securing open source libraries.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 85: David Lindner - Voting Apps, Bug Bounties, IAST/RASP/WAF</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_85.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_85.mp3" length="38957640" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Feb 2020 11:00:00 -0700</pubDate>
+        <description>David Lindner (@golfhackerdave) joins Seth and Ken discuss the voting applications, including the Iowa debacle and the Voatz application. Ranting on bug bounties and response times for researcher findings. An explanation of IAST, RASP, and WAFs.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 86: Rohan Johsi - QA Security Testing, Security Champions, Paypal Vulnerabilities</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_86.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_86.mp3" length="43351176" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Feb 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss bug bounties and a recent article on Paypal issues. Joined by Rohan Joshi to discuss building an application security program, QA security testing, and security champions.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 87: Abhay Bhargav - Threat Modeling, DevSecOps, Microservices</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_87.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_87.mp3" length="41520480" type="audio/x-mp3"/>
+        <pubDate>Tue, 03 Mar 2020 11:00:00 -0700</pubDate>
+        <description>Abhay Bhargav, founder of We45, joins Seth and Ken in a discussion on threat modeling in an agile development methodology, the rise and role of DevSecOps, and security within microservices.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 88: Kevin Johnson - Secure Ideas, Star Wars, Passing it On</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_88.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_88.mp3" length="37650024" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Mar 2020 11:00:00 -0700</pubDate>
+        <description>Kevin Johnson of Secure Idea joins Seth and Ken in a discussion on his path into security, Star Wars (yes, really), and giving back to the community. This includes passing on teaching, sharing knowledge, and mentoring those that ask for it.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 89: Kat Sweet - Incident Response, DevOps and Developer Training, Breaking into Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_89.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_89.mp3" length="36406566" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Mar 2020 11:00:00 -0700</pubDate>
+        <description>Kat Sweet (@TheSweetKat) continues our discussion from DevSecOps Days Austin. Topics include incident response, staying right while you push left, developer training, and getting into information security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 90: Voatz, HackerOne, Bug Bounties, GraphQL, Shodan Network Trends</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_90.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_90.mp3" length="38911379" type="audio/x-mp3"/>
+        <pubDate>Tue, 31 Mar 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken provide their take on the Voatz mobile app dismissal from HackerOne. Additional discussion of network trends during social distancing and COVID-19 as reported by Shodan. Finally some thoughts on the new OWASP Firmware Testing Guide and InQL, a GraphQL Burp Suite Pro plugin.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 91: Stefan Edwards - More Voatz, Zoom, Code Reviews, Report Writing, Threat Models, and Risk Assessments</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_91.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_91.mp3" length="52157338" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Apr 2020 11:00:00 -0700</pubDate>
+        <description>LOJI IS BACK! Stefan joins Seth and Ken to talk about his work on Trail of Bits assessment of the Voatz mobile application, share thoughts on Zoom, and discuss the assessment process. Discussions on report writing, risk assessments, threat modeling, and other appsec goodness.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 92: Working from Home, Skreen, Evolution of AppSec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_92.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_92.mp3" length="43946520" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Apr 2020 11:00:00 -0700</pubDate>
+        <description>Seth struggles with internet access during a discussion with Ken on working from home, employee surveillance, and Sneek. Additional thoughts on the evolution of application security and penetration testing since the beginning of our careers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 93: Huntr Dev - Securing Open Source Software</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_93.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_93.mp3" length="33685248" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Apr 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined by the Huntr Dev team to talk about securing open source software, bug bounties, and writing secure code.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 94: Bug Bounty, Microservices vs. Monoliths, and CVE Fatigue</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_94.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_94.mp3" length="42522120" type="audio/x-mp3"/>
+        <pubDate>Tue, 05 May 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss tips for running a bug bounty program, risk of webhooks, Segment's move to and from microservices, and having CVE Fatigue.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 95: Jessica Rozhin (@JessicaRozhin) and Lady Christina Liu (cliuthulu) - Incident Response, Lockpicking, Building an Infosec Culture</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_95.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_95.mp3" length="44817312" type="audio/x-mp3"/>
+        <pubDate>Tue, 12 May 2020 11:00:00 -0700</pubDate>
+        <description>Jessica Rozhin (@JessicaRozhin) and Lady Christina Liu (@cliuthulu) join Seth and Ken to talk about alternate routes into security, including accounting and joining a circus. Discussions on forensics, incident response, and how lock picking can help build an infosec culture.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 96: Fuzzing and Static Analysis Tools</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_96.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_96.mp3" length="41145768" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 May 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss fuzzing techniques, recommendations, and experience. Stories of fuzzing in production. How static analysis tools have changed and where they fit.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 97: Stefan Edwards and Brian Glas - Threat Modeling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_97.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_97.mp3" length="56129592" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 May 2020 11:00:00 -0700</pubDate>
+        <description>Stefan (@lojikil) and Brian (@infosecdad) are back to talk about threat modeling with Seth and Ken. Discussion covers risk assessment, threat modeling, asset inventory, and software maturity.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 98: Bug Bounty Programs, Work when World is Crazy</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_98.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_98.mp3" length="39636930" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken go full rant mode about bug bounties and trying to work while the world goes insane.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 99: Contact Tracing, GnuTLS, Breaches</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_99.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_99.mp3" length="38669400" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back to security and technology this week. Discussions about contact tracing applications, privacy and freedom vs. security, the GnuTLS CVE, and possible Honda breach.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 100: Virtual Conferences, Bots, DDoS, Ebay</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_100.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_100.mp3" length="46921680" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken break the 100 episode barrier by talking about virtual conferences. Discussions about bots, distributed denial of service attacks, and Ebay stalking of a newsletter.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 101: Mike McCabe, Ken Toler, Cloud Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_101.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_101.mp3" length="46227384" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are joined by Mike McCabe (@mccabe615) and Ken Toler (@relotnek) to break down their talk on Cloud Security. Discussions revolves around cloud security, but touches legacy systems, application inventory, virtual conferences, and more.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 102: Popular Programming Languages, TikTok, OWASP</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_102.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_102.mp3" length="43460304" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Jun 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken talk about the popularity of various programming languages, TikTok app issues, and new changes at OWASP.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 103: Secrets Management, Oded Hareven, and akeyless.io</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_103.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_103.mp3" length="33658896" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Jul 2020 11:00:00 -0700</pubDate>
+        <description>Oded Hareven from AKEYLESS joins Seth and Ken to discuss the idea behind AKEYLESS as well as give us a chance to learn a little bit more about Oded.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 104: Leif Dreizler - Authentication and SCIM</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_104.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_104.mp3" length="37254761" type="audio/x-mp3"/>
+        <pubDate>Wed, 05 Aug 2020 11:00:00 -0700</pubDate>
+        <description>Leif Drezler joins Seth and Ken to talk about recent projects, including authentication, SCIM, and how to embed within a development team.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 105: Laura Migus - Diversity and Inclusion</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_105.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_105.mp3" length="56426208" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Aug 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken chat with Laura Migus who is an expert in the realm of Diversity and Inclusion to learn more about the topic and how to support diversity and inclusion efforts.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 106: Justin Massey - Logging and Monitoring</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_106.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_106.mp3" length="42041784" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Aug 2020 11:00:00 -0700</pubDate>
+        <description>Justin Massey from Data Dog joins us to talk Application Logging.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 107: Markus Schirp - Ruby and Dynamic Languages</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_107.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_107.mp3" length="47744352" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Sep 2020 11:00:00 -0700</pubDate>
+        <description>Markus Schirp (@_m_b_j_) joins Seth and Ken to talk about Ruby and other dynamic languages. Mutation testing, TDD weaknesses, and meta programming.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 108: Sean Poris - Bug Bounties and H1-2010</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_108.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_108.mp3" length="47744352" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Sep 2020 11:00:00 -0700</pubDate>
+        <description>Sean Poris (@skp00) joins Absolute AppSec to talk about The Paranoids virtual bug bounty hacking event H1-2010, staying sane, managing a virtual team, and advice for running a bug bounty program.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 109: Threat Modeling, Social Media, Imposter Syndrome</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_109.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_109.mp3" length="38627208" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Sep 2020 11:00:00 -0700</pubDate>
+        <description>We are back with a Seth and Ken only episode to talk about the evolution of threat modeling, the documentary "The Social Dilemma", mental health, and imposter syndrome.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 110: Reserved Words, Authentication, Developer Patterns</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_110.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_110.mp3" length="40045320" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Oct 2020 11:00:00 -0700</pubDate>
+        <description>Back at it like a phrack addict to talk reserved words, authentication flaws in apps and Grindr, and recognizing insecure patterns during development.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 111: Bug Bounties, Detection as Code</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_111.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_111.mp3" length="44167800" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Oct 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken dig into strange requests when running bug bounty programs, recent revelations on Apple security research, and detection as code.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 112: Mark Feferman - Static Analysis Tools</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_112.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_112.mp3" length="36496056" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Oct 2020 11:00:00 -0700</pubDate>
+        <description>Mark Feferman (@mfeferman) joins Seth and Ken to throw down about automated static analysis tools. Discussion of applictaion security talent (or lack thereof) and 'shifting left'.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 113: Jacob Salassi - Modeling Threats, Risk Assessment</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_113.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_113.mp3" length="38468976" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Oct 2020 11:00:00 -0700</pubDate>
+        <description>Jacob Salassi (@JacobSalassi) joins us to discuss his developer-driven, standardized, threat modeling process. Also discussions on developer empathy, risk assessment, and other topics.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 114: Account Enumeration, Github Actions</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_114.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_114.mp3" length="39103560" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Nov 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss account enumeration vulnerabilities and open source tools that take advantage of them. Discussion about the recent Github Actions vulnerability.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 115: Clint Gibler - Static Analysis with Semgrep</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_115.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_115.mp3" length="47815856" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Nov 2020 11:00:00 -0700</pubDate>
+        <description>Clint Gibler (@clintgibler) joins Seth and Ken to talk about Static Analysis with Semgrep. Demonstrations of writing rules within Semgrep and how to use it.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 116: Lewis Ardern and Pwnfunction - Client-Side JavaScript Security </title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_116.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_116.mp3" length="41856388" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Nov 2020 11:00:00 -0700</pubDate>
+        <description>Lewis Ardern (@LewisArdern) and Pwnfunction (@pwnfunction) join Seth and Ken to talk client-side JavaScript security and their recent Vue JS blog post. https://portswigger.net/research/evading-defences-using-vuejs-script-gadgets</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 117: Solarwinds, Timing Attacks, Threat Dragon </title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_117.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_117.mp3" length="34978560" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Dec 2020 11:00:00 -0700</pubDate>
+        <description>The dynamic duo is back for their last podcast of 2020!</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 118: Parler, Twitter, and IDOR</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_118.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_118.mp3" length="40121599" type="audio/x-mp3"/>
+        <pubDate>Tue, 12 Jan 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return with a discussion about application security in the news, including relevance to the Parler "backups". Also discussions about Twitter and latest political developments and how they affect the security industry.</description>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 119: Bugtraq, Web Cache Poisoning, and Blind SSRF</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_119.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_119.mp3" length="36033462" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Jan 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken wax nostalgic about the old days due to the shut down of the Bugtraq Mailing List (RIP old friend). Further discussions on web cache poisoning and blind server-side request forgery (SSRF) exploits.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 120: OWASP Top 10 2021, Researcher Attacks, Parler, Phishing</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_120.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_120.mp3" length="32321919" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Jan 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss the proposed 2021 OWASP Top 10 Risks, North Korean attacks against security researchers, password managers, latest in Parler de-platforming, and phishing possibilities.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 121: Stefan Edwards (@lojikil) - Formal Specification, Fuzzing, LangSec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_121.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_121.mp3" length="46966287" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Feb 2021 11:00:00 -0700</pubDate>
+        <description>Stefan Edwards (@lojikil) once again joins Seth and Ken to talk all things LangSec (language security). Discussion ranges from manual vs. automated testing to fuzzing to semantic analysis to formal specification.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 122: Brian Glas (@infosecdad) - OWASP Top 10 2021</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_122.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_122.mp3" length="51181303" type="audio/x-mp3"/>
+        <pubDate>Thu, 18 Feb 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken welcome back Professor Brian Glas (@infosecdad) to dispel the recent OWASP Top 10 2021 speculation and rumor. We talk through the origins and purpose of the OWASP Top 10 as well as the 2021 call for data and upcoming release.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 123: Client-Side Controls, Dependency Confusion</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_123.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_123.mp3" length="35913419" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Feb 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss client-side controls and 3rd-party JavaScript security features. Confused deputy vulnerabilities (dependency confusion) in the news.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 124: 2020 Top 10 Web Hacking Techniques, Development vs. Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_124.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_124.mp3" length="37757900" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss Portswigger's Top 10 Web Hacking Techniques of 2020, specifically injection attacks through images in PDFs and reverse proxies. Further discussion on creativity in development and how that affects and limits security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 125: Interviews, SQLi, Concurrency, Wordpress</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_125.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_125.mp3" length="26370988" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss interviewing techniques for technical resources, SQL injection in the media and Github's recent concurrency vulnerability. Also a discussion on recent WordPress plugin vulnerabilities and why they are always so devastating.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 126: Junior AppSec Positions, Phishing Site Detection, Client-side JavaScript</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_126.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_126.mp3" length="31107193" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back on another Taco Tuesday to talk through getting into application security and how to support those new to the field. Also a discussion on phishing sites that detect VMs and other tools to bypass detection and observed client-side JavaScript attacks.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 127: Regexes, WAFs, Secondary Contexts</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_127.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_127.mp3" length="32460202" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss the role of regular expressions in routing of web application requests. Discussion covers basics of routing, exploitation of secondary contexts, and bypassing of web application firewalls.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 128: Stefan Edwards/David Coursey - PHP, Backdoors, and AppSec Nihilism</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_128.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_128.mp3" length="46656018" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth hosts Stefan Edwards (@lojikil) and David Coursey (@dacoursey) discussing PHP's recent backdoor, probable fixes including code commit signing and the move to GitHub. THe discussion covers ease of security, developer tendencies when securing code, and application security nihilism.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 129: Rey Bango - JQuery, Developer Relations, Security Education</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_129.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_129.mp3" length="45975657" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Apr 2021 11:00:00 -0700</pubDate>
+        <description>Rey Bango (@reybango) from Veracode joins Seth and Ken to talk about his path into security. Topics include JavaScript, JQuery, building relationships between security and relations, and how to educate the next generation of developers in security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 130: Facebook 'Breach', Data Privacy</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_130.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_130.mp3" length="31130299" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Apr 2021 11:00:00 -0700</pubDate>
+        <description>Ken and Seth break down the Facebook 'Breach', aka data collection and different views on dealing with that data. The discussion continues with privacy data and how far we should trust any social media application.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 131: Jeevan Singh - Threat Modeling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_131.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_131.mp3" length="34101701" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Apr 2021 11:00:00 -0700</pubDate>
+        <description>Jeevan Singh from Segment joins Seth and Ken to discuss the recently-released, open source threat modeling training material.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 132: Supply Chain Attacks, What I Wish I Knew Starting in Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_132.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_132.mp3" length="34382642" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Apr 2021 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are the dynamic duo revealing what they wish they knew starting in security and as a penetration tester. Also a discussion about supply chain attacks and a tribute to the late Dan Kaminski.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+
+</rss>

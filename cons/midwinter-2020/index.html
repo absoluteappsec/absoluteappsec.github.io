@@ -1,0 +1,168 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <title>Absolute AppSec presents A Midwinter Night's Con</title>
+    <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="../../foundation-icons/foundation-icons.css">
+    <link rel="stylesheet" href="../../css/foundation.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/style.css">
+</head>
+<body>
+    <div class="intro">
+        <div class="row">
+            <div class="large-12 columns">
+                <div style="background-color:rgba(255,255,255,0.6); min-height:100%; width:100%;">
+                    <div class="display-table" style="height:400px; width:100%;">
+                        <div class="va-align">
+                          <img src="mnc-twitter.png" width="900"><br><br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-12 columns">
+            <h3 class="text-center"> A Midwinter Night's Con - 2020</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-12 columns">
+            <h5 class="text-center"><b>December 16, 2020 - All times EST</b></h5>
+            <h6 class="text-center"><a href="https://youtu.be/fJxAsZLO7tA">Day 1 Video Stream</a></h6>
+        </div>
+    </div>
+    <div class="row">
+        <h5><b>15:50</b> // Midwinter Night's Organizers // Opening Remarks</h5>
+    <hr>
+    </div>
+    <div class="row">
+        <h5><b>16:00</b> // Ksenia Peguero // Shifting left for Electron.js security</h5>
+        <p>Are you using WhatsApp, Signal, Discord, or Visual Studio Code, or Atom? Then you are using Electron.js even if you don't know about it. Electron is a JavaScript framework for creating desktop applications using JavaScript, which provides a lot of security controls out of the box in addition to the built-in security controls of the Chromium browser used for rendering the applications UI. However, every few months yet another Electron application reports a vulnerability that usually starts as XSS and leads to a remote code execution. In this talk we will look into what security controls are built into the Electron framework and how they are used or misused by developers. We will talk about how to shift left with security using frameworks, as well as with Visual Code plugins that will help Electron developers write more secure code.</p>
+        <blockquote>Ksenia Peguero is a Sr. Research Engineer within Synopsys Software Integrity Group, where she leads a team of researchers and engineers working on static analysis and security of different technologies, frameworks, and languages, including JavaScript, Java, Python, and others. Before diving into research, Ksenia had a consulting career in a variety of software security practices such as penetration testing, threat modeling, code review, and static analysis tool design, customization, and deployment. During her decade in application security, she performed numerous engagements for clients in financial services, entertainment, telecommunications, and enterprise security industries. Throughout her journey, Ksenia has established and evolved secure coding guidance for many different firms, developed and delivered numerous software security trainings, and presented at conferences around the world, such as BSides Security, Nullcon, RSA, OWASP AppSec Global, TheWebConf, and LocoMocoSec. She has also served on review boards of OWASP AppSec USA, EU, and Global conferences.</blockquote>
+	<hr>
+    </div>
+    <div class="row">
+        <h5><b>16:45</b> // Evan Sultanik // The Superabundant Benedictions of Programming an Absurd NES Game</h5>
+        <p>One of my quarantine projects was completing the NES portion of my résumé. Among other things, that PDF is also a valid NES ROM containing a playable game. The game—which, to be honest, is only of minimal playable enjoyment—boasts a variety of fatuous Easter eggs and tricks. For example, it prints out the MD5 hash of the PDF. It also has a BF interpreter that steps through the execution of a quine. This talk explains how all of the tricks were achieved. We will also cover how everything was implemented on the NES’s puny 6502 processor with only 2kB of RAM, how its bytes were Tetris'd into 128kB of ROM, and how the file is also both a valid PDF and a valid ZIP. (Did I mention it’s also a ZIP? It’s also a ZIP.) Along the way, we’ll recite some parables, perform a devotional on the divinity of BASIC, meditate on what malware shellcode has to do with Brezhnev-era Soviet public architecture, and conclude with an allegory on how this all applies to a state-of-the-art LLVM taint analysis instrumentation framework. It turns out that forcing yourself to work in extremely constrained environments teaches you how to be a better hacker all around.</p>
+        <blockquote>Evan Sultanik is a computer security engineer at Trail of Bits, where he works on automated program analysis, input grammar mining, and blockchain research. He is also a frequent contributor to and editor of the International Journal of Proof of Concept or GTFO, and, thereby, an unlicensed proselytizer of the First United Church of the Weird Machines. Prior to Trail of Bits, Evan bounced in and out of academia and research institutions, amassing a series of publications on consensus protocols, approximation algorithms, and distributed AI that very few people have read, and even fewer are likely to find interesting. In a life prior to his doctorate, Evan was a professional code monkey.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>17:30</b> // Stefan Edwards // Sister Loji's Modeling School for Wayward InfoSec Youth</h5>
+        <p>There are four types of modeling that are important to information security, in order of occurrence:
+		</br>
+			<ul>
+				<li>risk</li>
+				<li>threat</li>
+				<li>maturity</li>
+				<li>(semi-)formal</li>
+			</ul>
+		</br>
+	This talk seeks to connect all of them in a directly applicable & practical manner that can be applied directly to the <del>forehead</del> infosec practice at your organization.
+	</p>
+        <blockquote>Stefan Edwards is the Practice Lead for Commercial Services at Trail of Bits. Stefan is a practice lead at Trail of Bits, and works with clients at the intersection of formal methods and information security thuggery. His foci at ToB are information security leadership, programming language theory, policy wonkery, and long-winded whimsy.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>18:15</b> // Clint Gibler // How to Eradicate Vulnerability Classes with Secure Defaults + Lightweight Enforcement</h5>
+        <p>We’re in the middle of a significant shift in how security teams operate and prioritize their limited budget and person-time.
+	<br>Rather than investing in finding more bugs, many modern security teams are instead focusing on providing developers with frameworks and services with secure defaults (“guard rails”) so that developers can build features quickly and securely. When done correctly, combining secure defaults and lightweight checks can enable organizations to solve *classes* of vulnerabilities by construction, preventing bug whack-a-mole.
+	<br>In this talk, we’ll present a practical step-by-step methodology for:
+	<br>
+		<ul>
+			<li>Choosing what to focus your AppSec resources on</li>
+			<li>How to combine secure defaults + lightweight invariant enforcement to eradicate entire vulnerability classes</li>
+			<li>How to integrate continuous code scanning into your CI/CD processes in a way that’s fast, high signal, and low friction for developers</li>
+			<li>How to use an open source, lightweight security linting tool to find bugs and anti-patterns specific to your company</li>
+		</ul>
+	</p>
+        <blockquote>Clint Gibler (@clintgibler) is the Head of Security Research for r2c, a startup working on giving security tools directly to developers. Previously, Clint was a Research Director at NCC Group, a global security consulting firm, where he helped companies implement security automation and DevSecOps best practices as well as performed penetration tests for companies ranging from large enterprises to new startups. Clint has previously spoken at conferences including BlackHat USA, AppSec USA/EU/Cali, BSidesSF, and many DevSecCons. Clint holds a Ph.D. in Computer Science from the University of California, Davis. Want to keep up with security research? Check out *tl;dr sec*, Clint’s newsletter that contains summaries of artisanally curated, top talks and useful security links and resources from around the web. <a href="https://tldrsec.com/">https://tldrsec.com/</a> </blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>19:00</b> // Adam Schaal // Automating Vulnerability Management</h5>
+        <p>Did you know that an average of 14,600 vulnerabilities are disclosed each year? How are you handling your discovered vulnerabilities? Vulnerability management is a difficult task, especially at a large organization. In fact, it takes an average of 100 days until known security vulnerabilities are remediated. Often times vulnerability management is implemented in segments, without a big picture vision. It can be also arduous and cumbersome, costing employees valuable time and effort. However, vulnerability management is a necessity in today's cyber security landscape.<br>
+        In this talk, we discuss where vulnerability management programs fall short and how we can avoid such pitfalls. We will walk through a typical program and the pain points. Once we understand the problem, we will enhance the process through automating asset inventory and daily vulnerability collection. We will also demonstrate how using automation to search asset inventory for newly discovered vulnerabilities increases speed and efficiency of the team and helps to more quickly create action items from discovered vulnerabilities. In addition, our process will help teams determine which vulnerabilities are the riskiest and organize them by remediation priority.<br>
+        The vulnerability management program is built from the ground up across a complex work environment using Python3, Jenkins, SQL, and a few extra tips and tricks. Proof-of-concept code will be open sourced at the conclusion of the discussion and attendees will leave this talk with the ability to implement similar automated vulnerability management solutions in their environments.
+        </p>
+        <blockquote>Adam Schaal is a Principal Application Security Researcher with Contrast Security with an extensive background in both development and application security. He has experienced both sides of making and breaking applications so he can always relate to his audience. Adam enjoys contributing to information security projects such as the CTF platform redctf and the malicious cable implant O.MG-Cable. He is also very active in his local security community as a founder of Kernelcon, a mid-size information security conference, and DEF CON 402, a local DEF CON group. Adam works out of Omaha, Nebraska, one of the least likely places in the United States to encounter shark attacks or suffer altitude sickness.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>19:45</b> // Eric Johnson // Winning in the Dark - Defending Serverless Infrastructure in the Cloud</h5>
+        <p>Cloud workloads running on Serverless Infrastructure provide near zero visibility to security teams. Can security professionals inventory, scan, and monitor an environment running thousands of functions for only 100 milliseconds? This technical session examines real world attacks and teaches you how to enable security controls to defend your Serverless Infrastructure.</p>
+        <blockquote>Eric is co-founder and Principal Security Engineer at Puma Security focusing on cloud security, static code analysis, and DevSecOps automation. His experience includes performing cloud security reviews, infrastructure as code automation, application security automation, web and mobile application penetration testing, secure development lifecycle consulting, and secure code review assessments. <br> Eric is also a Senior Instructor with the SANS Institute where he authors information security courses on cloud security, DevSecOps automation, and secure coding. He delivers security training globally for SANS, as well as presents security research at conferences including RSA, BlackHat, OWASP, BSides, DevOpsDays, and ISSA.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>20:30</b> // Jennifer Chermoshynuk & Jennie Steshenko // CAIQ & Cookies: The voracious appetite for security and privacy assurance through vendor questionnaires</h5>
+        <p>Our personal and professional lives have become increasingly digital over the past few decades, with an epic upwards leap thanks to 2020 with so many more of us working, playing, and socializing from home. Also increased is companies' vested interest in keeping their (digital) assets secure, and their employees' and customers' data private. That interest is being "gently" encouraged by various certifications, audits, and regulations, which is evidenced in decreasing risk appetites. In this talk, we'll cover some of the most common security and privacy regs, and flavors of questionnaires that companies are now serving up in hopes to satiate their growing hunger for compliance.</p>
+        <blockquote>Jennifer "Jen" Chermoshnyuk is a self-described connector of dots with both legal and tech experience but is neither a lawyer nor a pure tech geek.  An escapee from big law, Jen questioned and social-engineered her way into info sec and risk management. With nearly 20 years in legal, risk management, and information security - dabbling in privacy, Jen keeps her eyes on the horizon to spot emerging risks to help business navigate and face change head on.  She is a Senior Security and Trust Engineer for GitHub's Field Architecture team and lives in Seattle with her husband and two mostly-adorable daughters who are quickly surpassing their mother in both lock picking and developing devious social-engineering techniques: beware of children bearing strangers.</blockquote>
+        <blockquote>Jennie Steshenko is a translator between realms, finding joy in interpreting privacy requirements to engineers and engineering constraints to legal. An Industrial Engineer turned Data Nerd, which led her to a GDPR planning and implementation gig and revived her interest in Security and Privacy. After a short detour to Software Dev world, she got her CISSP certification and has finally arrived at her current adventure as The Privacy Program Manager at GitHub, keeping an eagle eye on employee and user (50 million of them!!) privacy. DFDs are Jennie's Zen when she's not tending to her 2 pet orchids in the "tropical" city of Seattle.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <div class="large-12 columns">
+            <h5 class="text-center"><b>December 17, 2020 - All times EST</b></h5>
+            <h6 class="text-center"><a href="https://youtu.be/-xVBd8MGlJs">Day 2 Video Stream</a></h6>
+        </div>
+    </div>
+    <div class="row">
+        <h5><b>16:00</b> // Dominik 'disconnect3d' Czarnota // Various interesting (and not) bugs case studies</h5>
+	<p>In this talk I will present a "cstrnfinder" research where I found many (stupid) bugs related to string operations in C. Apart from that, we will look through an insufficient permission check that allowed for kASLR bypass within kernel modules in certain container environments. We will also analyse a not sufficient mitigation in glibc allocator, where changing a few lines of code can make it harder for attackers to exploit buggy applications.</p>
+        <blockquote>Disconnect3d works as computer security engineer at Trail of Bits where he performs security audits. Apart from that, he plays CTFs in justCatTheFish team and maintains Pwndbg, a GDB plugin for reverse engineering. He is also a lead reviewer in the Paged Out! project and enjoys giving lightning talks on conferences or meetups. Before diving into security, disconnect3d worked as a software dev.</blockquote>
+	<hr>
+    </div>
+    <div class="row">
+        <h5><b>16:45</b> // Naomi Buckwalter // Six Things DevOps Wants from InfoSec</h5>
+        <p>Why does it seem that DevOps and Security are always at odds with each other? Why does Security have such a bad reputation among developers? In this talk, "Six Things DevOps Wants from InfoSec", you'll learn that developers actually WANT to work with Security - they care about writing secure code! But we as security professionals need to understand that developers don't want another "Big Brother" telling them what to do - they need an active and supportive partner in the delivery process. This talk will showcase six things that every DevOps teams want from their InfoSec teams. Everyone is on the same team, after all. Let's help DevOps accomplish their goal to release the best - and most secure - code possible.</p>
+        <blockquote>Naomi Buckwalter, CISSP CISM is the Director of Information Security & Privacy at Energage, a mid-size HR technology company. She has over 20 years' experience in IT and Security and has held roles in Software Engineering, Security Architecture, Security Engineering, and Security Leadership. As a cybersecurity career adviser and mentor for people around the world, her passion is helping people, particularly women, get into cybersecurity. Naomi volunteers with Philly Tech Sistas, a Philadelphia-based nonprofit helping women of color prepare for a career in IT and tech. Naomi has two Masters degrees from Villanova University and a Bachelor of Engineering from Stevens Institute of Technology. In her spare time, Naomi plays volleyball and stays active as the mother of two boys.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>17:30</b> // Jeff Williams // Getting Started with Security Observability</h5>
+        <p>Software is incredibly hard to secure because it’s a black box. We’ve spent decades trying to verify properties of software by analyzing the source code, scanning, fuzzing, pentesting, etc... only to be continually outpaced by software complexity. Instrumentation is a powerful approach for measuring security directly from within running code. In this this talk, you’ll learn how to use the free and open source Java Observability Toolkit (JOT) project to easily create your own powerful runtime instrumentation without coding. You can use JOT to analyze security defenses, identify complex vulnerabilities, create custom sandboxes, and enforce policy at runtime. You can even create your own IAST tests and your own RASP defenses using JOT. Ultimately, we’ll show that security instrumentation empowers development and security to work together in harmony.</p>
+        <blockquote>Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. He recently authored the DZone DevSecOps, IAST, and RASP refcards and speaks frequently at conferences including JavaOne (Java Rockstar), BlackHat, QCon, RSA, OWASP, Velocity, and PivotalOne. Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 9 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. <a href="https://www.linkedin.com/in/planetlevel/">https://www.linkedin.com/in/planetlevel/</a></blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>18:15</b> // Evan Johnson // Implementing Zero Trust the Cloudflare Way</h5>
+        <p>Cloudflare is helping to build a better internet. We have been working on moving beyond the VPN for years and have made incredible progress. Join me as I walk through how we’ve made this progress, where we are today, how the technology works and how we are continuing to progress in this space.</p>
+        <blockquote>The Head of Product Security at Cloudflare. A software engineer at heart. An avid but bad chess player. DM him for a few games of blitz.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>19:00</b> // Aaron Rinehart // Security Chaos Engineering: Improving Security by Experimenting with Failure</h5>
+        <p>Security-focused Chaos Engineering injects security turbulent conditions or faults into an application to determine the conditions by which it will fail so that developers can fix it before it is exploited. Discover how to use Chaos Engineering to develop a learning culture in DevSecOps and how to practically apply it to enhance application performance, resilience, and security.</p>
+        <blockquote>Aaron Rinehart has spent his career solving challenging engineering problems for organizations such as the United States Department of Homeland Security (DHS), National Aeronautics and Space Administration (NASA), and the Department of Defense (DoD). Rinehart has been a featured speaker at several media outlets and conferences, most notably the National Press Club, RSA, Velocity, and ABC News. Rinehart has been interviewed and quoted in various publications including the Huffington Post, DarkReading, SecurityWeekly, ISMG and MarketWatch.<br>
+        Aaron has been expanding the possibilities of chaos engineering in its application to other safety-critical portions of the IT domain notably cybersecurity. He began pioneering the application of security in chaos engineering during his tenure as the Chief Security Architect at the largest private healthcare company in the world, UnitedHealth Group (UHG). While at UHG Rinehart released ChaoSlingr, one of the first open source software releases focused on using chaos engineering in cybersecurity to build more resilient systems. Rinehart recently founded a chaos engineering startup called Verica with Casey Rosenthal from Netflix and is the O’Reilly author on the topic as well as a frequent speaker in the space.</blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>19:45</b> // Clea Ostendorf // Insider Threat: When Intellectual Property Walks Out</h5>
+        <p>If you create software, manufacture products or develop proprietary processes, you need an insider threat program. Today people change jobs on average every two years and when they leave, they take intellectual property. Learn how you can leverage your existing technology stack to be proactive at reducing the risk of someone taking your data by hearing stories and mitigation techniques that actually work.</p>
+        <blockquote>Clea Ostendorf, CISSP, has been in the IT space for the last 8 years where she’s held roles as an IT Recruiter, Sales and Development Manager, Security Consultant and Relationship Manager. She helped influence the user experience of a Secure Code Training Platform and worked in the Application Security space until most recently taking on the role of developing Insider Threat Programs for Code42 customers. She is Certified Insider Threat Program Manager from the Carnegie Mellon CERT Institute. </blockquote>
+        <hr>
+    </div>
+    <div class="row">
+        <h5><b>20:30</b> // Laura Huerta Migus // Drinking About Diversity or Equity Happy Hour</h5>
+        <p>Dialogue about issues of diversity, equity, and inclusion are all around us. However, these conversations are often happening as philosophical debates that don't offer easy ways to understand how to embrace inclusion in your personal and/or professional life. In this session, we'll bridge the personal and philosophical in the way many of us do this with our friends - over drinks! Real questions from the community will be addressed, and real advice and tools will be offered.</p>
+        <blockquote>Laura Huerta Migus is Executive Director of the Association of Children's Museums (ACM), the world’s largest professional society for the children's museum field. She previously served as Director of Professional Development and Equity Initiatives at the Association of Science-Technology Centers. Laura was named a 2018 Aspen Institute Ascend Fellow and a 2016 White House Champion of Change. When it comes to equity work, she believes that we all have work to do. </blockquote>
+        <hr>
+    </div>
+    <h3 class="text-center">Code of Conduct</h3>
+    <div class="row">
+      <h5>Our conference is governed by <a href="/cons/Code_of_Conduct.html">this Code of Conduct</a></h5>
+    </div>
+    <script src="../../js/jquery.js"></script>
+    <script src="../../js/foundation.min.js"></script>
+    <script>
+        $(document).foundation();
+    </script>
+</body>
+</html>

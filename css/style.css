@@ -1,0 +1,255 @@
+/*General*/
+
+body {
+    font-family: Quicksand;
+}
+
+.button.hollow.secondary:hover, .button.hollow.secondary:focus {
+    border-color: #8CC53F;
+    color: #fff;
+}
+
+
+.button:hover, .button:focus {
+   border-color: #E67526;
+    color: #fff;
+    background-color:#E67526;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Quicksand;
+}
+
+
+.display-table {
+    display: table;
+}
+
+.va-align {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+/*General*/
+
+.intro {
+    background: url(../img/berlin_hbf.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 200px;
+    max-height: 350px;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    background-position: center;
+}
+
+/* About */
+.about {
+    background-color: #fff;
+    text-align: center;
+    margin: 40px;
+}
+
+
+/* About */
+
+.cons {
+    background-color: #eee;
+    text-align: center;
+    margin: 40px;
+}
+
+
+
+/* Colors */
+
+.orange {
+    color: #F78536;
+}
+
+.green {
+    color: #8CC53F;
+}
+
+.grey {
+    color: #3A3A3C;
+}
+
+.light-grey {
+    color: #58585A;
+}
+
+.light-blue-grey {
+    color: #DFEBED;
+}
+
+.light-blue {
+    color: #72E2FE;
+}
+
+.blue {
+    color: #497285;
+}
+
+.dark-blue {
+    color: #2B4450;
+}
+
+.orange-bg {
+    background-color: #F78536;
+}
+
+.light-blue-grey-bg {
+    background-color: #DFEBED;
+}
+
+.blue-bg {
+    background-color: #497285;
+}
+
+.dark-blue-bg {
+    background-color: #2B4450;
+}
+
+
+/*Colors*/
+
+
+/*Team*/
+
+.team {
+    background-color: #fff;
+    margin: 40px;
+}
+
+.team-member {
+    text-align: center;
+    margin-bottom :16px;
+}
+
+    .team-member img {
+        margin-bottom: 30px;
+    }
+
+    .team-member h5 {
+        color: #F78536;
+    }
+
+    .team-member p {
+        font-weight: 300;
+    }
+/*Team*/
+
+/* Info Section */
+
+.info {
+    background-color: #3A3A3C;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Info Section */
+
+
+/*Blog */
+
+.blog {
+    background-color: #fff;
+    margin: 30px;
+}
+
+    .blog .label {
+        margin-bottom: 5px;
+    }
+
+.blog-item {
+    margin-bottom: 10px;
+}
+
+    .blog-item img {
+        margin-bottom: 10px;
+    }
+
+    .blog-item h5 {
+        color: #497285;
+    }
+
+/*Blog */
+
+/* Links */
+
+.links {
+    background-color: #EBE5D9;
+    color: #fff;
+    min-height: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Subscribe */
+
+.subscribe {
+    background-color: #497285;
+    color: #fff;
+    min-height: 100px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+/* Subscribe */
+
+
+/*Map*/
+
+.map {
+    background-color: #F78536;
+    color: #fff;
+    min-height: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Map */
+
+
+/* Contact */
+
+.contact {
+    background-image: url('../img/berlin_hbf.jpg');
+    background-position: center center;
+    min-height: 200px;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    background-position: bottom center;
+}
+
+/* Contact */
+
+/*Footer */
+
+.footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer-social i {
+    color: #497285;
+    margin-left: 20px;
+    font-size: 22px;
+}
+
+    .footer-social i:hover {
+        color: #F78536;
+    }
+
+
+/*Footer */
