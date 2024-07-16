@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 252 w/ Rami McCarthy - Security Startups, Jobs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_252.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_252.mp3" length="31714859" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Jul 2024 11:00:00 -0700</pubDate>
+        <description>Product Security and Cloud security guru Rami McCarthy (@ramimacisabird on X) comes on the Absolute AppSec podcast with Ken and Seth (@cktricky and @sethlaw)! To get to know Rami, you should first check out his website here to get acquainted with some of his latest prodigious activities: https://ramimac.me/. He’s recently delivered a talk regarding zero-touch prod at Fwd:CloudSec and finished a stint as a Security Engineer at Figma. For folks interested in questions of security consulting, management, AWS and cloud security as well as many of the other large questions in infosec, Rami is always a great follow.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 251 - Passive Scanning, Chrome Extensions, CocoaPods, NVD</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_251.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_251.mp3" length="36660536" type="audio/x-mp3"/>
