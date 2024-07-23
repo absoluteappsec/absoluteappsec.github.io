@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 253 w/ Justin Collins - Managing Security, ProdSec vs. AppSec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_253.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_253.mp3" length="36647554" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Jul 2024 11:00:00 -0700</pubDate>
+        <description>We'd only been a dozen episodes old the last time Justin Collins (@presidentbeef) was on Absolute AppSec, so his upcoming return is certainly overdue. Justin is currently head of security at Gusto, an organization he's been helping secure for nearly five years now. Before Gusto, Justin had stints at SurveyMonkey, Twitter, AT&amp;T interactive, among others. He also is the lead developer of the open-source Ruby-on-Rails security tool Brakeman - https://brakemanscanner.org. This show will covers the range of his deep experience regarding topics like Product Security and AppSec in organizations, static analyzers, and advice for helping organizations create successful security programs and mindsets. Tune in as Justin joins Seth Law (@sethlaw) and Ken Johnson (@cktricky) to talk about managing security people and various product and application security topics.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 252 w/ Rami McCarthy - Security Startups, Jobs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_252.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_252.mp3" length="31714859" type="audio/x-mp3"/>
