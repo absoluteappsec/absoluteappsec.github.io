@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 254 - Pre-Hacker Summer Camp</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_254.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_254.mp3" length="28830382" type="audio/x-mp3"/>
+        <pubDate>Thu, 01 Aug 2024 14:00:00 -0700</pubDate>
+        <description>Seth and Ken return this week at a slightly unusual time help get you prepped for all things Hacker Summer Camp. As regular visitors to Las Vegas each year for Blackhat, BSidesLV,  DEF CON, and other events, the duo has recommendations for making the most of your time in the desert. Specifically, download HackerTracker (https://hackertracker.app), plan out your time, take care of yourself, and have fun.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 253 w/ Justin Collins - Managing Security, ProdSec vs. AppSec</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_253.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_253.mp3" length="36647554" type="audio/x-mp3"/>
