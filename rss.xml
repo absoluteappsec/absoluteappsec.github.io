@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 255 (0xFF) - HackerSummerCamp Recap</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_255.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_255.mp3" length="34798041" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Aug 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back from Vegas for Episode 0xFF (!!!!) of Absolute AppSec, sponsored by Redpoint Security (redpointsecurity.com). After spending the last week+ withering away in the desert heat while listening to industry insiders, technicians, and hackers talk about their research, the duo have returned dehydrated to share their own experiences from DEF CON 32, Blackhat, BSidesLV, and Diana Initiative. After some discussion, they dive into interesting talks, new tools, hotel searches, and badge controversies.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 254 - Pre-Hacker Summer Camp</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_254.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_254.mp3" length="28830382" type="audio/x-mp3"/>
