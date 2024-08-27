@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 257 - In-Person vs. Virtual Training, Compliance Violations</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_257.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_257.mp3" length="26861725" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Aug 2024 11:00:00 -0700</pubDate>
+        <description>Ken (@cktricky) returns alongside Seth (@sethlaw) for the week. This starts with an in-depth discussion on the pros and cons of in-person and virtual trainings. In short, the duo prefers in-person due for the advantages, but understand that financial pressures come into play, so virtual is a good substitute. This is followed by thoughts on the recent lawsuit by thy government against Georgia Tech for failing to meet government cybersecurity compliance requirements, even after attesting to their existence. Third-party risk assessments may not be the most fun part of security, but what happens when an organization doesn't meet their obligations? Seems like both sides are in the "find out" phase of FAFO.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 256 w/ John Poulin - Token Security, Staying Technical as a Manager</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_256.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_256.mp3" length="35735660" type="audio/x-mp3"/>
