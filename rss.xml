@@ -23,6 +23,54 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 257 - In-Person vs. Virtual Training, Compliance Violations</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_257.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_257.mp3" length="26861725" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Aug 2024 11:00:00 -0700</pubDate>
+        <description>Ken (@cktricky) returns alongside Seth (@sethlaw) for the week. This starts with an in-depth discussion on the pros and cons of in-person and virtual trainings. In short, the duo prefers in-person due for the advantages, but understand that financial pressures come into play, so virtual is a good substitute. This is followed by thoughts on the recent lawsuit by thy government against Georgia Tech for failing to meet government cybersecurity compliance requirements, even after attesting to their existence. Third-party risk assessments may not be the most fun part of security, but what happens when an organization doesn't meet their obligations? Seems like both sides are in the "find out" phase of FAFO.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 256 w/ John Poulin - Token Security, Staying Technical as a Manager</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_256.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_256.mp3" length="35735660" type="audio/x-mp3"/>
+        <pubDate>Web, 21 Aug 2024 11:00:00 -0700</pubDate>
+        <description>Ken Johnson (@cktricky) abandons the podcast this week to attend a conference and play business, so Seth (@sethlaw) bring in Cloud Security Partners CTO John Poulin (@forced_request) as a co-host. John and Seth start off by discussing the difference in virtual and in-person training. This is followed by two articles. The first is from CrankySec, where the idea that security isn't valued over other technical business aspects. The second article is from Keith Hoodlet (also a podcast guest) detailing why staying technical as a manager is something any of us should strive towards (and how to do it).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 255 (0xFF) - HackerSummerCamp Recap</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_255.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_255.mp3" length="34798041" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Aug 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back from Vegas for Episode 0xFF (!!!!) of Absolute AppSec, sponsored by Redpoint Security (redpointsecurity.com). After spending the last week+ withering away in the desert heat while listening to industry insiders, technicians, and hackers talk about their research, the duo have returned dehydrated to share their own experiences from DEF CON 32, Blackhat, BSidesLV, and Diana Initiative. After some discussion, they dive into interesting talks, new tools, hotel searches, and badge controversies.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 254 - Pre-Hacker Summer Camp</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_254.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_254.mp3" length="28830382" type="audio/x-mp3"/>
+        <pubDate>Thu, 01 Aug 2024 14:00:00 -0700</pubDate>
+        <description>Seth and Ken return this week at a slightly unusual time help get you prepped for all things Hacker Summer Camp. As regular visitors to Las Vegas each year for Blackhat, BSidesLV,  DEF CON, and other events, the duo has recommendations for making the most of your time in the desert. Specifically, download HackerTracker (https://hackertracker.app), plan out your time, take care of yourself, and have fun.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 253 w/ Justin Collins - Managing Security, ProdSec vs. AppSec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_253.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_253.mp3" length="36647554" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Jul 2024 11:00:00 -0700</pubDate>
+        <description>We'd only been a dozen episodes old the last time Justin Collins (@presidentbeef) was on Absolute AppSec, so his upcoming return is certainly overdue. Justin is currently head of security at Gusto, an organization he's been helping secure for nearly five years now. Before Gusto, Justin had stints at SurveyMonkey, Twitter, AT&amp;T interactive, among others. He also is the lead developer of the open-source Ruby-on-Rails security tool Brakeman - https://brakemanscanner.org. This show will covers the range of his deep experience regarding topics like Product Security and AppSec in organizations, static analyzers, and advice for helping organizations create successful security programs and mindsets. Tune in as Justin joins Seth Law (@sethlaw) and Ken Johnson (@cktricky) to talk about managing security people and various product and application security topics.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 252 w/ Rami McCarthy - Security Startups, Jobs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_252.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_252.mp3" length="31714859" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Jul 2024 11:00:00 -0700</pubDate>
+        <description>Product Security and Cloud security guru Rami McCarthy (@ramimacisabird on X) comes on the Absolute AppSec podcast with Ken and Seth (@cktricky and @sethlaw)! To get to know Rami, you should first check out his website here to get acquainted with some of his latest prodigious activities: https://ramimac.me/. He’s recently delivered a talk regarding zero-touch prod at Fwd:CloudSec and finished a stint as a Security Engineer at Figma. For folks interested in questions of security consulting, management, AWS and cloud security as well as many of the other large questions in infosec, Rami is always a great follow.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 251 - Passive Scanning, Chrome Extensions, CocoaPods, NVD</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_251.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_251.mp3" length="36660536" type="audio/x-mp3"/>
