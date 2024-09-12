@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 259 - Special Melbourne Australia Edition w/Paul McCarty and Daniel Ting</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_259.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_259.mp3" length="48821191" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Sep 2024 20:00:00 -0700</pubDate>
+        <description>Seth and Ken take the podcast global this week while traveling to Melbourne, Australia. The duo is joined this episode are joined by Paul McCarty and Daniel Ting, both involved in the local application security community. The discussion starts with a comparison of industries in Australia and the United States, both differences and similarities. This is followed by thoughts on security software supply chain, from a red and blue team perspective. Finally, some thoughts on community changes due to the pandemic and supporting local meetups.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 258 - Engaging Developers, ALBeast, Dangerous TLDs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_258.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_258.mp3" length="31812188" type="audio/x-mp3"/>
