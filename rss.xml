@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 260 w/ Darren Meyer of Endor Labs - Dependency Management</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_260.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_260.mp3" length="30965970" type="audio/x-mp3"/>
+        <pubDate>Thu, 19 Sep 2024 20:00:00 -0700</pubDate>
+        <description>Absolute AppSec welcomes Darren Meyer (@DarrenPMeyer on infosec.exchange and X platform) from Endor Labs as a guest on the show to discuss Endor Lab’s newly released 2024 Dependency Management Report. Implementation of reachability analysis as a sine qua non of effective dependency management is one of the top-line takeaways from the newly released report. The discussion dives deeper with Darren during the livestream to talk about useful lessons from the report's findings.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 259 - Special Melbourne Australia Edition w/Paul McCarty and Daniel Ting</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_259.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_259.mp3" length="48821191" type="audio/x-mp3"/>
