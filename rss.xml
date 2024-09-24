@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 261 - Security Economy, Password Resets, Vendor Consolidation</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_261.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_261.mp3" length="37257123" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Sep 2024 20:00:00 -0700</pubDate>
+        <description>Ken (@cktricky) and Seth (@sethlaw) are back to review this weeks news and commiserate about industry happenings. First up are their thoughts on the current economic climate and how it has affected the security industry over the last 5 years. This is followed with evolving nature of password reset requirements as frequent changes are not recommended by NIST. The duo digs into possible motives for Checkmarx's recent announcement that they are funding ZAP. Finally, some thoughts on domain takeovers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 260 w/ Darren Meyer of Endor Labs - Dependency Management</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_260.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_260.mp3" length="30965970" type="audio/x-mp3"/>
