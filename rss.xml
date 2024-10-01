@@ -23,6 +23,15 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 262 - w/ Ariel Shin - Building a Security Program</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_262.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_262.mp3" length="34460863" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Sep 2024 11:00:00 -0700</pubDate>
+        <description>Ariel Shin joins Ken Johnson (@cktricky on social media) and Seth Law (@sethlaw) for a special episode of Absolute AppSec. Ariel is currently a Security Engineering Manager at Datadog after a three-year stint at Twilio where she worked as an engineering manager in product security, a product security team lead, and a senior product security engineer. This year at Bsides SF 2024, she presented on her time at Twilio in a retrospective talk entitled “Six Years in Review: Transforming Company Culture to Embrace Risk.” The video from Bsides SF can be found here: https://www.youtube.com/watch?v=cQE1OqCpeI8.
+        Before Twilio, Ariel worked at one medical as an appsec engineer as well as spending time as a Technology and Privacy consultant with Protiviti. She also helps build the professional appsec and prodsec communities as a frequent commenter and presenter at security conferences. </description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 261 - Security Economy, Password Resets, Vendor Consolidation</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_261.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_261.mp3" length="37257123" type="audio/x-mp3"/>
