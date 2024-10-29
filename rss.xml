@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 265 - w/ Scott Norberg - Static Analysis</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_265.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_265.mp3" length="40224049" type="audio/x-mp3"/>
+        <pubDate>Thu, 29 Oct 2024 11:00:00 -0700</pubDate>
+        <description>Scott Norberg joins Ken Johnson and Seth Law for an episode of Absolute AppSec all about SAST. Scott is an ASP.NET Security Consultant, Author, Researcher and Speaker. In addition to running his Opperis Technologies consultancy, Scott has recently begun working as lead application security architect at CDW. Before that he worked as Lead Application Security engineer at Gallagher and was a Senior Consultant with the AppSec team at Coalfire. He has been a web security specialist for nearly two decades, and holds several certifications, including Microsoft Certified Technology Specialist (MCTS), certifications for ASP.NET and SQL Server, and a Certified Information Systems Security Professional (CISSP) and CCSP certification. He also has an MBA from Indiana University. To find out more about Scott check out his website https://scottnorberg.com/ as well as his 2020 book Advanced ASP NET Core Security Vulnerabilities.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 264 - w/ Jeremy Long - Software Composition Analysis</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_264.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_264.mp3" length="32776666" type="audio/x-mp3"/>
