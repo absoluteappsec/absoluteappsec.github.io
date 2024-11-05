@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 266 - Scope of Penetration Testing, Attack Modeling</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_266.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_266.mp3" length="34320668" type="audio/x-mp3"/>
+        <pubDate>Thu, 05 Nov 2024 11:00:00 -0700</pubDate>
+        <description>Seth (@sethlaw) and Ken (@cktricky) return for an in-depth discussion on penetration testing expectations, driven by recent posts and slack activity from Andrew Wilson. Essentially, certain clients expect that a single penetration test finds everything possible, whether or not those expectations are appropriate. The duo expounds on their experience with similar expectations and how its affected their respective careers and organizations. A followup on threat modeling and a new approach being coined as Attack Modeling.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 265 - w/ Scott Norberg - Static Analysis</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_265.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_265.mp3" length="40224049" type="audio/x-mp3"/>
