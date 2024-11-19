@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 267 - w/ Kinnaird McQuade - Building a Security Product</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_267.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_267.mp3" length="32843753" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Nov 2024 11:00:00 -0700</pubDate>
+        <description>Join us for an episode of Absolute AppSec with Kinnaird McQuade, founder and CTO of NightVision. Kinnaird developed NightVision as a security testing tool that combines codebase analysis with DAST features. Before NightVision, Kinnaird worked as lead security engineer at both Square and Salesforce. Additionally he worked at Synopsys as Cloud Security Consulting Practice Lead. Be sure to tune into the episode as Ken Johnson and Seth Law interview Kinnaird McQuade to gain insights from his experiences and thoughts on improving security for applications and developers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 266 - Scope of Penetration Testing, Attack Modeling</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_266.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_266.mp3" length="34320668" type="audio/x-mp3"/>
