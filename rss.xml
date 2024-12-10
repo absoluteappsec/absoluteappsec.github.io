@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 268 w/ Clint Gibler - Curating a Newsletter, Secure Defaults</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_268.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_268.mp3" length="35029417" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Dec 2024 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are happy to announce that Clint Gibler (@clintgibler), the force behind TL;DRSec (tldrsec.com) and head of Security Research at Semgrep, will be coming on as a guest again on the Absolute AppSec podcast. The conversation starts with background on his experience with TL;DRSec and writing a newsletter. Followed up by an indepth discussion on secure defaults and how Semgrep and other tools help push security in organizations.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 267 - w/ Kinnaird McQuade - Building a Security Product</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_267.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_267.mp3" length="32843753" type="audio/x-mp3"/>
