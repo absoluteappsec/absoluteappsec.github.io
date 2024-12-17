@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 269 - Security Conferences, What Sucks in (App)Sec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_269.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_269.mp3" length="38898913" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Dec 2024 11:00:00 -0700</pubDate>
+        <description>The dynamic duo is back for another holiday special. Not that they reference the holidays, but dig into complaints about security conferences and how to build a conference network. Followed by a discussion inspired by a recent TL;DRSec post from Maya Kaczorowski on "What Sucks about Security" where security leaders were asked that specific question. This leads into the question "What Sucks in AppSec?", so the co-hosts give their responses.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 268 w/ Clint Gibler - Curating a Newsletter, Secure Defaults</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_268.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_268.mp3" length="35029417" type="audio/x-mp3"/>
