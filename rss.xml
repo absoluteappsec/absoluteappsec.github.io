@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 270 - 2025 AppSec Predictions</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_270.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_270.mp3" length="38655459" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Jan 2025 11:00:00 -0700</pubDate>
+        <description>Ken and Seth return for 2025 to review the accuracy of their predictions from 2024 and make a few new ones for this new year. Some hits and misses for last year, but overall the generic predictions for both AI/LLM growth and software supply chain security were accurate. However, they were wrong in their assumptions around LLM creation and training. For 2025, predictions on AI billing models, software supply chain attacks, OWASP Top 10 2025, and more.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 269 - Security Conferences, What Sucks in (App)Sec</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_269.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_269.mp3" length="38898913" type="audio/x-mp3"/>
