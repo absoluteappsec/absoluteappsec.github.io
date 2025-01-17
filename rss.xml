@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 271 - Top 10 2024 Web Hacking Techniques, Research Techniques, AppSec Careers</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_271.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_271.mp3" length="31968523" type="audio/x-mp3"/>
+        <pubDate>Fri, 17 Jan 2025 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return once again to talk through the overall effectiveness and purpose of Portswigger's Top 10 Web Hacking Techniques and how it benefits the community. A short discussion on some of the current crop of techniques up for polling. Spurred by recent revelations around Snyk's approach to identifying security issues in npm packages, the duo discusses research techniques and identifying security issues without exploitation or harm. To close out, a discussion on progressing from junior to senior within the security space and challenges in the current market.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 270 - 2025 AppSec Predictions</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_270.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_270.mp3" length="38655459" type="audio/x-mp3"/>
