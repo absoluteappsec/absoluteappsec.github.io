@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 272 - New AI Tools, True Cost of False Positives</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_272.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_272.mp3" length="42102320" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Jan 2025 11:00:00 -0700</pubDate>
+        <description>Ken and Seth start with a demo and discussion on some newer tools that use integrated AI in both the code and workflow spaces. Specifically, use for code review and understanding is improving. This is followed by a wide-ranging discussion of false positives, where they come from, and how they affect application security. Seth gets up in arms about trying to deal with unrealistic expectations around reducing false positives.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 271 - Top 10 2024 Web Hacking Techniques, Research Techniques, AppSec Careers</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_271.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_271.mp3" length="31968523" type="audio/x-mp3"/>
