@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 273 - Josh Larsen - Ghost Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_273.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_273.mp3" length="38681637" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+        <description>Josh Larsen, co-founder of CTO of Ghost Security, joins Seth Law and Ken Johnson on January 28th at 12 Noon Eastern time. Before Ghost Security, Josh was a co-founder and CEO of Darkbit and before that of the Blackfin Security Group. Larsen led the GTM strategy for both startups, and Darkbit and Blackfin Security Group were acquired by Aqua Security and Symantec Corporation, respectively. Ghost Security (https://ghostsecurity.com/) was founded so development shops and AppSec teams had a tool to perform autonomous application security using Agentic AI with the goal of helping teams discover, test, and mitigate risks in real time. Josh (joshlarsen on Linked In, @josh_larsen on X/Twitter) has been in the industry for 25 years working as a security program manager and consultant as well as building products that improve the security landscape. Be sure to tune in as Seth and Ken talk through his experiences in the field as well as gleaning his insights about the future of AppSec.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 272 - New AI Tools, True Cost of False Positives</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_272.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_272.mp3" length="42102320" type="audio/x-mp3"/>
