@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 274 - Semgrep/OpenGrep, Saying "No" in Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_274.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_274.mp3" length="37312258" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Feb 2025 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return for another week to review current articles and happenings in the application security world. Specifically, they spend some time reacting to the news that the Semgrep Community version has been forked as Opengrep by a number of vendors. This occurs as a result of Semgrep changing the licenses on their open source rules to prevent use in competitor products. Also a discussion spurred by Rami McCarthy's recent article on how "No" is still appropriate and security shouldn't be a rubber stamp for any organization.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 273 - Josh Larsen - Ghost Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_273.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_273.mp3" length="38681637" type="audio/x-mp3"/>
