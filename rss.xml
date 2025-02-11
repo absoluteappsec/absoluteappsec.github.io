@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 275 - OpenGrep Summary, Secure By Design, Confusion Attacks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_275.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_275.mp3" length="36591191" type="audio/x-mp3"/>
+        <pubDate>Tue, 11 Feb 2025 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are back for another episode that starts with a summary of the Semgrep and OpenGrep break. This is followed by Google's recent article titled Secure By Design: Google's Blueprint for a High-Assurance Web Framework. Google is focused on protections within the browser, given their products and business, but the controls and overall process are relevant to most application security programs. Finally, a discussion of Orange Tsai's research on Confusion Attacks within Apache that was number one in Portswigger's Top 10 Web Hacking Techniques of 2024.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 274 - Semgrep/OpenGrep, Saying "No" in Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_274.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_274.mp3" length="37312258" type="audio/x-mp3"/>
