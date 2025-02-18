@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+     <item>
+        <title>Episode 276 - w/ Myles Borins - NPM</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_276.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_276.mp3" length="33640857" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Feb 2025 10:00:00 -0700</pubDate>
+        <description>Myles is currently Product Lead for Developer Platform at Snowflake.  Previously, he directed project management at GitHub, overseeing projects like GitHub Copilot Workspace for PRs, Codespaces, npm, and Packages. A key contributor to Ecma International and TC39, he has served for stretches as a Delegate, Co-Chair, and VP for the project. His contributions to TC39 coincided with his periods he worked for both Google and Microsoft, respectively.  In addition to extensive experience driving security and standards improvement in open source initiatives and key development languages, Myles is an active and accomplished musician. Catch up with Myles and his work here: https://mylesborins.com/about.html. We are excited to have Myles as a guest on the show, so be sure to catch up with this episode and make a note that this episode is occurring one hour earlier than the typical livestream broadcast time.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>Episode 275 - OpenGrep Summary, Secure By Design, Confusion Attacks</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_275.mp3</link>
