@@ -22,7 +22,15 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
-     <item>
+    <item>
+        <title>Episode 277 - w/ Kyle Rippee - AppSec Support, Security Red Flags, Getting Into AppSec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_277.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_277.mp3" length="33688974" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Feb 2025 10:00:00 -0700</pubDate>
+        <description>Kyle Rippee, currently staff product security engineer at Tines, joins Seth and Ken for another episode of Absolute AppSec. Kyle has over a decade of experience both managing and working for Application Security teams, as well as working as a pentester, security consultant, and software engineer. Before Tines, he worked for PlanetArt (where he held the role of Director of Information Security), FloQast, Shutterfly, Atos, among other Product Development and Security Consulting firms. Join us as we discuss Kyle's path into application security as well as finding out more about the interesting things going on at Tines.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 276 - w/ Myles Borins - NPM</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_276.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_276.mp3" length="33640857" type="audio/x-mp3"/>
