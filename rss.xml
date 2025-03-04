@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 278 - Security Conferences, Testing Data in Git, Unforgivable Vulnerabilities</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_278.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_278.mp3" length="31097204" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Mar 2025 10:00:00 -0700</pubDate>
+        <description>Seth and Ken return without a guest to discuss recent news, breaches, and research. Initial discussions around the purposes of the various security conferences and what is recommended for various professional levels. An article discussing recent customer data exposure by Zapier in git test data. Synthetic test data has been an issue for long time so not a surprising turn of events. Finally, thoughts on the definitions and classification of Unforgivable Vulnerabilities as proposed by the UK's National Cyber Security Centre.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 277 - w/ Kyle Rippee - AppSec Support, Security Red Flags, Getting Into AppSec</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_277.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_277.mp3" length="33688974" type="audio/x-mp3"/>
