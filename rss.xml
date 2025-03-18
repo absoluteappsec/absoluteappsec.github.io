@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+     <item>
+        <title>Episode 279 - Conferences, Destructive Fatigue, Imposter Syndrome</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_279.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_279.mp3" length="37809495" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Mar 2025 10:00:00 -0700</pubDate>
+        <description>After a week's hiatus, Ken and Seth return and start with a discussion on OWASP conferences and the effectiveness of attendance for vendors. This is followed by an expansive mental health discussion inspired by a recent blog post on Destructive Fatigue from Justin Larson at Redpoint Security. A constant focus on breaking and tearing down applications or anything can have mental health effects. Additionally, focus on the negative aspects increases imposter syndrome that is already prevalent across the industry. This leads to the question, what do you do to maintain sanity and mental health? Jump into Slack or tag @absoluteappsec on social media with your strategies.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>Episode 278 - Security Conferences, Testing Data in Git, Unforgivable Vulnerabilities</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_278.mp3</link>
