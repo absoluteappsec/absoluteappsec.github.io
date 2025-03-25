@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+    <item>
+        <title>Episode 280 - Middleware Vulnerabilities, Identifying Enumeration with LLMs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_280.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_280.mp3" length="34291975" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Mar 2025 10:00:00 -0700</pubDate>
+        <description>Seth and Ken are back with an episode dedicated to a review of the recent Next.js middleware vulnerability and how that impacts application security both specifically and in general. Over-dependence on third party software accompanied by agile development can lead to devastating results when security flaws are identified. A followup and demo of using LLMs to analyze HTTP sessions for user enumeration flaws as a sneak peak of an upcoming talk by Seth for BSidesSLC.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
      <item>
         <title>Episode 279 - Conferences, Destructive Fatigue, Imposter Syndrome</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_279.mp3</link>
