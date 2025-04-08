@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 281 - Signing Models, Vibe Coding, GitHub Action Abuse</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_281.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_281.mp3" length="34437514" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Apr 2025 10:00:00 -0700</pubDate>
+        <description>The duo are back for a discussion on securing machine learning models using Sigstore, based on a recent blog post from Google Security. Followed by some spicy takes on opinions on vibe coding and its effects on application and product security. Finally, short-lived tokens used to exploit RCE against the GitHub CodeQL Action.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 280 - Middleware Vulnerabilities, Identifying Enumeration with LLMs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_280.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_280.mp3" length="34291975" type="audio/x-mp3"/>
