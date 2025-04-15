@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 282 - Model Context Protocol, A2A, NHI Authentication</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_282.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_282.mp3" length="33477862" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Apr 2025 10:00:00 -0700</pubDate>
+        <description>It is time to talk about Model Context Protocol (MCP), Google's Agent 2 Agent specification, and get back to the crocs and socks of authentication for Non-Human Identities (NHIs). MCP servers have exploded over the last few weeks and provide a standard mechanism for LLMs to interact with pretty much _anything_. Seth and Ken talk about the risks, exposures, and where things could go from here.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 281 - Signing Models, Vibe Coding, GitHub Action Abuse</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_281.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_281.mp3" length="34437514" type="audio/x-mp3"/>
