@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 283 - Intentionally-Vulnerable MCP Server, Hallucinating Software Packages</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_283.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_283.mp3" length="30124195" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Apr 2025 10:00:00 -0700</pubDate>
+        <description>Ok, so vulnerable MCP tools are a thing now? Ken demonstrates installing and running an intentionally vulnerable MCP server with a bunch of example issues. Following is a discussion of the recent article and research around hallucinations of 3rd party dependencies/libraries in AI-Generated Python and JavaScript. New attack targets all dependent on how creative the LLM is allowed to be. A short aside on why we talk about AI and LLMs so much.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 282 - Model Context Protocol, A2A, NHI Authentication</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_282.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_282.mp3" length="33477862" type="audio/x-mp3"/>
