@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 284 - BSidesSF/RSA Recap, Vibe Coding, WebAuthN</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_284.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_284.mp3" length="30124195" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 May 2025 10:00:00 -0700</pubDate>
+        <description>Back after a hiatus for both BSidesSF and RSA, Seth and Ken recap their experience at both conferences. TL;DR - BSidesSF is great for technical security content and community, RSA focuses on sales for mostly large organizations and budgets. Two sides of the security industry coin and depends on preferences for which makes the most sense for career or business growth. This is followed by a short discussion on vibe coding educational security tools. Episode wraps with an article on MFA phishing and how WebAuthN helps prevent accidental exposure.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 283 - Intentionally-Vulnerable MCP Server, Hallucinating Software Packages</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_283.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_283.mp3" length="30124195" type="audio/x-mp3"/>
