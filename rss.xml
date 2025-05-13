@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 285 - easyjson, Software Dependencies, Breaches</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_285.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_285.mp3" length="34115158" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 May 2025 10:00:00 -0700</pubDate>
+        <description>News this week has been dominated by dependency issues and attribution towards unwanted nation states and actors. Specifically, easyjson is developed by a Russian firm that is under sanctions. The podcast duo discuss the implications and how to protect apps from sub-dependency threats. This leads to a deep dive into breaches and whether a breach has an effect on the industry, company, or individual. Current regulations and certifications can be lost, but does not always have the effect we would expect.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 284 - BSidesSF/RSA Recap, Vibe Coding, WebAuthN</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_284.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_284.mp3" length="30124195" type="audio/x-mp3"/>
