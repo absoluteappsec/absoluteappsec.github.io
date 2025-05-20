@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 286 - Kayra Otaner - Authenticating Open Source Developers</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_286.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_286.mp3" length="34597586" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 May 2025 10:00:00 -0700</pubDate>
+        <description>We are happy to have Kayra Otaner as a special guest on the Absolute AppSec podcast. Kayra (kayraotaner on LinkedIn and X/twitter), the current Director of DevSecOps at Roche, brings over 15 years of cybersecurity leadership experience from New York and Wall Street. He's led DevSecOps and DevOps teams across a variety of organizations, including ADP, Voice, and adMarketplace, and has served as a trusted CTO advisor for Trendyol. His background also includes cybersecurity consulting for the Turkish Navy, where he helped develop a defense solution that was later deployed in NATO's Locked Shields cyber defense war games in Tallinn. Kayra is a frequent speaker at international DevSecOps conferences and serves on the Business and Computer Science Advisory Board at Middlesex County College in New Jersey. During this episode of the podcast Kayra discusses his journey into information security and spurs on his recent thoughts on authenticating open source developers through models similar to TSA PreCheck.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 285 - easyjson, Software Dependencies, Breaches</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_285.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_285.mp3" length="34115158" type="audio/x-mp3"/>
