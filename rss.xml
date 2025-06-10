@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 287 - w/ Hayden Smith (Hunted Labs) - Open Source Dependency Threats</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_287.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_287.mp3" length="33321844" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Jun 2025 10:00:00 -0700</pubDate>
+        <description>Hayden Smith, Hunted Labs Co-Founder comes on Absolute AppSec to discuss, among other things, the Hunted Labs work discovering and publicizing the EasyJson software supply chain threat. Before co-founding Hunted Labs, Hayden was Senior Director of Field Services at Anchore, assisting US government, intelligence, and Fortune 500 clients. Long a specialist on supply-chain issues, Smith established the DoD's Platform One software factory, designed container-hardening pipelines securing 500+ Iron Bank images, and led Anchore solutions architects. Previously, he also worked at Booz Allen Hamilton where he supported US government and intelligence clients on cybersecurity/DevOps, and led the cybersecurity team testing the US Air Force's GPS OCX. Seth and Ken discuss some of Hayden's path into the security industry as well as  Hunted Labs' report on the EasyJson software supply-chain threat. Read up here for more information: https://huntedlabs.com/exclusive-threat-report/</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 286 - Kayra Otaner - Authenticating Open Source Developers</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_286.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_286.mp3" length="34597586" type="audio/x-mp3"/>
