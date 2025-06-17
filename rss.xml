@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 288 - Security and AI</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_288.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_288.mp3" length="31965859" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Jun 2025 10:00:00 -0700</pubDate>
+        <description>Seth and Ken return with an in-depth discussion around the future of security due to use of AI. The landscape of security is changing quickly and we do not know where it is headed. As such, it is worth exploring how it has changed security's outlook and what we are seeing across organizations from a consulting and product perspective. A recent article from a16z titled "Next-Gen Pentesting: AI Empowers the Good Guys" is a good summary of the changes happening. A short aside on unintended consequences when introducing new browser features.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 287 - w/ Hayden Smith (Hunted Labs) - Open Source Dependency Threats</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_287.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_287.mp3" length="33321844" type="audio/x-mp3"/>
