@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 289 - Return of @lojikil - Context Matters</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_289.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_289.mp3" length="35807641" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Jun 2025 14:30:00 -0700</pubDate>
+        <description>With @cktricky out on a grand tour across the country (or just unable to record for the day), @sethlaw succumbs to the dark side to give @lojikil a platform to talk about recent developments in the application security world. Specifically, a discussion on vulnerability data and scoring mechanisms, including CVE, CVSS, CWSS, and other acronyms. Wraps up with a longer discussion on the use of AI across multiple disciplines and provenance of AI Slop.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 288 - Security and AI</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_288.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_288.mp3" length="31965859" type="audio/x-mp3"/>
