@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 291 - w/ Sean Varga - OWASP Top 10 of AppSec Sales</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_291.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_291.mp3" length="41638418" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Jul 2025 11:00:00 -0700</pubDate>
+        <description>Sean Varga, current regional sales manager with noted ASPM company Cycode joins Ken (@cktricky) and Seth (@sethlaw) to discuss the dawning realization organizations are having that they need AppSec experience and tech help to accompany their swelling numbers of developers. Sean's introduces "the OWASP Top 10 for AppSec Sales" to the community Before joining Cycode, Sean worked as Large Enterprise Sales Manager at Apiiro and Enterprise Account executive at Secure Code Warrior. He's also had stints at Veracode, Quest Software, and RSA across his career. We'll get to know Sean and his journey into AppSec, as well as getting his insights on the direction he sees things going moving forward. Connect with or follow  Sean on LinkedIn to see what he's up to in the meantime: https://www.linkedin.com/in/sean-varga/</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 290 - Authentication Fatigue, Browser AI Agents</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_290.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_290.mp3" length="36259094" type="audio/x-mp3"/>
