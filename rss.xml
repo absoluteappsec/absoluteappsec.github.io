@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 292 - Manual Source Code Review, AI Slop in Bug Bounties, AppSec Authorization</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_292.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_292.mp3" length="32887075" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Jul 2025 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are _back_ to talk through some recent experiences and news across the industry. To start the episode, Seth highlights the edge cases uncovered during manual code review that require context to understand and identify. Inspired by recent a recent post on AI Slop in the curl bug bounty program, the duo addresses the increase of slop across  bug bounty reports and why it happens. Finally, a discussion on McDonald's recent authorization flaw that potentially exposed millions of job applicant's data.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 291 - w/ Sean Varga - OWASP Top 10 of AppSec Sales</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_291.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_291.mp3" length="41638418" type="audio/x-mp3"/>
