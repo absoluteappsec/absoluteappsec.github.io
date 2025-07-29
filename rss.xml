@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 293 - AppSec's Reality Gap</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_293.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_293.mp3" length="40974007" type="audio/x-mp3"/>
+        <pubDate>Tue, 29 Jul 2025 11:00:00 -0700</pubDate>
+        <description>Spurred by a recent article from Venture in Security, this episode delves deep into the practical application of security into an organization's SDLC. Covering a range of issues from gaps in contextual understanding to disingenuous vendor claims, Seth and Ken share their experiences dealing with small and large organizations with varying levels of maturity. Some degree of nihilism is warranted, but recent developments using generative AI is cause for optimism in the space.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 292 - Manual Source Code Review, AI Slop in Bug Bounties, AppSec Authorization</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_292.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_292.mp3" length="32887075" type="audio/x-mp3"/>
