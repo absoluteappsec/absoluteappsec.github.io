@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 294 - w/ Anshuman Bhartiya - AppSec in the Age of AI</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_294.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_294.mp3" length="59147008" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Aug 2025 11:00:00 -0700</pubDate>
+        <description>Just in time for AppSec sweeps week, Anshuman Bhartiya is joining Seth Law (sethlaw on social media) and Ken Johnson (cktricky) on the Absolute AppSec podcast!  With over a decade in the security industry, Anshuman Bhartiya brings a wealth of knowledge to the table, in web application penetration testing and product security for major enterprises (EMC, Intuit, Atlassian, Lytx, etc). As the current Tech Lead for Application Security at Lyft and co-host of The Boring AppSec Podcast, Anshuman has a wealth of knowledge on AppSec topics. Read more about Anshuman’s work in the AppSec community at his webpage here: https://www.anshumanbhartiya.com. Join us for a wide-ranging conversation about making it in information security and AppSec.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 293 - AppSec's Reality Gap</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_293.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_293.mp3" length="40974007" type="audio/x-mp3"/>
