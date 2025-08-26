@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 295 - DEF CON 33 Recap, Crocs and Socks (and Bots)</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_295.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_295.mp3" length="54850388" type="audio/x-mp3"/>
+        <pubDate>Tue, 26 Aug 2025 11:00:00 -0700</pubDate>
+        <description>Seth and Ken return with a new episode summarizing their experience at DEF CON 33 and all things Las Vegas over the past month. This includes panels, talks, workshops, happy hours, and even corporate (boo) events. This is followed by discussion of a few research items that came out of the conference, including James Kettle's HTTP1.1 Must Die talk. Finally, why AI is infecting Application Security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 294 - w/ Anshuman Bhartiya - AppSec in the Age of AI</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_294.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_294.mp3" length="59147008" type="audio/x-mp3"/>
