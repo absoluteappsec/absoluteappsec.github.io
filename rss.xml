@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 296 - OWASP Top 10, NX Compromise, Security News Sources</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_296.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_296.mp3" length="45823823" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Sep 2025 11:00:00 -0700</pubDate>
+        <description>Ken and Seth kickoff a podcast by reviewing current state of the OWASP Top 10 project, given recent requests and interactions on Absolute AppSec slack from various contributors. This is followed by an in-depth breakdown of the recent NX npm package compromise. This breakdown shows that even though AI is weaponized to exfiltrate data, the main exploit was the result of a command injection flaw. Crocs and Socks coming back to bit all of us. Finally, Ken and Seth provide a list of resources used to monitor the wider security community.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 295 - DEF CON 33 Recap, Crocs and Socks (and Bots)</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_295.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_295.mp3" length="54850388" type="audio/x-mp3"/>
