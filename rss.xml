@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 297 - True/False Positives, Phishing Package Maintainers</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_297.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_297.mp3" length="59783375" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Sep 2025 11:00:00 -0700</pubDate>
+        <description>The Absolute AppSec duo returns with an in-depth episode talking about true and false positives, where context matters and business impact must be taken into account in order to avoid rabbit holes. This discussion spurred by a recent article from signalblur of magonia.io discussing alerts in a security operations center. In short, only considering existence of a flaw (or alert) is not enough by itself. True impact comes by understanding context. Anyone want t-shirts? A discussion of the recent successful phish of an npm package maintainer, resulting in exposure of millions of projects depending on popular npm packages. It happens, folks, protect yourself.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 296 - OWASP Top 10, NX Compromise, Security News Sources</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_296.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_296.mp3" length="45823823" type="audio/x-mp3"/>
