@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 298 - Shai Halud, Layered Security, New Commandments of Security Teams</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_298.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_298.mp3" length="56676047" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Sep 2025 11:00:00 -0700</pubDate>
+        <description>In what is (sadly) becoming a weekly segment, this episode starts with talk of the latest installment of npm package takeovers, dubbed Shai Halud as discussed in Slack and analyzed by Paul McCarty and team. Strategies discussed for monitoring packages and preventing malware from entering into organization's products. This is followed by an article referencing security via intentional redundancy when designing sensitive application functionality. Finally, analysis of a recent article from Frankly Speaking that lists a series of new commandments for security teams, which are mostly agreed to by both Seth and Ken, with some caveats.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 297 - True/False Positives, Phishing Package Maintainers</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_297.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_297.mp3" length="59783375" type="audio/x-mp3"/>
