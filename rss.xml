@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 299 - Startup Grind, Will Security Companies Disappear</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_299.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_299.mp3" length="52157519" type="audio/x-mp3"/>
+        <pubDate>Tue, 07 Oct 2025 11:00:00 -0700</pubDate>
+        <description>The duo is back after a short hiatus. Today's episode is inspired by recent articles related to startups, funding, and the grind that happens when building a company or being an individual contributor. Specifically, a recent article about AI startup founders putting in long hours to the exclusion of everything else is debated. This is followed by aa discussion on the current security AI startup hype cycle, spurred by thoughts from FranklySpeaking, and how security companies in general are acquired and disappear over time.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 298 - Shai Hulud, Layered Security, New Commandments of Security Teams</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_298.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_298.mp3" length="56676047" type="audio/x-mp3"/>
