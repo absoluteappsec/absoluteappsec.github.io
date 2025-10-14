@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 300 - THIS! IS! APPSEC!</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_300.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_300.mp3" length="61269071" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Oct 2025 11:00:00 -0700</pubDate>
+        <description>For the 300th (!!!!) episode of the podcast, Seth and Ken reminisce on changes to the industry and overall approach to application security since inception. The hosts discussed the evolution of the industry, noting that once-popular approaches like blindly emulating "hip" Silicon Valley security programs and running unmanaged Security Champions Programs have fallen out of favor, as organizations now better understand that these approaches are not one-size-fits-all and require careful, metrics-driven management. While Bug Bounty Programs remain popular, they noted an increase in submissions from "skiddies" (script kiddies) that challenge program effectiveness and highlight the need for internal support and a proactive stance before rolling out a public program. Positively, they observed that the industry has become more mature, focusing on business value, metrics, and ROI , a move that may have been accelerated by recent economic pressures. Furthermore, security practices have improved, with the decline of common vulnerabilities like XSS and SQL Injection due to safer frameworks and browser controls, allowing AppSec professionals to focus on more complex issues, such as business logic flaws and focused threat analysis, while the once monolithic process of threat modeling has evolved into a more nimble, "point-in-time" assessment readily adopted by developers.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 299 - Startup Grind, Will Security Companies Disappear</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_299.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_299.mp3" length="52157519" type="audio/x-mp3"/>
