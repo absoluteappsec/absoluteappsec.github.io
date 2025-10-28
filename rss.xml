@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 301 - AI Browsers, New AI Agent Attacks, Framework Checklists</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_301.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_301.mp3" length="54571727" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Oct 2025 11:00:00 -0700</pubDate>
+        <description>In this episode, Seth and Ken debate OpenAI's Atlas browser, which embeds AI into web browsing. Ken views it as a major privacy concern, potentially accelerating invasive data collection and surveillance. Seth noted that new browsers historically have critical flaws. They acknowledged that AI is very useful for generic and technical internet searches. They discussed the Co-Fish attack, a phishing vulnerability in Microsoft Copilot Studio that could exfiltrate access tokens via a seemingly valid Microsoft URL. Finally, they noted that big companies like Snyk and Black Duck are moving toward agentic AI capabilities, confirming the industry trend.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 300 - THIS! IS! APPSEC!</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_300.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_300.mp3" length="61269071" type="audio/x-mp3"/>
