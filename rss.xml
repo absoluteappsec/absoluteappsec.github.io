@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 302 - OWASP Global AppSec DC predictions, AI Browser Dangers, MCP Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_302.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_302.mp3" length="57145679" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Nov 2025 11:00:00 -0700</pubDate>
+        <description>Episode 302 of Absolute AppSec has hosts Ken Johnson and Seth Law speculating on the upcoming Global AppSec DC conference, predicting the announcement of the OWASP Top Ten 2025 edition, with Brian Glass scheduled to discuss it on the podcast. The conversation shifts to a technical discussion of OpenAI's new browser, Atlas, which is built on Chromium and includes AI capabilities. The hosts noted concern over the discovered prompt instructions for Atlas, which direct the ChatGPT agent to use browser history and available APIs to find data from the user's logged-in sites to answer ambiguous queries or fulfill requests. This functionality raises significant security concerns, as the agent's ability to comb the cache and logged-in sites could be exploited, effectively creating a "honeypot for cross-site scripting" with malicious potential like unauthorized money transfers. The hosts discussed the lack of talk submissions on Mobile Context Protocol (MCP) security at the conference, despite its growing relevance in a world of AI agents and tooling. Finally, they highlighted a new tool called SlopGuard, developed to prevent the risk of AI hallucinating non-existent, potentially malicious packages (which occurs 5-21% of the time) and attempting to install them from registries like NPM.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 301 - AI Browsers, New AI Agent Attacks, Framework Checklists</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_301.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_301.mp3" length="54571727" type="audio/x-mp3"/>
