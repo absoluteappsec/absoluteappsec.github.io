@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 303 - w/Prof. Brian Glas - OWASP Top 10 2025</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_303.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_303.mp3" length="29627874" type="audio/x-mp3"/>
+        <pubDate>Mon, 10 Nov 2025 11:00:00 -0700</pubDate>
+        <description>Prof. Brian Glas (infosecdad on social media) joins Seth Law (sethlaw) and Ken Johnson (cktricky) for a timely episode of Absolute AppSec. Infosec Guru and one of the OWASP Top Ten project leaders Prof. Glas joins us in the aftermath of the Global AppSec conference and the announcement of the new OWASP Top Ten (2025). This episode focuses on the process for compiling the list as well as gleaning any other insights from Prof. Glas.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 302 - OWASP Global AppSec DC predictions, AI Browser Dangers, MCP Security</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_302.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_302.mp3" length="57145679" type="audio/x-mp3"/>
