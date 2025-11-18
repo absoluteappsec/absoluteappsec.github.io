@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 304 - More OWASP Top 10, AI Dynamic Testing</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_304.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_304.mp3" length="69008207" type="audio/x-mp3"/>
+        <pubDate>Tue, 18 Nov 2025 11:00:00 -0700</pubDate>
+        <description>This episode, the 304th of Absolute AppSec, features hosts Ken Johnson (@cktricky) and Seth Law (@sethlaw) discussing the crush of Q4 expectations, upcoming training opportunities, the recent updates to the OWASP Top Ten, and the impact of AI tools like XBow on application security (AppSec) consulting. The hosts discuss the shift in the OWASP Top Ten from focusing on vulnerabilities to focusing on risks, and the dual role the list now plays for both awareness/training and compliance. Shifting to recent funding of XBow, the overall consensus is that while AI tools dramatically improve process flow, scoping, and the speed of vulnerability identification for consultants, they won't replace the need for human experts for complex, bespoke systems, business logic flaws, or authorization issues. AI is commoditizing lower-level AppSec work.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 303 - w/Prof. Brian Glas - OWASP Top 10 2025</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_303.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_303.mp3" length="29627874" type="audio/x-mp3"/>
