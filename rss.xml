@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 305 - Career Impact of GenAI, SEO/GEO, More Supply Chain Attacks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_305.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_305.mp3" length="52395599" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Nov 2025 11:00:00 -0700</pubDate>
+        <description>The latest episode of Absolute AppSec is here, with Ken Johnson and Seth Law checking in during the busy Q4 holiday season to share some fascinating insights on the evolving landscape of security and technology. They kick off by reflecting on their intensive, ever-changing "Harnessing LLMs for Application Security" courses, noting how rapidly the underlying tech evolves. The conversation quickly turns to a compelling debate: How will the rise of generative AI impact career paths for newcomers, especially given that LLMs fundamentally rely on the contributions of existing experts? While pathways may change, they agree that core human activities—like networking, contributing to projects, and maintaining a hacker mindset—will remain crucial. The hosts then dive into a fascinating discussion on the darker side of SEO, introducing the concept of Generative AI Engine Optimization (GEO), where marketers exploit AI search results through tricks like keyword-stuffed files to game rankings. They tie this to historical examples of exploitation, harkening back to Google hacking days. Finally, they cover the recent Shai Hulud 2 supply chain attack, which infected hundreds of NPM packages and utilized even more sophisticated obfuscation and delayed execution tactics than its predecessor.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 304 - More OWASP Top 10, AI Dynamic Testing</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_304.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_304.mp3" length="69008207" type="audio/x-mp3"/>
