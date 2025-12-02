@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+     <item>
+        <title>Episode 306 - w/ Paul McCarty - Open Source Malware</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_306.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_306.mp3" length="66011855" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Dec 2025 11:00:00 -0700</pubDate>
+        <description>Given the spate of recent npm news stories, we've arranged a topical show with software supply-chain security researcher and npm hacker Paul McCarty (find Paul on bsky https://bsky.app/profile/6mile.githax.com) . Paul is currently a researcher with Safety (https://getsafety.com/) and has a background in security including work at John Deere, Boeing, Regence Blue Cross/Blue Shield, NASA Jet Propulsion Lab, the US Army, and the Queensland Government. He's also spent twenty some odd years helping startups with security practices, and is a maintainer of the Open Source Malware project. In addition, Paul has been long time friend of the show, contributing his insights to the Absolute AppSec community slack in addition to frequently writing up his research at the SourceCode RED blog: https://sourcecodered.com/blog.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>Episode 305 - Career Impact of GenAI, SEO/GEO, More Supply Chain Attacks</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_305.mp3</link>
