@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+    <item>
+        <title>Episode 307 - 2025 Retrospective, Supply Chain, MCP and APIs</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_307.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_307.mp3" length="61769807" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Dec 2025 11:00:00 -0700</pubDate>
+        <description>In episode 307 of Absolute AppSec, hosts Ken and Seth conduct a retrospective on the application security landscape of 2025. They conclude that their previous predictions were largely accurate, particularly regarding the rise of prompt injection, AI-backed attacks, and the industry-wide shift toward per-token billing models. A major theme of the year was the solidification of supply chain security as a critical pillar of AppSec, driven by notable incidents such as Shai Hulud and React for Shell. The hosts also share insights from their four-day training course on utilizing LLMs for secure code review, noting that while AI development is becoming more prevalent, most practitioners are still in the nascent stages of building custom tooling. Much of the discussion focuses on the Model Context Protocol (MCP); while it offers significant value for agentic workflows, the hosts criticize its current lack of robust security controls, specifically highlighting issues with OAuth implementations and short timeouts in existing clients. Finally, they discuss how the industry is moving toward a more nuanced balance between deterministic tools like Semgrep and the probabilistic creativity of LLMs to increase efficiency in security consulting.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
      <item>
         <title>Episode 306 - w/ Paul McCarty - Open Source Malware</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_306.mp3</link>
