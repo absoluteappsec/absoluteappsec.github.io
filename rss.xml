@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 308 - w/Avi Douglen - Privacy, AppSec Conferences, OWASP</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_308.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_308.mp3" length="61567055" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Jan 2026 11:00:00 -0700</pubDate>
+        <description>Ken Johnson (cktricky on social media) and Seth Law are happy to announce a special episode of Absolute AppSec with Avi Douglen (sec_tigger on X), long-time OWASP Global Board of Directors member, founder and CEO of Bounce Security and co-author of the Threat Modeling Manifesto. The conversation ranges from Application Privacy related to Application Security, to participating in meetups and conferences, and finally OWASP as an Avi's experience as a board member.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 307 - 2025 Retrospective, Supply Chain, MCP and APIs</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_307.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_307.mp3" length="61769807" type="audio/x-mp3"/>
