@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 309 - w/ Nathan Hunstad - Compliance, Security Governance</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_309.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_309.mp3" length="57715919" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Jan 2026 11:00:00 -0700</pubDate>
+        <description>In this episode of Absolute AppSec, Nathan Hunstad, Director of Security at Vanta, discusses the intersection of security policy, governance, and technical defense. Drawing on his unique background in political science and the Minnesota state legislature, Hunstad argues that policy acts as the essential "conductor" for an organization's security tools. A major theme of the conversation is the challenge of compliance for startups, with the group advising founders to prioritize business survival and basic security hygiene—like password managers and IAM—before pursuing intensive certifications like SOC 2. The discussion also explores how AI is accelerating both development velocity and the ability to automate tedious security questionnaires. Furthermore, Hunstad contrasts the security posture of modern, cloud-native startups against legacy enterprises, noting that older organizations often struggle with "dark corners" of un-inventoried, vulnerable legacy tech. The episode concludes with a critique of outdated authentication standards, specifically advocating for the removal of mandatory password rotation in favor of NIST-aligned, phishing-resistant MFA.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 308 - w/Avi Douglen - Privacy, AppSec Conferences, OWASP</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_308.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_308.mp3" length="61567055" type="audio/x-mp3"/>
