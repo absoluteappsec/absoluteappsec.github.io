@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 310 - w/ Mohan Kumar and Naveen K Mahavisnu - AI Agent Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_310.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_310.mp3" length="58650959" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Jan 2026 11:00:00 -0700</pubDate>
+        <description>In this episode of Absolute AppSec, hosts Ken Johnson and Seth Law interview Mohan Kumar and Naveen K Mahavisnu, the practitioner-founders of Aira Security, to explore the critical challenges of securing autonomous AI agents in 2026. The conversation centers on the industry's shift toward "agentic workflows," where AI is delegated complex tasks that require monitoring not just for access control, but for the underlying "intent" of the agent's actions. The founders explain that agents can experience "reasoning drift," taking dangerous or unintended shortcuts to complete missions, which necessitates advanced guardrails like "trajectory analysis" and human-in-the-loop interventions to ensure safety and data integrity. A significant portion of the episode is dedicated to the security of the Model Context Protocol (MCP), highlighting how these integration servers can be vulnerable to "shadowing attacks" and indirect prompt injections—exemplified by a real-world case where private code was exfiltrated via a public GitHub pull request. To address these gaps, the guests introduce their open-source tool, MCP Checkpoint, which allows developers to baseline their agentic configurations and detect malicious changes in third-party tooling. Throughout the discussion, the group emphasizes that as AI moves into production, security must evolve into a proactive enablement layer that understands the probabilistic and unpredictable nature of LLM reasoning.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 309 - w/ Nathan Hunstad - Compliance, Security Governance</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_309.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_309.mp3" length="57715919" type="audio/x-mp3"/>
