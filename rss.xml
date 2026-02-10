@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 312 - Vibe Coding Risks, Burnout, AppSec Scorecards</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_312.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_312.mp3" length="61296335" type="audio/x-mp3"/>
+        <pubDate>Tue, 10 Feb 2026 11:00:00 -0700</pubDate>
+        <description>In episode 312 of Absolute AppSec, the hosts discuss the double-edged sword of "vibe coding", noting that while AI agents often write better functional tests than humans, they frequently struggle with nuanced authorization patterns and inherit "upkeep costs" as foundational models change behavior over time. A central theme of the episode is that the greatest security risk to an organization is not AI itself, but an exhausted security team. The hosts explore how burnout often manifests as "silent withdrawal" and emphasize that managers must proactively draw out these issues within organizations that often treat security as a mere cost center. Additionally, they review new defensive strategies, such as TrapSec, a framework for deploying canary API endpoints to detect malicious scanning. They also highlight the value of security scorecarding—pioneered by companies like Netflix and GitHub—as a maturity activity that provides a holistic, blame-free view of application health by aggregating multiple metrics. The episode concludes with a reminder that technical tools like Semgrep remain essential for efficiency, even as practitioners increasingly leverage the probabilistic creativity of LLMs.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 311 - Transformation of AppSec, AI Skills, Development Velocity</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_311.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_311.mp3" length="56727887" type="audio/x-mp3"/>
