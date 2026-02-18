@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 313 - AppSec Role Evolution, AI Skills &amp; Risks, Phishing AI Agents</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_313.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_313.mp3" length="58888271" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Feb 2026 11:00:00 -0700</pubDate>
+        <description>Ken Johnson and Seth Law examine the intensifying pressure on security practitioners as AI-driven development causes an unprecedented acceleration in industry velocity. A primary theme is the emergence of "shadow AI," where developers utilize unauthorized AI coding assistants and personal agents, introducing significant data classification risks and supply chain vulnerabilities. The discussion dives into technical concepts like AI agent "skills"—markdown files providing specialized directions—and the corresponding security risks found in new skill registries, such as malicious tools designed to exfiltrate credentials and crypto assets. The hosts also review 1Password’s SCAM (Security Comprehension Awareness Measure), highlighting broad performance gaps in an AI's ability to detect phishing, with some models failing up to 65% of the time. To manage these unpredictable systems, the hosts advocate for a shift toward high-level validation roles, emphasizing the need for Subject Matter Expertise to combat "reasoning drift" and maintain safety through test-driven development and periodic "checkpoints". Ultimately, they conclude that while AI can simulate expertise, human oversight remains vital to secure the probabilistic nature of modern agentic workflows.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 312 - Vibe Coding Risks, Burnout, AppSec Scorecards</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_312.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_312.mp3" length="61296335" type="audio/x-mp3"/>
