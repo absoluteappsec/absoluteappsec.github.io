@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 314 - LLM AppSec Disruption, Limitations of AI in Security, AppSec Oversight</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_314.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_314.mp3" length="66230735" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Feb 2026 11:00:00 -0700</pubDate>
+        <description>In this episode, the hosts discuss the seismic shift in the application security landscape triggered by the rise of Large Language Models (LLMs) and Anthropic’s "Claude Code". They highlight the massive economic repercussions of these AI advancements, noting that billions in market value were wiped from traditional cybersecurity stocks as investors begin to believe frontier models might eventually write perfectly secure code. The hosts critique the industry's historical reliance on "checkbox" compliance tools like SAST, DAST, and SCA, arguing that these "archaic" methods are being replaced by AI-native strategies capable of reasoning through complex logic flaws. While they acknowledge that AI can suffer from "reasoning drift" and still requires deterministic validation to avoid false positives, they emphasize that security professionals must adapt by building custom "skills" and focusing on governance and observability. The discussion concludes that as developers move to "AI speed," the traditional role of the AppSec professional is evolving into a "Jarvis-like" orchestrator who manages automated workflows and infuses institutional knowledge into AI agents to maintain oversight without slowing down production.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 313 - AppSec Role Evolution, AI Skills &amp; Risks, Phishing AI Agents</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_313.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_313.mp3" length="58888271" type="audio/x-mp3"/>
