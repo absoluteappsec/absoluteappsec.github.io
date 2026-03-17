@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 316 - w/Coffee, Chaos, and ProdSec - Agentic Development Lifecycle</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_316.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_316.mp3" length="66109007" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Mar 2026 11:00:00 -0700</pubDate>
+        <description>In episode 316 of Absolute AppSec, hosts Ken Johnson and Seth Law participate in a crossover with Kurt Hendle and Cameron Walters from the Coffee, Chaos, and ProdSec podcast to discuss the radical transformation of security roles in an AI-driven landscape. The guests share origin stories rooted in gaming and "mischievous" curiosity, which evolved into deep careers in security architecture and engineering. The primary discussion centers on the industry's shift toward an "Agentic Development Lifecycle" (ADLC), where the sheer volume of AI-generated code renders traditional manual review gates obsolete. This acceleration risks a "rubber stamp" culture where developers approve fixes in seconds rather than minutes, potentially leading to a mountain of technical debt. Consequently, the role of security is shifting from manual bug finding to high-level governance and "context infusion," requiring practitioners to manage AI agents that automate complex tasks. Economically, the group highlights how frontier model announcements have caused massive market volatility, wiping billions from traditional security stocks. Ultimately, they conclude that while older "primitive" tools are failing, professionals who lean into AI as a "superpower" for governance and oversight will be essential for navigating this new, non-deterministic reality.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 315 - Risks of "AI-Native" Security Products, Rapid Software Development</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_315.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_315.mp3" length="60519503" type="audio/x-mp3"/>
