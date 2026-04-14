@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 318 - Slack Impersonation, Mythos, Vulnerability Research Future</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_318.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_318.mp3" length="68223695" type="audio/x-mp3"/>
+        <pubDate>Tue, 14 Apr 2026 11:00:00 -0700</pubDate>
+        <description>Episode 318 examines critical vulnerabilities and the evolving impact of AI on the security industry. The episode details a recent sophisticated impersonation and malware attack targeting open-source Slack communities, including their own, where attackers spoofed Seth's identity to distribute malicious links via Google Sites. The hosts express significant frustration with Slack's lack of built-in impersonation controls, comparing the flaw to the inherent trust issues in the Git protocol. A major portion of the discussion focuses on the "leak" of Anthropic's highly capable Mythos model and its potential to disrupt the market. They analyze how such frontier model announcements contribute to massive stock market volatility for traditional security firms while simultaneously creating an "intense echo chamber" regarding AI's ability to replace human practitioners. Referencing Thomas Ptacek's thesis, they debate whether AI agents will soon supplant human vulnerability research for common bug classes, shifting the human role toward high-level governance and "context infusion". Ultimately, the hosts advocate for autonomous defense and rigorous evaluation frameworks to manage "reasoning drift" and the exploding velocity of AI-generated code.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 317 - (Post-RSAC/BSidesSF), Supply Chain Security, Future of SDLC</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_317.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_317.mp3" length="63225551" type="audio/x-mp3"/>
