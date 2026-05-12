@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 320 - Return of @lojikil - LLM Bug Hunting, AI OffSec, Defender Burnout</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_320.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_320.mp3" length="47976911" type="audio/x-mp3"/>
+        <pubDate>Tue, 12 May 2026 11:00:00 -0700</pubDate>
+        <description>Ken is away, so Stefan Edwards (lojikil) joins Seth to talk all things AppSec. This episode starts by exploring the acceleration of AI on the offensive side of security, enabling threat actors to automate complex tasks like patch diffing, gadget discovery, and reverse engineering binaries. The conversation highlights a recent milestone where an AI-driven tool, Mythos, successfully identified a vulnerability in curl, signaling a shift from "AI slop" to more relevant bug reports. However, Stefan remains skeptical of LLMs' ability to build secure, large-scale systems, noting their tendency to produce rigid or inconsistent code structures. This imbalance creates a "bad time for defenders," as blue team burnout increases due to the sheer volume of automated agents scanning attack surfaces near-instantaneously. The hosts conclude that while AI provides a "godsend" for testing neglected legacy applications, organizations must return to security basics—such as the principle of least authority and robust disaster recovery—to manage the expanding blast radius of modern breaches. Ultimately, they view AI as a fast, knowledgeable "junior" that requires human expertise to validate and orchestrate effectively.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 319 - Vercel Breach, Security vs. Compliance, Pull Request Flows w/ AI Agents</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_319.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_319.mp3" length="53716559" type="audio/x-mp3"/>
