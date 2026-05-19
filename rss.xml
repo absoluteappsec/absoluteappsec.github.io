@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 321 - The Future of AppSec</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_321.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_321.mp3" length="63701327" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 May 2026 11:00:00 -0700</pubDate>
+        <description>In episode 321 of Absolute AppSec, the co-hosts dive into a sprawling discussion about the future of Application Security amid the heavy noise of artificial intelligence and automated tools. The hosts start with a debate on whether traditional AppSec fundamentals remain relevant. Drawing analogies to the industrialization of car manufacturing and the transition to autonomous labor, they predict that while line-by-line coding and manual code reviews are fading, human intuition, safety guardrails, and system management will remain indispensable. They voice mutual frustrations with modern university cybersecurity curricula for overemphasizing abstract theories while neglecting hands-on operational tools. Despite the rising trend of vibe-coding and the reality of AI-generated bugs, Seth and Ken argue that core principles, such as networking, authentication, authorization, and auditing (AAA), remain fundamentally unchanged. To illustrate this point, they examine how passkeys operate via asymmetric public-private key pairs under the WebAuthn spec. They conclude that as the software landscape becomes increasingly abstracted, the primary responsibility of a senior security generalist shifts from executing manual tasks to auditing, managing, and validating agentic autonomous workflows.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 320 - Return of @lojikil - LLM Bug Hunting, AI OffSec, Defender Burnout</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_320.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_320.mp3" length="47976911" type="audio/x-mp3"/>
