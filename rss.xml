@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 323 - Secrets Logs, Prompt Injection Risks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_323.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_323.mp3" length="56937167" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Jun 2026 11:00:00 -0700</pubDate>
+        <description>In episode 323 of Absolute AppSec, co-hosts Ken Johnson and Seth Law focus heavily on core application security vulnerabilities, legacy operational struggles, and the challenges of generative AI systems. After briefly discussing Seth’s recent trip to BSides Vancouver and confirming upcoming conference training logistics for Black Hat and DEF CON, the duo dives into the persistent problem of secrets and sensitive data leaking into log files. Referencing an article and talk by Alan Reyes, they unpack the compounding nature of logging failures, noting how system-level integrations and production error conditions often dump entire object blocks or environment variables into third-party tools. They caution that while pattern-based scanners exist, they remain too brittle to capture complex edge cases, and utilizing expensive AI agents to screen every real-time log line is economically impractical. Transitioning to AI security, Seth explores a multi-page research paper analyzing prompt injection. The paper establishes that because large language models mathematically process data through tokenization without any physical or architectural separation between instructions and data contexts, prompt injection cannot be completely solved at the model level. Likening prompt injection to automated social engineering, they argue that the onus currently falls entirely on developers to implement deterministic validation, guardrails, and secure application-level harnesses.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 322 - Megalodon, Staged Package Publishing, AI Powered Honeypots</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_322.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_322.mp3" length="55740623" type="audio/x-mp3"/>
