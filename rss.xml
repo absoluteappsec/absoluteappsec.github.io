@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 324 - Three Week Trap, Malicious Extensions</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_324.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_324.mp3" length="56970959" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Jun 2026 11:00:00 -0700</pubDate>
+        <description>In episode 324 of Absolute AppSec, co-hosts Ken Johnson and Seth Law share a mix of security model critiques. Starting with industry dynamics, Ken recaps his recent presentation at OWASP Nova regarding the limits of human-scale AppSec, recounting a dramatic storm during the talk where patio chairs pelted the high-rise glass. The conversation pivots sharply to Anthropic being forced to pull its "Fable" and "Mythos" cybersecurity models offline due to government sanctions and fears surrounding unpreventable universal jailbreaks. Ken and Seth criticize the company's disingenuous "FUD-based" marketing, which falsely suggested that AI could entirely replace security practitioners. Seth reviews his own blog post regarding the "three-week demo trap", detailing critical, ignored requirements for AI products—such as evaluation, statistical reproducibility, and token cost economics—noting that executing enterprise testing via frontier models can easily exceed $5,000 a day. Transitioning back to fundamental baseline defense, the hosts dissect an article on bypassing Visual Studio Code extension blocks. They emphasize that since modern CDNs pull zipped extensions from distinct domains, blocking the main marketplace URL is completely ineffective. Consequently, they advocate for rigorous data classification, layered on-premise model hosting, and stricter boundary controls on developer endpoints to combat fast-evolving supply chain threats.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 323 - Secrets Logs, Prompt Injection Risks</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_323.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_323.mp3" length="56937167" type="audio/x-mp3"/>
