@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 325 - Simplified Threat Modeling, Defining A Vulnerability</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_325.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_325.mp3" length="57175247" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Jun 2026 11:00:00 -0700</pubDate>
+        <description>In episode 325 of Absolute AppSec, co-hosts Ken Johnson and Seth Law first break down an informal guide to threat modeling, arguing that overly prescriptive frameworks like STRIDE induce a heavy cognitive load on developers. Instead, they advocate for simplified, creative questions to expose architectural gaps, citing a historical GitHub planning flaw where private repository images were left exposed on S3 by relying solely on URL obfuscation. They warn that while rapid development in 2026 pushes toward automated lifecycles, human oversight, critical logging, and constructive friction remain essential.  Next, they dissect a research paper exploring the philosophical definition of a vulnerability, framing it as a system disposition arising from a fault that manifests as a failure only when environmental and attacker conditions are jointly met. This definition sparks a debate on whether a flaw must carry immediate risk to qualify as a vulnerability, particularly when evaluating modern AI challenges like system prompt disclosures or exposed deprecated API paths.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 324 - Three Week Trap, Malicious Extensions</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_324.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_324.mp3" length="56970959" type="audio/x-mp3"/>
