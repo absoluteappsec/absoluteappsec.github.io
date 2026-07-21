@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 328 - Wordpress RCE, Vuln Prioritization, AI memory exfiltration</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_328.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_328.mp3" length="53985359" type="audio/x-mp3"/>
+        <pubDate>Tue, 21 Jul 2026 11:00:00 -0700</pubDate>
+        <description>In episode 328 of Absolute AppSec, sponsored by GuardSquare (guardsquare.com), Seth and Ken start by highlighting a newly disclosed, pre-authentication WordPress core Remote Code Execution (RCE) vulnerability ("WP2Shell"). The core discussion centers on Alex Gaynor's article regarding the influx of AI-assisted vulnerability disclosures. Gaynor and the hosts argue that attempting to fix bugs case-by-case is a "fool's errand"; instead, engineering teams must eradicate entire vulnerability classes through systemic, framework-level safe functions (such as parameterized queries) and automated CI/CD guardrails. They dive into the complexities of bug prioritization—debating reachability analysis, runtime verification, and business asset criticality—while noting that metrics and measurement remain among the lowest-scoring activities in OWASP SAMM assessments. Later, Ken and Seth examine a "Memory Heist" attack on Claude AI where indirect prompt injection tricked the assistant into exfiltrating user memory and corporate details letter-by-letter through web navigation. They conclude that because transformer models were originally designed for next-token prediction rather than secure system boundaries, defending LLM architectures behaves more like stopping social engineering than traditional software fuzzing.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 327 - w/Coffee, Chaos, and ProdSec - ASPM Consolidation, Vuln Prioritization</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_327.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_327.mp3" length="73685327" type="audio/x-mp3"/>
