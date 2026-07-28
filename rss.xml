@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 329 - AI exploitability, IDOR prevention, Smart TV Proxies</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_329.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_329.mp3" length="58000847" type="audio/x-mp3"/>
+        <pubDate>Tue, 28 Jul 2026 11:00:00 -0700</pubDate>
+        <description>In this episode, sponsored by GuardSquare (guardsquare.com), Ken Johnson and Seth Law discuss OpenAI's reported Hugging Face security incident, questioning whether the model demonstrated genuinely novel offensive capability or mostly chained known vulnerability patterns at high inference cost, while also considering the defense-contract and marketing angles around "dangerous" frontier models. The main technical discussion returns to AppSec fundamentals through an article on preventing IDOR, emphasizing authorization as a core control, the difficulty of role and tenant isolation in complex systems, and the need for framework-level patterns, typed IDs, tenant checks, and thorough authorization testing. They also cover Krebs' reporting on LG banning residential proxy SDKs from smart TV apps, explaining how free TV apps can turn consumer devices into proxy infrastructure and why IoT app ecosystems need stronger review. The episode closes with DEF CON logistics, Hacker Tracker updates, and upcoming guest plans.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 328 - Wordpress RCE, Vuln Prioritization, AI memory exfiltration</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_328.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_328.mp3" length="53985359" type="audio/x-mp3"/>
