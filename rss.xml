@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 331 - Being "Mythos" Ready, CRLF-Powered De-sync Attacks</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_331.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_331.mp3" length="70018895" type="audio/x-mp3"/>
+        <pubDate>Tue, 25 Aug 2026 11:00:00 -0700</pubDate>
+        <description>Sponsored by Guardsquare (guardsquare.com), Episode 331 focuses heavily on the growing role of AI agents in application security and how organizations should build and defend against agentic systems. Ken and Seth argue that effective AI security systems should combine deterministic tooling with the probabilistic reasoning of LLMs rather than handing an entire security workflow to a model. Deterministic steps can map repositories, identify dependencies, reconstruct code relationships, and narrow the areas requiring investigation, while LLMs provide reasoning and creativity where those capabilities add value. Preparing for AI-assisted attackers, emphasizing secure development practices, guardrails, sandboxing, pre-production testing, and faster detection and response. The episode also examines HTTP request smuggling and CRLF-based attacks, including how differences in request parsing between proxies and backend services can create authorization bypasses and other exploit chains. Seth and Ken emphasize identifying the critical vulnerability within an exploit chain and discuss how service-oriented architectures can increase risk when components interpret the same request differently. Finally, they question whether bug bounty programs adequately reward researchers for discovering complex, high-impact vulnerabilities, especially as AI agents increasingly automate vulnerability discovery.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 330 - w/ Jeevan Singh - Vulnerability Jail</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_330.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_330.mp3" length="59093327" type="audio/x-mp3"/>
