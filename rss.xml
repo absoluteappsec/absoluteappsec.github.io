@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 332 - AI SDLC, Call for Cyber Defense, Rumor as the Exploit</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_332.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_332.mp3" length="60751823" type="audio/x-mp3"/>
+        <pubDate>Tue, 01 Sept 2026 11:00:00 -0700</pubDate>
+        <description>In episode 332, the discussion focuses on how artificial intelligence is reshaping the Software Development Lifecycle (SDLC). The episode analyzes Anthropic's blog post regarding an "AI-native SDLC," evaluating its vision of replacing traditional development bottlenecks with AI workflows. The commentary critiques Anthropic's reliance on simple Markdown files for tracking development decisions, noting that replacing deterministic tools with probabilistic LLMs in core SDLC processes introduces significant reliability risks, context drift, and excessive token costs. The conversation turns to OpenAI's "Collective Call for Cyber Defense" initiative, examining its push for frontier AI model regulation and critiques of open-weight models, which are viewed as an effort to establish vendor lock-in. Exploring the concept of "Rumor as the Exploit," the discussion highlights how public mentions or minor disclosures of vulnerabilities now allow AI-driven testing harnesses to rapidly discover and generate working exploits across unmaintained software ecosystems. To counter this accelerated threat landscape, the episode evaluates defensive strategies, including runtime verification, reachability analysis, and cooling-off periods for new package releases, emphasizing that security defenders must move beyond thin wrapper solutions and build robust systems combining deterministic controls with model capabilities. Episode sponsored by Guardsquare (guardsquare.com).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 331 - Being "Mythos" Ready, CRLF-Powered De-sync Attacks</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_331.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_331.mp3" length="70018895" type="audio/x-mp3"/>
