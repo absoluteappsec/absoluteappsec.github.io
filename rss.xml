@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 333 - LLM Patching Flaws, AI Code Regressions, Bug Bounty Economy</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_333.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_333.mp3" length="60489935" type="audio/x-mp3"/>
+        <pubDate>Tue, 08 Sept 2026 11:00:00 -0700</pubDate>
+        <description>Sponsored by GuardSquare (guardsquare.com), the discussion of Episode 333 opens with an analysis of a 1Password academic paper evaluating how frontier LLMs perform at autonomous vulnerability patching. The research indicates that LLMs successfully generate functional, side-effect-free patches only 26% of the time, often introducing new security flaws, breaking application behavior, or hallucinating fixes due to a lack of environmental context and "correctness collapse". The hosts critique the industry push toward auto-remediation, arguing that automated patch generation fails to address root causes like noisy tooling or organizational culture issues, and they emphasize that human domain expertise remains necessary for reliable patching. Turning to real-world AI security risks, the episode examines a Snowflake vulnerability where an AI coding tool (GitHub Copilot Autofix) regressed a GitHub Actions workflow into an unauthenticated Remote Code Execution (RCE) flaw via command injection, which was subsequently discovered and validated within five days by Wiz's automated "Red Agent". Finally, the hosts cover Dark Reading reporting on how the AI-driven "vulnpocalypse" is repricing the bug bounty economy. As automated scanning harnesses double report volumes, companies face budget constraints that reduce payout amounts per finding, forcing organizations to narrow program scopes toward high-priority assets.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 332 - AI SDLC, Call for Cyber Defense, Rumor as the Exploit</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_332.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_332.mp3" length="60751823" type="audio/x-mp3"/>
