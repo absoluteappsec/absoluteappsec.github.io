@@ -787,6 +787,7 @@ sstm@segment.com
 ## Absolute AppSec Ep. #130 - Facebook 'Breach', Data Privacy
 * https://segment.com/blog/redefining-threat-modeling/
 * https://haveibeenpwned.com/
+* https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 * https://www.npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users
 * https://www.youtube.com/watch?v=0pLdsLUYHzI
 
