@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 334 - w/ Ryan Lloyd - Mobile Application Security</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_334.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_334.mp3" length="63017423" type="audio/x-mp3"/>
+        <pubDate>Tue, 15 Sept 2026 11:00:00 -0700</pubDate>
+        <description>In episode 334 of Absolute AppSec, hosts Ken Johnson and Seth Law interview Ryan Lloyd, Chief Product Officer at GuardSquare, to explore mobile application security and product management strategy. Lloyd details GuardSquare's evolution from the open-source Java optimizer ProGuard—which introduced basic name obfuscation—into a commercial suite offering multi-layered code hardening, control flow flattening, encryption, and automated runtime application self-protection (RASP) to detect dynamic tampering, hooking tools like Frida, and rooted devices. The discussion examines the product strategy behind balancing customer feature requests against core security engineering, emphasizing evidence-based decision-making over opinion. Addressing the broader mobile threat landscape, Lloyd highlights how attack vectors have expanded beyond financial services into retail, delivery, and loyalty apps, where attackers manipulate business logic or exploit open platform APIs like Android accessibility services for account takeovers. To track emerging threats, GuardSquare's research arm monitors reverse-engineering forums, academic compiler research, and dark web channels. Finally, the conversation evaluates how automated AI tools accelerate the velocity of reverse engineering and vulnerability discovery, underscoring that mobile security defenses must continually evolve to increase the time and cost required for attackers to tamper with client-side applications. Episode sponsored by GuardSquare (guardsquare.com).</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 333 - LLM Patching Flaws, AI Code Regressions, Bug Bounty Economy</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_333.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_333.mp3" length="60489935" type="audio/x-mp3"/>
