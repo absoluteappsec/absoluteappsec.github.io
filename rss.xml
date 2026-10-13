@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 336 - Hardware Image Signing, Bot Reduction, AI Code Insecurities</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_336.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_336.mp3" length="69541199" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Oct 2026 11:00:00 -0700</pubDate>
+        <description>In Absolute AppSec Episode 336, the hosts explore hardware-level image signing, bot traffic anomalies, cross-site scripting (XSS) developments, and AI-driven code quality challenges. The episode opens with an analysis of Apple's C2PA hardware-level cryptographic signing for photos, evaluating how hardware-based provenance signatures on image pixels and EXIF metadata offer an effective "allow-list" defense against AI-generated media and deepfakes. Turning to global network security, the hosts discuss the drone strikes on Yandex data centers and subsequent Cloudflare data showing that automated bot requests dropped from over 88% down to under 1% of network activity, highlighting how infrastructure disruptions impact automated botnets. The technical commentary covers PortSwigger's updated XSS cheat sheet, exploring how evolving browser behaviors continue to yield new sanitization bypasses, while noting that AI code generators frequently reintroduce long-patched, legacy vulnerability classes like path traversal. Finally, the episode critiques the hype surrounding AI coding models like GLM-5.3, arguing that despite claims of total automation, developers face increasing friction debugging low-quality LLM code outputs. The hosts conclude that the AppSec industry must transition away from acting as mere "bug janitors" managing tool alerts and instead focus on proactive, architectural risk reduction. Sponsored by Guardsquare (guardsquare.com)</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 335 - w/ Ron Perris - Secure Coding with AI</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_335.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_335.mp3" length="73396943" type="audio/x-mp3"/>
