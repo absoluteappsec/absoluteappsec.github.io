@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 337 - w/Coffee, Chaos, and ProdSec - AI Guardrails, Risk Prioritization Shift</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_337.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_337.mp3" length="71111759" type="audio/x-mp3"/>
+        <pubDate>Tue, 20 Oct 2026 11:00:00 -0700</pubDate>
+        <description>In episode 337, the hosts reconvene for their quarterly crossover discussion with Kurt and Cameron from the Coffee, Chaos, and ProdSec podcast to analyze the current state of software security, AI guardrail limitations, and operational risk management. The technical commentary evaluates the practical limits of AI sandboxing, highlighting Anthropic’s acknowledgments regarding the challenges of enforcing strict guardrails around autonomous agents and LLMs. The panel critiques the industry's historical reliance on "bigger number better" vulnerability detection metrics, arguing that security teams must move away from serving as "bug janitors" inundated with false positives from static and dynamic scanners. Instead, the discussion advocates for prioritizing remediation based on actual business risk, leveraging automated threat modeling, and integrating hyper-efficient, token-aware AI security skills into developer workflows. Additionally, the hosts address the operational friction caused by frontier lab guardrails falsely flagging legitimate security assessments, pushing teams toward local open-weight models for threat analysis. Finally, the episode examines AWS infrastructure reliability issues and how automated supply chain campaigns target GitHub Actions, concluding that security practitioners must focus on systemic risk reduction rather than firefighting individual bugs. Sponsored by Guardsquare (guardsquare.com)</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 336 - Hardware Image Signing, Bot Reduction, AI Code Insecurities</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_336.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_336.mp3" length="69541199" type="audio/x-mp3"/>
