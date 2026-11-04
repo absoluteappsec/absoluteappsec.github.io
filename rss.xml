@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 338 - w/ Kiston Finney  and John Snow - AI Restrictions, Asset Management</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_338.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_338.mp3" length="56911439" type="audio/x-mp3"/>
+        <pubDate>Tue, 04 Nov 2026 11:00:00 -0700</pubDate>
+        <description>While Ken is out of the office, Seth is joined by Kiston Finney (Chief Risk Officer at Atreides Partners) and John Snow (Managing Director of Enterprise Cloud Architecture at Manifest MedEx) to discuss vulnerability management, AI guardrails, and enterprise infrastructure challenges. The panel explores the operational strain of high-volume, critical vulnerability disclosures across widespread dependencies like PHP, Node.js, and SSL, emphasizing that organizations must maintain accurate asset inventories and conduct business impact analyses rather than relying on delayed vendor advisories. The conversation examines Anthropic’s restrictions on using Claude Code for reverse-engineering software and video games, debating whether such guardrails genuinely curb IP theft or merely function as performative marketing theater while restricting legitimate legacy software maintenance, security research, and "right to repair" efforts. The guests also analyze the broader socioeconomic and political impact of AI, highlighting grassroots community pushback against rapid data center expansion over water and electrical grid consumption, which influenced recent local midterm elections. Finally, the discussion evaluates soaring hardware costs, cloud capacity shortages, and memory supply constraints, concluding that resource limitations will push organizations away from centralized frontier models toward localized, efficient compute models and streamlined custom code architectures. Sponsored by Guardsquare (guardsquare.com)</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 337 - w/Coffee, Chaos, and ProdSec - AI Guardrails, Risk Prioritization Shift</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_337.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_337.mp3" length="71111759" type="audio/x-mp3"/>
