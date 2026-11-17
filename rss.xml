@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode 339 - w/ Stefan Edwards (@lojikil) - Formal Specification/Verification</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_339.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_339.mp3" length="75829967" type="audio/x-mp3"/>
+        <pubDate>Tue, 17 Nov 2026 11:00:00 -0700</pubDate>
+        <description>In episode 339, host Seth Law and guest co-host Stefan Edwards (@lojikil) examine formal verification, LLM-assisted proofs, and operational security failures. The discussion opens with recent critical incidents, including "PHP2Shell," unpatched Node/Brotli vulnerabilities, and Certificate Authority operational failures that revoked root certificates, underscoring how cryptographic key handling and operational execution often fail even when underlying algorithms are sound. Transitioning to formal methods, Edwards breaks down the distinction between formal specification (defining exact program behavior via preconditions, invariants, and postconditions) and formal verification (mathematically proving code adheres to those specifications using languages like Lean, Ada/SPARK, or TLA+). Evaluating Anthropic's research on LLM-driven formal verification and Datadog's runtime TLA+ invariant checks, they note that while LLMs can accelerate code body generation and proof exploration, human domain expertise remains essential to prevent "specification drift" and ensure proofs reflect actual business intent. Finally, the episode explores how restricted-semantic languages and stripping away unnecessary standard library functionality can reduce attack surfaces, alongside the growing imbalance where AI-driven vulnerability scanners overwhelm under-resourced open-source maintainers with unpatched flaws. Sponsored by Guardsquare (guardsquare.com)</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 338 - w/ Kiston Finney  and John Snow - AI Restrictions, Asset Management</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_338.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_338.mp3" length="56911439" type="audio/x-mp3"/>
