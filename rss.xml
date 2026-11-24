@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>340 - Return of The Sick, OffSec Harnesses, Holistic Risk Management</title>
+        <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_340.mp3</link>
+        <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_340.mp3" length="61747535" type="audio/x-mp3"/>
+        <pubDate>Tue, 24 Nov 2026 11:00:00 -0700</pubDate>
+        <description>In episode 340 of Absolute AppSec, the hosts examine the weaponization of open-source AI red-teaming tools, vulnerability prioritization, and the evolving role of security practitioners. The discussion opens with an FBI alert regarding threat actors utilizing the open-source offensive agent framework "Artex" in the wild, which Cloudflare noted accounted for 60% of observed AI penetration-testing traffic, demonstrating how attackers chain autonomous, low-cost models to exploit networks. Evaluating the ongoing "vulnpocalypse," including recent Brotli-related vulnerabilities, the hosts highlight how blue teams are burning out from high-volume alerts and declining five-nines availability standards. To escape acting as "scanner managers" or "bug janitors," they advocate for shifting away from individual bug triage toward holistic risk reduction using frameworks like OWASP SAMM, runtime validation, and multi-tiered threat modeling. The episode also explores the emergence of "custom source" software factories—where AI generates stripped-down, purpose-built runtimes against formal specifications—and critiques the ethical imbalance of frontier AI labs flooding under-resourced open-source maintainers with AI-discovered CVEs under strict disclosure deadlines without providing patches or funding. Sponsored by Guardsquare (guardsquare.com)</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Episode 339 - w/ Stefan Edwards (@lojikil) - Formal Specification/Verification</title>
         <link>https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_339.mp3</link>
         <enclosure url="https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_339.mp3" length="75829967" type="audio/x-mp3"/>
